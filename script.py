@@ -39,7 +39,7 @@ def get_traffic_info():
 
     try:
         response = requests.get(url)
-        response.raise_for_status()  # Raise an HTTPError for bad responses
+        response.raise_for_status()  
         json_data = response.json()
         return json_data
     except requests.exceptions.RequestException as e:
@@ -59,10 +59,7 @@ def export_to_csv(traffic_incidents, csv_filename=None):
         fieldnames = ['codEle', 'alias', 'provincia'] + [key for key in traffic_incidents[0].__dict__ if key not in ['codEle', 'alias', 'provincia']]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         
-        # Write header
         writer.writeheader()
-
-        # Write data
         for incident in traffic_incidents:
             writer.writerow(incident.__dict__)
 
