@@ -2,7 +2,7 @@ name: Traffic Scraper
 
 on:
   schedule:
-    - cron: "*/20 * * * *" # Run every 20 minutes
+    - cron: "*/20 * * * *"
 
 jobs:
   run-script:
@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt  # If you have any additional requirements
+          pip install -r requirements.txt
 
       - name: Run Python script
-        run: python path/to/your/script.py
+        run: python script.py
