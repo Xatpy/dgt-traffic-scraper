@@ -1,4 +1,4 @@
-name: Traffic Scraper
+name: Traffic Scraper live
 
 on:
   schedule:
@@ -9,13 +9,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - name: setup python
-        uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          python-version: "3.9" # install the python version needed
+          python-version: 3.8
 
       - name: Install dependencies
         run: |
