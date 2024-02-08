@@ -1,4 +1,4 @@
-name: Traffic Scraper live
+name: Traffic Scraper
 
 on:
   schedule:
