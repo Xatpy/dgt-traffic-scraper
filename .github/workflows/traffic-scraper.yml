@@ -1,4 +1,4 @@
-name: Traffic Scraper
+name: Traffic Scraper cronjob
 
 on:
   schedule:
@@ -27,13 +27,7 @@ jobs:
       - name: Run Python script
         run: python script.py
 
-      - name: Check if there are any changes
-        id: verify_diff
-        run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-
       - name: Commit and push changes
-        if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
