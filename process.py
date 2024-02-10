@@ -3,7 +3,6 @@ import csv
 import json
 from datetime import datetime
 
-# Function to parse the file name and extract date and time information
 def parse_file_name(file_name):
     parts = file_name.split('_')
     date_str, time_str = parts[0], parts[1]
@@ -11,23 +10,18 @@ def parse_file_name(file_name):
     date_time = datetime.strptime(date_time_str, '%Y%m%d_%H%M')
     return date_time
 
-# Function to parse the CSV content and extract desired columns
 def parse_csv_content(content):
-    # Assuming your CSV has columns 'column1', 'column2', and 'column3'
-    # Modify this based on your actual column names
     desired_columns = ['codEle', 'alias', 'provincia', 'poblacion']
     
     parsed_data = []
     reader = csv.DictReader(content.splitlines())
     
     for row in reader:
-        # Extract only the desired columns from the row
         parsed_row = {col: row[col] for col in desired_columns}
         parsed_data.append(parsed_row)
     
     return parsed_data
 
-# Function to read the content of a file and store it in the data structure
 def read_and_store_content(file_path, data_structure):
     with open(file_path, 'r') as file:
         content = file.read()
@@ -47,7 +41,6 @@ def read_and_store_content(file_path, data_structure):
     data_structure[date_key][hour_key].extend(parsed_data)
 
 
-# Main function to process the files and build the data structure
 def process_files(directory_path):
     data_structure = {}
 
@@ -66,14 +59,10 @@ directory_path = os.path.join(script_dir, relative_directory_path)
 
 result_data_structure = process_files(directory_path)
 
-# Write result_data_structure to a JSON file
 json_output_file = 'out/processed/processed_data.json'
-
-# Sort keys alphabetically in the JSON output
 json_output = json.dumps(result_data_structure, indent=2, sort_keys=True)
 
 with open(json_output_file, 'w') as json_file:
     json_file.write(json_output)
 
-# Print the result_data_structure
 print(result_data_structure)
