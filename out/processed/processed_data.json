@@ -16026,6 +16026,78 @@
     ],
     "17": [
       {
+        "alias": "EVENTOS / N-332 (51.0 - 49.0)",
+        "codEle": "11235922",
+        "poblacion": "ORIHUELA COSTA",
+        "provincia": "ALICANTE/ALACANT"
+      },
+      {
+        "alias": "EVENTOS / EX-105 (112.0 - 112.0)",
+        "codEle": "11232200",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-435 (34.0 - 34.0)",
+        "codEle": "11231897",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-205 (14.0 - 14.0)",
+        "codEle": "11234963",
+        "poblacion": "VALVERDE DEL FRESNO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (98.0 - 98.5)",
+        "codEle": "11232849",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-108 (52.0 - 53.5)",
+        "codEle": "11233924",
+        "poblacion": "PLASENCIA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (93.0 - 93.0)",
+        "codEle": "11234971",
+        "poblacion": "CASAS DE DON GOMEZ",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-109 (60.2 - 60.3)",
+        "codEle": "11232573",
+        "poblacion": "ACEBO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / N-630 (479.0 - 478.9)",
+        "codEle": "11233850",
+        "poblacion": "PRADOCHANO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-7 (953.15 - 953.15)",
+        "codEle": "11235953",
+        "poblacion": "TORRE DEL MAR",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7282 (8.0 - 8.0)",
+        "codEle": "11233787",
+        "poblacion": "ANTEQUERA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (19.8 - 19.87)",
+        "codEle": "11234570",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
+      },
+      {
         "alias": "EVENTOS / N-435 (34.0 - 34.0)",
         "codEle": "11231897",
         "poblacion": "ALMENDRAL",
@@ -16095,6 +16167,98 @@
         "alias": "EVENTOS / A-384 (98.63 - 98.63)",
         "codEle": "11235206",
         "poblacion": "TEBA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (19.8 - 19.87)",
+        "codEle": "11234570",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / N-332 (51.0 - 49.0)",
+        "codEle": "11235922",
+        "poblacion": "ORIHUELA COSTA",
+        "provincia": "ALICANTE/ALACANT"
+      },
+      {
+        "alias": "EVENTOS / EX-109 (60.2 - 60.3)",
+        "codEle": "11232573",
+        "poblacion": "ACEBO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-205 (14.0 - 14.0)",
+        "codEle": "11234963",
+        "poblacion": "VALVERDE DEL FRESNO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-108 (52.0 - 53.5)",
+        "codEle": "11233924",
+        "poblacion": "PLASENCIA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / N-630 (479.0 - 478.9)",
+        "codEle": "11233850",
+        "poblacion": "PRADOCHANO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (98.0 - 98.5)",
+        "codEle": "11232849",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (93.0 - 93.0)",
+        "codEle": "11234971",
+        "poblacion": "CASAS DE DON GOMEZ",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-45 (102.19 - 101.89)",
+        "codEle": "11236066",
+        "poblacion": "NOGALES (LOS)",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7282 (8.0 - 8.0)",
+        "codEle": "11236065",
+        "poblacion": "ANTEQUERA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (953.15 - 953.15)",
+        "codEle": "11235974",
+        "poblacion": "TORRE DEL MAR",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (19.8 - 19.87)",
+        "codEle": "11234570",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
+      }
+    ],
+    "18": [
+      {
+        "alias": "EVENTOS / N-332 (51.0 - 49.0)",
+        "codEle": "11235922",
+        "poblacion": "ORIHUELA COSTA",
+        "provincia": "ALICANTE/ALACANT"
+      },
+      {
+        "alias": "EVENTOS / A-45 (102.19 - 101.89)",
+        "codEle": "11236066",
+        "poblacion": "NOGALES (LOS)",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7282 (8.0 - 8.0)",
+        "codEle": "11236065",
+        "poblacion": "ANTEQUERA",
         "provincia": "M\u00c1LAGA"
       },
       {
