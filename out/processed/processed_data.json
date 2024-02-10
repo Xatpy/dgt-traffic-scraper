@@ -14184,6 +14184,386 @@
         "codEle": "11233725",
         "poblacion": "CALATAYUD",
         "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / EX-363 (9.5 - 9.5)",
+        "codEle": "11231894",
+        "poblacion": "ALVARADO - LA RISCA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-432 (31.0 - 31.0)",
+        "codEle": "11232030",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (62.9 - 62.9)",
+        "codEle": "11232881",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-105 (127.5 - 127.5)",
+        "codEle": "11232594",
+        "poblacion": "VALVERDE DE LEGANES",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-435 (34.0 - 34.0)",
+        "codEle": "11231897",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-105 (112.0 - 112.0)",
+        "codEle": "11232200",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-109 (60.2 - 60.3)",
+        "codEle": "11232573",
+        "poblacion": "ACEBO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (98.0 - 98.5)",
+        "codEle": "11232849",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-206 (48.7 - 48.75)",
+        "codEle": "11233886",
+        "poblacion": "ALMOHARIN",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / N-630 (479.0 - 478.9)",
+        "codEle": "11233850",
+        "poblacion": "PRADOCHANO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-109 (46.0 - 46.0)",
+        "codEle": "11232863",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-108 (52.0 - 53.5)",
+        "codEle": "11233924",
+        "poblacion": "PLASENCIA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-4 (441.0 - 441.0)",
+        "codEle": "11233133",
+        "poblacion": "ALGARBES (LOS)",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / A-308 (34.0 - 34.0)",
+        "codEle": "11232875",
+        "poblacion": "DARRO",
+        "provincia": "GRANADA"
+      },
+      {
+        "alias": "EVENTOS / A-330 (3.0 - 3.0)",
+        "codEle": "11232893",
+        "poblacion": "CULLAR",
+        "provincia": "GRANADA"
+      },
+      {
+        "alias": "EVENTOS / A-92 (199.5 - 199.5)",
+        "codEle": "11232595",
+        "poblacion": "CALARDOS",
+        "provincia": "GRANADA"
+      },
+      {
+        "alias": "EVENTOS / A-92N (60.0 - 60.0)",
+        "codEle": "11233721",
+        "poblacion": "VENTA DEL PERAL",
+        "provincia": "GRANADA"
+      },
+      {
+        "alias": "EVENTOS / CM-101 (20.0 - 20.0)",
+        "codEle": "11234000",
+        "poblacion": "HUMANES",
+        "provincia": "GUADALAJARA"
+      },
+      {
+        "alias": "EVENTOS / RM-19 (13.4 - 13.4)",
+        "codEle": "11233892",
+        "poblacion": "BALSICAS",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (953.0 - 953.29)",
+        "codEle": "11234017",
+        "poblacion": "TORRE DEL MAR",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-45 (86.5 - 86.5)",
+        "codEle": "11233127",
+        "poblacion": "CARTAOJAL",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-45 (93.13 - 86.5)",
+        "codEle": "11233128",
+        "poblacion": "NOGALES (LOS)",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7282 (8.0 - 8.0)",
+        "codEle": "11233787",
+        "poblacion": "ANTEQUERA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (953.0 - 953.0)",
+        "codEle": "11234016",
+        "poblacion": "TORRE DEL MAR",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (424.0 - 424.0)",
+        "codEle": "11232428",
+        "poblacion": "ESTACION (LA)",
+        "provincia": "RIOJA, LA"
+      },
+      {
+        "alias": "EVENTOS / A-406 (45.5 - 45.0)",
+        "codEle": "11231863",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / AP-4 (26.5 - 26.5)",
+        "codEle": "11233854",
+        "poblacion": "PALACIOS Y VILLAFRANCA (LOS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (20.0 - 19.7)",
+        "codEle": "11231919",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-471R1 (16.0 - 16.0)",
+        "codEle": "11231978",
+        "poblacion": "CABEZAS DE SAN JUAN (LAS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / N-4 (571.0 - 571.0)",
+        "codEle": "11232841",
+        "poblacion": "PALACIOS Y VILLAFRANCA (LOS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / AP-4 (45.7 - 45.7)",
+        "codEle": "11234141",
+        "poblacion": "CABEZAS DE SAN JUAN (LAS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (233.0 - 233.0)",
+        "codEle": "11233725",
+        "poblacion": "CALATAYUD",
+        "provincia": "ZARAGOZA"
+      }
+    ],
+    "13": [
+      {
+        "alias": "EVENTOS / EX-363 (9.5 - 9.5)",
+        "codEle": "11231894",
+        "poblacion": "ALVARADO - LA RISCA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-432 (31.0 - 31.0)",
+        "codEle": "11232030",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-105 (127.5 - 127.5)",
+        "codEle": "11232594",
+        "poblacion": "VALVERDE DE LEGANES",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-105 (112.0 - 112.0)",
+        "codEle": "11232200",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-435 (34.0 - 34.0)",
+        "codEle": "11231897",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (62.9 - 62.9)",
+        "codEle": "11232881",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-206 (48.7 - 48.75)",
+        "codEle": "11233886",
+        "poblacion": "ALMOHARIN",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-109 (60.2 - 60.3)",
+        "codEle": "11232573",
+        "poblacion": "ACEBO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / N-630 (479.0 - 478.9)",
+        "codEle": "11233850",
+        "poblacion": "PRADOCHANO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (98.0 - 98.5)",
+        "codEle": "11232849",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-108 (52.0 - 53.5)",
+        "codEle": "11233924",
+        "poblacion": "PLASENCIA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-109 (46.0 - 46.0)",
+        "codEle": "11232863",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-4 (441.0 - 441.0)",
+        "codEle": "11233133",
+        "poblacion": "ALGARBES (LOS)",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / A-308 (34.0 - 34.0)",
+        "codEle": "11232875",
+        "poblacion": "DARRO",
+        "provincia": "GRANADA"
+      },
+      {
+        "alias": "EVENTOS / A-330 (3.0 - 3.0)",
+        "codEle": "11232893",
+        "poblacion": "CULLAR",
+        "provincia": "GRANADA"
+      },
+      {
+        "alias": "EVENTOS / A-92N (60.0 - 60.0)",
+        "codEle": "11233721",
+        "poblacion": "VENTA DEL PERAL",
+        "provincia": "GRANADA"
+      },
+      {
+        "alias": "EVENTOS / A-92 (199.5 - 199.5)",
+        "codEle": "11232595",
+        "poblacion": "CALARDOS",
+        "provincia": "GRANADA"
+      },
+      {
+        "alias": "EVENTOS / CM-101 (20.0 - 20.0)",
+        "codEle": "11234000",
+        "poblacion": "HUMANES",
+        "provincia": "GUADALAJARA"
+      },
+      {
+        "alias": "EVENTOS / RM-19 (13.4 - 13.4)",
+        "codEle": "11234327",
+        "poblacion": "BALSICAS",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (953.0 - 953.29)",
+        "codEle": "11234165",
+        "poblacion": "TORRE DEL MAR",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (953.38 - 953.24)",
+        "codEle": "11234166",
+        "poblacion": "VELEZ-MALAGA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (953.0 - 953.0)",
+        "codEle": "11234109",
+        "poblacion": "TORRE DEL MAR",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7282 (8.0 - 8.0)",
+        "codEle": "11233787",
+        "poblacion": "ANTEQUERA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (424.0 - 424.0)",
+        "codEle": "11232428",
+        "poblacion": "ESTACION (LA)",
+        "provincia": "RIOJA, LA"
+      },
+      {
+        "alias": "EVENTOS / AP-4 (26.5 - 26.5)",
+        "codEle": "11233854",
+        "poblacion": "PALACIOS Y VILLAFRANCA (LOS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-406 (45.5 - 45.0)",
+        "codEle": "11231863",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (20.0 - 19.7)",
+        "codEle": "11231919",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-471R1 (16.0 - 16.0)",
+        "codEle": "11231978",
+        "poblacion": "CABEZAS DE SAN JUAN (LAS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / N-4 (571.0 - 571.0)",
+        "codEle": "11232841",
+        "poblacion": "PALACIOS Y VILLAFRANCA (LOS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / AP-4 (45.7 - 45.7)",
+        "codEle": "11234314",
+        "poblacion": "CABEZAS DE SAN JUAN (LAS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (233.0 - 233.0)",
+        "codEle": "11233725",
+        "poblacion": "CALATAYUD",
+        "provincia": "ZARAGOZA"
       }
     ]
   }
