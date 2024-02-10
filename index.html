@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JSON Data Viewer</title>
+    <style>
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 20px;
+      }
+
+      th,
+      td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+      }
+
+      th {
+        background-color: #f2f2f2;
+      }
+    </style>
+  </head>
+  <body>
+    <table id="dataTable">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Hour</th>
+          <th>Alias</th>
+          <th>CodEle</th>
+          <th>Poblacion</th>
+          <th>Provincia</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function () {
+          if (xhr.readyState === 4) {
+            if (xhr.status === 200) {
+              var data = JSON.parse(xhr.responseText);
+              renderData(data);
+            } else {
+              console.error("Failed to load JSON data");
+            }
+          }
+        };
+        xhr.open("GET", "./out/processed/processed_data.json", true);
+        xhr.send();
+
+        function renderData(data) {
+          var tableBody = document.querySelector("#dataTable tbody");
+
+          for (var date in data) {
+            if (data.hasOwnProperty(date)) {
+              for (var hour in data[date]) {
+                if (data[date].hasOwnProperty(hour)) {
+                  for (var i = 0; i < data[date][hour].length; i++) {
+                    var row = document.createElement("tr");
+
+                    var cellDate = document.createElement("td");
+                    cellDate.textContent = date;
+                    row.appendChild(cellDate);
+
+                    var cellHour = document.createElement("td");
+                    cellHour.textContent = hour;
+                    row.appendChild(cellHour);
+
+                    var cellAlias = document.createElement("td");
+                    cellAlias.textContent = data[date][hour][i].alias;
+                    row.appendChild(cellAlias);
+
+                    var cellCodEle = document.createElement("td");
+                    cellCodEle.textContent = data[date][hour][i].codEle;
+                    row.appendChild(cellCodEle);
+
+                    var cellPoblacion = document.createElement("td");
+                    cellPoblacion.textContent = data[date][hour][i].poblacion;
+                    row.appendChild(cellPoblacion);
+
+                    var cellProvincia = document.createElement("td");
+                    cellProvincia.textContent = data[date][hour][i].provincia;
+                    row.appendChild(cellProvincia);
+
+                    tableBody.appendChild(row);
+                  }
+                }
+              }
+            }
+          }
+        }
+      });
+    </script>
+  </body>
+</html>
