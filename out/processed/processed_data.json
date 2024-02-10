@@ -15926,6 +15926,182 @@
         "codEle": "11235136",
         "poblacion": "ALCA\u00d1IZ",
         "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / N-435 (34.0 - 34.0)",
+        "codEle": "11231897",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-105 (112.0 - 112.0)",
+        "codEle": "11232200",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (98.0 - 98.5)",
+        "codEle": "11232849",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-109 (60.2 - 60.3)",
+        "codEle": "11232573",
+        "poblacion": "ACEBO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-108 (52.0 - 53.5)",
+        "codEle": "11233924",
+        "poblacion": "PLASENCIA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (93.0 - 93.0)",
+        "codEle": "11234971",
+        "poblacion": "CASAS DE DON GOMEZ",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / N-630 (479.0 - 478.9)",
+        "codEle": "11233850",
+        "poblacion": "PRADOCHANO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-205 (14.0 - 14.0)",
+        "codEle": "11234963",
+        "poblacion": "VALVERDE DEL FRESNO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-7 (953.0 - 953.15)",
+        "codEle": "11235811",
+        "poblacion": "TORRE DEL MAR",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-384 (98.63 - 98.63)",
+        "codEle": "11235206",
+        "poblacion": "TEBA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7282 (8.0 - 8.0)",
+        "codEle": "11233787",
+        "poblacion": "ANTEQUERA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (953.15 - 953.15)",
+        "codEle": "11235708",
+        "poblacion": "TORRE DEL MAR",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-406 (31.4 - 31.32)",
+        "codEle": "11234461",
+        "poblacion": "VILLANUEVA DE SAN JUAN",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-363 (13.86 - 13.79)",
+        "codEle": "11234502",
+        "poblacion": "PRUNA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (19.8 - 19.87)",
+        "codEle": "11234570",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / SE-9223 (1.5 - 1.52)",
+        "codEle": "11234472",
+        "poblacion": "ALGAMITAS",
+        "provincia": "SEVILLA"
+      }
+    ],
+    "17": [
+      {
+        "alias": "EVENTOS / N-435 (34.0 - 34.0)",
+        "codEle": "11231897",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-105 (112.0 - 112.0)",
+        "codEle": "11232200",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-109 (60.2 - 60.3)",
+        "codEle": "11232573",
+        "poblacion": "ACEBO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-205 (14.0 - 14.0)",
+        "codEle": "11234963",
+        "poblacion": "VALVERDE DEL FRESNO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (93.0 - 93.0)",
+        "codEle": "11234971",
+        "poblacion": "CASAS DE DON GOMEZ",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (98.0 - 98.5)",
+        "codEle": "11232849",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / N-630 (479.0 - 478.9)",
+        "codEle": "11233850",
+        "poblacion": "PRADOCHANO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-108 (52.0 - 53.5)",
+        "codEle": "11233924",
+        "poblacion": "PLASENCIA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-7 (953.0 - 953.15)",
+        "codEle": "11235811",
+        "poblacion": "TORRE DEL MAR",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (953.15 - 953.15)",
+        "codEle": "11235708",
+        "poblacion": "TORRE DEL MAR",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7282 (8.0 - 8.0)",
+        "codEle": "11233787",
+        "poblacion": "ANTEQUERA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-384 (98.63 - 98.63)",
+        "codEle": "11235206",
+        "poblacion": "TEBA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (19.8 - 19.87)",
+        "codEle": "11234570",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
       }
     ]
   }
