@@ -67,7 +67,7 @@ directory_path = os.path.join(script_dir, relative_directory_path)
 result_data_structure = process_files(directory_path)
 
 # Write result_data_structure to a JSON file
-json_output_file = 'out/processed_data.json'
+json_output_file = 'out/processed/processed_data.json'
 
 # Sort keys alphabetically in the JSON output
 json_output = json.dumps(result_data_structure, indent=2, sort_keys=True)
