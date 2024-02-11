@@ -53,7 +53,7 @@ def export_to_csv(traffic_incidents, csv_filename=None):
 
     if csv_filename is None:
         current_datetime = datetime.now().strftime("%Y%m%d_%H%M")
-        csv_filename = f"out/{current_datetime}_traffic_incidents.csv"
+        csv_filename = f"out/all/{current_datetime}_traffic_incidents.csv"
 
     with open(csv_filename, 'w', newline='') as csvfile:
         fieldnames = ['codEle', 'alias', 'provincia'] + [key for key in traffic_incidents[0].__dict__ if key not in ['codEle', 'alias', 'provincia']]
