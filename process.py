@@ -69,7 +69,6 @@ def process_files(directory_path):
 
     for file_name in os.listdir(directory_path):
         file_path = os.path.join(directory_path, file_name)
-        
         if os.path.isfile(file_path) and file_name.endswith('_traffic_incidents.csv'):
             read_and_store_content(file_path, data_structure)
 
