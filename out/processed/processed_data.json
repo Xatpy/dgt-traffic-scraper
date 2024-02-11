@@ -16543,6 +16543,30 @@
       },
       {
         "alias": "EVENTOS / AP-4 (44.87 - 45.21)",
+        "codEle": "11238651",
+        "poblacion": "VETAHERRADO",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (181.0 - 181.0)",
+        "codEle": "11238377",
+        "poblacion": "POYO DEL CID (EL)",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / A-471R1 (16.04 - 16.0)",
+        "codEle": "11237991",
+        "poblacion": "VETAHERRADO",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (19.8 - 19.88)",
+        "codEle": "11237637",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / AP-4 (44.87 - 45.21)",
         "codEle": "11238464",
         "poblacion": "VETAHERRADO",
         "provincia": "SEVILLA"
