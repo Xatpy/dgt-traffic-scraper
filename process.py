@@ -58,8 +58,10 @@ def read_and_store_content_graphext(file_path, data_structure_graphext):
 
     parsed_data_graphext = parse_csv_content_graphext(content)
 
-    # Filter out elements from the new list that are already present in the original list
-    filtered_new_list = [item for item in parsed_data_graphext if item['codEle'] not in {obj['codEle'] for obj in data_structure_graphext}]
+    filtered_new_list = [
+        item for item in parsed_data_graphext
+        if (item['codEle'], item['fecha']) not in {(obj['codEle'], obj['fecha']) for obj in data_structure_graphext}
+    ]
 
     data_structure_graphext.extend(filtered_new_list)
 
