@@ -1,7 +1,8 @@
 import os
 import csv
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
+
 
 def parse_file_name(file_name):
     parts = file_name.split('_')
@@ -9,6 +10,22 @@ def parse_file_name(file_name):
     date_time_str = f"{date_str}_{time_str}"
     date_time = datetime.strptime(date_time_str, '%Y%m%d_%H%M')
     return date_time
+
+
+def convert_date_format(input_date):
+    parsed_date = datetime.strptime(input_date, "%d/%m/%Y - %H:%M")
+
+    # Set the time zone offset for Madrid (CET/CEST)
+    timezone_offset = timedelta(hours=1)
+
+    parsed_date_with_offset = parsed_date - timezone_offset
+    offset_seconds = timezone_offset.total_seconds()
+    offset_sign = '+' if offset_seconds >= 0 else '-'
+    offset_hours = int(offset_seconds // 3600)
+    formatted_date = parsed_date_with_offset.strftime(f"%Y-%m-%dT%H:%M:%S{offset_sign}{offset_hours:02d}:00")
+
+    return formatted_date
+
 
 def parse_csv_content(content):
     desired_columns = ['codEle', 'alias', 'provincia', 'poblacion']
@@ -30,7 +47,8 @@ def parse_csv_content_graphext(content):
     
     for row in reader:
         parsed_row = {col: row[col] for col in desired_columns}
-        parsed_row["_date"] = f"{parsed_row['fecha']} - {parsed_row['hora']}"
+        dateToConvert = f"{parsed_row['fecha']} - {parsed_row['hora']}"
+        parsed_row["_date"] = convert_date_format(dateToConvert)
         parsed_data.append(parsed_row)
     
     return parsed_data
