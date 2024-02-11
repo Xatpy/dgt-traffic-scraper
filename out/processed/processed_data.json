@@ -17415,6 +17415,14 @@
         "poblacion": "LECI\u00d1ENA",
         "provincia": "ZARAGOZA"
       }
+    ],
+    "22": [
+      {
+        "alias": "EVENTOS / N-2 (773.0 - 772.5)",
+        "codEle": "11242452",
+        "poblacion": "CANADAL",
+        "provincia": "GIRONA"
+      }
     ]
   }
 }

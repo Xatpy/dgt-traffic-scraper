@@ -4956,6 +4956,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-11T21:47:00+01:00",
+    "alias": "EVENTOS / N-2 (773.0 - 772.5)",
+    "autonomia": "Catalu\u00f1a",
+    "carretera": "N-2",
+    "causa": "",
+    "codEle": "11242452",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">N-2 </span> </b> desde el <b> km 773 </b> en <b>CANADAL (GIRONA)</b> al <b> km 772.5</b> en <b>ESTRADA (L') (GIRONA)</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "11/02/2024",
+    "fechaFin": "?",
+    "hora": "22:47",
+    "lat": "42.401943",
+    "lng": "2.8795776",
+    "pkFinal": "772.5",
+    "pkIni": "773",
+    "poblacion": "CANADAL",
+    "provincia": "GIRONA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-11T17:46:00+01:00",
     "alias": "EVENTOS / N-240 (303.0 - 303.0)",
     "autonomia": "Arag\u00f3n",
