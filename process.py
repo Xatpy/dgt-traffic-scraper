@@ -30,6 +30,7 @@ def parse_csv_content_graphext(content):
     
     for row in reader:
         parsed_row = {col: row[col] for col in desired_columns}
+        parsed_row["_date"] = f"{parsed_row['fecha']} - {parsed_row['hora']}"
         parsed_data.append(parsed_row)
     
     return parsed_data
