@@ -17272,6 +17272,80 @@
         "codEle": "11241256",
         "poblacion": "ALMOLDA (LA)",
         "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-230 (65.0 - 65.0)",
+        "codEle": "11240179",
+        "poblacion": "BENABARRE",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (198.0 - 198.0)",
+        "codEle": "11241338",
+        "poblacion": "SIETAMO",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-133 (27.0 - 27.0)",
+        "codEle": "11239886",
+        "poblacion": "ESTADILLA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (303.0 - 303.0)",
+        "codEle": "11241122",
+        "poblacion": "PUENTE LA REINA DE JACA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / N-123 (0.0 - 0.0)",
+        "codEle": "11239808",
+        "poblacion": "BARBASTRO",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-1106 (17.0 - 2.6)",
+        "codEle": "11240760",
+        "poblacion": "LECI\u00d1ENA",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-123 (18.8 - 1.3)",
+        "codEle": "11240759",
+        "poblacion": "SAN MATEO DE GALLEGO",
+        "provincia": "ZARAGOZA"
+      }
+    ],
+    "19": [
+      {
+        "alias": "EVENTOS / N-240 (303.0 - 303.0)",
+        "codEle": "11241122",
+        "poblacion": "PUENTE LA REINA DE JACA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-133 (27.0 - 27.0)",
+        "codEle": "11239886",
+        "poblacion": "ESTADILLA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / N-123 (0.0 - 0.0)",
+        "codEle": "11239808",
+        "poblacion": "BARBASTRO",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-1106 (17.0 - 2.6)",
+        "codEle": "11240760",
+        "poblacion": "LECI\u00d1ENA",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-123 (18.8 - 1.3)",
+        "codEle": "11240759",
+        "poblacion": "SAN MATEO DE GALLEGO",
+        "provincia": "ZARAGOZA"
       }
     ]
   }

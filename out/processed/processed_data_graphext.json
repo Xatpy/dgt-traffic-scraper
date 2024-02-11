@@ -8631,6 +8631,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-11T18:18:00+01:00",
+    "alias": "EVENTOS / N-240 (198.0 - 198.0)",
+    "autonomia": "Arag\u00f3n",
+    "carretera": "N-240",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11241338",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">N-240 </span> </b> en el <b> km 198</b> en <b>SIETAMO (HUESCA)</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "11/02/2024",
+    "fechaFin": "?",
+    "hora": "19:18",
+    "lat": "42.123257",
+    "lng": "-0.2904642",
+    "pkFinal": "198",
+    "pkIni": "198",
+    "poblacion": "SIETAMO",
+    "provincia": "HUESCA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-09T16:27:00+01:00",
     "alias": "EVENTOS / A-4 (450.0 - 450.0)",
     "autonomia": "Andaluc\u00eda",
