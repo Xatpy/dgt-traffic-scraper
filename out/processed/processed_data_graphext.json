@@ -6447,6 +6447,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-11T17:17:00+01:00",
+    "alias": "EVENTOS / A-1106 (17.0 - 2.6)",
+    "autonomia": "Arag\u00f3n",
+    "carretera": "A-1106",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11242077",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-1106 </span> </b> desde el <b> km 17 </b> en <b>LECI\u00d1ENA (ZARAGOZA)</b> al <b> km 2.6</b> en <b>SAN MATEO DE GALLEGO (ZARAGOZA)</b> sentido <b>DECRECIENTE DE LA KILOMETRACI\u00d3N</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CARRIL DERECHO CERRADO</b></span>",
+    "estado": "1",
+    "fecha": "11/02/2024",
+    "fechaFin": "?",
+    "hora": "18:17",
+    "lat": "41.79357",
+    "lng": "-0.6151032",
+    "pkFinal": "2.6",
+    "pkIni": "17",
+    "poblacion": "LECI\u00d1ENA",
+    "provincia": "ZARAGOZA",
+    "sentido": "DECRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-09T19:03:00+01:00",
     "alias": "EVENTOS / A-1 (74.0 - 74.0)",
     "autonomia": "Madrid, Comunidad de",
