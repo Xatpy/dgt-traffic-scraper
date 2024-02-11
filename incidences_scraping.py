@@ -1,6 +1,5 @@
 import requests
 import csv
-from datetime import datetime
 
 class TrafficIncident:
     def __init__(self, **kwargs):
@@ -27,13 +26,15 @@ class TrafficIncident:
         self.icono = kwargs.get('icono')
         self.nivel = kwargs.get('nivel')
         self.precision = kwargs.get('precision')
-        # Add any additional fields here
 
     def __repr__(self):
         return f"TrafficIncident({self.codEle}, {self.alias}, {self.suceso}, {self.autonomia}, {self.provincia}, {self.poblacion}, {self.descripcion}, {self.causa}, {self.tipo}, {self.estado}, {self.carretera}, {self.sentido}, {self.hora}, {self.horaFin}, {self.fecha}, {self.fechaFin}, {self.lng}, {self.lat}, {self.pkIni}, {self.pkFinal}, {self.icono}, {self.nivel}, {self.precision})"
 
     def __eq__(self, other):
-        return isinstance(other, TrafficIncident) and self.__dict__ == other.__dict__
+        if not isinstance(other, TrafficIncident):
+            return False
+
+        return self.codEle == other.codEle
 
     def __hash__(self):
         return hash(tuple(sorted(self.__dict__.items())))
@@ -68,7 +69,7 @@ def export_to_csv(traffic_incidents):
             writer.writeheader()  # Write header only if the file is empty
 
         for incident in traffic_incidents:
-            if incident not in existing_incidents:
+            if not any(inc.codEle == incident.codEle for inc in existing_incidents):
                 writer.writerow(incident.__dict__)
 
 def load_existing_incidents(csv_filename):
@@ -78,6 +79,8 @@ def load_existing_incidents(csv_filename):
         with open(csv_filename, 'r', newline='') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
+                # Convert attributes to the correct data types
+                row = {key: value if value != '' else None for key, value in row.items()}
                 existing_incidents.add(TrafficIncident(**row))
     except FileNotFoundError:
         pass  # File doesn't exist, it's okay to proceed
