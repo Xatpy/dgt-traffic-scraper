@@ -6489,6 +6489,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-11T23:42:00+01:00",
+    "alias": "EVENTOS / A-92M (12.0 - 12.0)",
+    "autonomia": "Andaluc\u00eda",
+    "carretera": "A-92M",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11242668",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-92M </span> </b> en el <b> km 12</b> en <b>VILLANUEVA DEL TRABUCO (M\u00c1LAGA)</b> sentido <b>DECRECIENTE DE LA KILOMETRACI\u00d3N</b> hacia <b>ARBOL EN CALZADA</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CARRIL DERECHO CERRADO</b></span>",
+    "estado": "1",
+    "fecha": "12/02/2024",
+    "fechaFin": "?",
+    "hora": "00:42",
+    "lat": "37.0522",
+    "lng": "-4.3654504",
+    "pkFinal": "12",
+    "pkIni": "12",
+    "poblacion": "VILLANUEVA DEL TRABUCO",
+    "provincia": "M\u00c1LAGA",
+    "sentido": "DECRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-09T19:03:00+01:00",
     "alias": "EVENTOS / A-1 (74.0 - 74.0)",
     "autonomia": "Madrid, Comunidad de",
