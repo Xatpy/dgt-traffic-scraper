@@ -17480,6 +17480,74 @@
         "codEle": "11242866",
         "poblacion": "RONDA",
         "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-30 (191.0 - 191.0)",
+        "codEle": "11243605",
+        "poblacion": "MEDIA LEGUA",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-374 (18.0 - 18.0)",
+        "codEle": "11243541",
+        "poblacion": "RONDA",
+        "provincia": "M\u00c1LAGA"
+      }
+    ],
+    "07": [
+      {
+        "alias": "EVENTOS / EX-328 (4.0 - 4.0)",
+        "codEle": "11244033",
+        "poblacion": "MONTIJO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-523 (48.9 - 48.9)",
+        "codEle": "11243946",
+        "poblacion": "ROCA DE LA SIERRA (LA)",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-109 (23.6 - 23.5)",
+        "codEle": "11244288",
+        "poblacion": "RINCON DEL OBISPO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-109 (46.5 - 46.6)",
+        "codEle": "11244265",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-30 (191.0 - 191.0)",
+        "codEle": "11243605",
+        "poblacion": "MEDIA LEGUA",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (19.8 - 19.88)",
+        "codEle": "11244052",
+        "poblacion": "SAUCEJO (EL)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / SE-9225 (0.15 - 0.38)",
+        "codEle": "11244452",
+        "poblacion": "ALGAMITAS",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / SE-9224 (0.19 - 0.36)",
+        "codEle": "11244453",
+        "poblacion": "ALGAMITAS",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / SE-9223 (1.67 - 1.98)",
+        "codEle": "11244451",
+        "poblacion": "ALGAMITAS",
+        "provincia": "SEVILLA"
       }
     ]
   }
