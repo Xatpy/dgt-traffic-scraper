@@ -59,7 +59,7 @@ def convert_date_format(input_date):
 
 
 def remove_html_tags(input_string):
-    clean_text = re.sub(r'<.*?>', '', input_string)
+    clean_text = re.sub(r'<.*?>', '', input_string, flags=re.MULTILINE)
     clean_text = re.sub(r'\s+', ' ', clean_text)
     return clean_text
 
@@ -84,10 +84,10 @@ def export_to_csv(traffic_incidents):
     csv_filename = f"out/incidences/dgt_incidences.csv"
     existing_incidents = load_existing_incidents(csv_filename)
 
-    with open(csv_filename, 'a', newline='') as csvfile:
+    with open(csv_filename, 'a', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['codEle', 'alias', 'suceso', 'autonomia', 'provincia', 'poblacion', 'descripcion',
                       'causa', 'tipo', 'estado', 'carretera', 'sentido', 'hora', 'horaFin', 'fecha', 'fechaFin',
-                      'lng', 'lat', 'pkIni', 'pkFinal', 'icono', 'nivel', 'precision']
+                      'lng', 'lat', 'pkIni', 'pkFinal', 'icono', 'nivel', 'precision', '_date']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         if len(existing_incidents) == 0:
@@ -104,7 +104,7 @@ def export_to_csv(traffic_incidents):
 def load_existing_incidents(csv_filename):
     existing_incidents = set()
     try:
-        with open(csv_filename, 'r', newline='') as csvfile:
+        with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 # Convert attributes to the correct data types
