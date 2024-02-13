@@ -1,5 +1,7 @@
 import requests
 import csv
+from datetime import datetime, timedelta
+import re
 
 class TrafficIncident:
     def __init__(self, **kwargs):
@@ -26,9 +28,10 @@ class TrafficIncident:
         self.icono = kwargs.get('icono')
         self.nivel = kwargs.get('nivel')
         self.precision = kwargs.get('precision')
+        self._date = kwargs.get('_date')
 
     def __repr__(self):
-        return f"TrafficIncident({self.codEle}, {self.alias}, {self.suceso}, {self.autonomia}, {self.provincia}, {self.poblacion}, {self.descripcion}, {self.causa}, {self.tipo}, {self.estado}, {self.carretera}, {self.sentido}, {self.hora}, {self.horaFin}, {self.fecha}, {self.fechaFin}, {self.lng}, {self.lat}, {self.pkIni}, {self.pkFinal}, {self.icono}, {self.nivel}, {self.precision})"
+        return f"TrafficIncident({self.codEle}, {self.alias}, {self.suceso}, {self.autonomia}, {self.provincia}, {self.poblacion}, {self.descripcion}, {self.causa}, {self.tipo}, {self.estado}, {self.carretera}, {self.sentido}, {self.hora}, {self.horaFin}, {self.fecha}, {self.fechaFin}, {self.lng}, {self.lat}, {self.pkIni}, {self.pkFinal}, {self.icono}, {self.nivel}, {self.precision}, {self._date})"
 
     def __eq__(self, other):
         if not isinstance(other, TrafficIncident):
@@ -38,6 +41,28 @@ class TrafficIncident:
 
     def __hash__(self):
         return hash(tuple(sorted(self.__dict__.items())))
+    
+
+def convert_date_format(input_date):
+    parsed_date = datetime.strptime(input_date, "%d/%m/%Y - %H:%M")
+
+    # Set the time zone offset for Madrid (CET/CEST)
+    timezone_offset = timedelta(hours=1)
+
+    parsed_date_with_offset = parsed_date - timezone_offset
+    offset_seconds = timezone_offset.total_seconds()
+    offset_sign = '+' if offset_seconds >= 0 else '-'
+    offset_hours = int(offset_seconds // 3600)
+    formatted_date = parsed_date_with_offset.strftime(f"%Y-%m-%dT%H:%M:%S{offset_sign}{offset_hours:02d}:00")
+
+    return formatted_date
+
+
+def remove_html_tags(input_string):
+    clean_text = re.sub(r'<.*?>', '', input_string)
+    clean_text = re.sub(r'\s+', ' ', clean_text)
+    return clean_text
+
 
 def get_traffic_info():
     url = "https://infocar.dgt.es/etraffic/BuscarElementos?latNS=44&longNS=5&latSW=27&longSW=-19&zoom=5&accion=getElementos&Camaras=false&SensoresTrafico=false&SensoresMeteorologico=false&Paneles=false&Radares=false&IncidenciasRETENCION=true&IncidenciasOBRAS=true&IncidenciasMETEOROLOGICA=true&IncidenciasPUERTOS=true&IncidenciasOTROS=true&IncidenciasEVENTOS=true&IncidenciasRESTRICCIONES=true&niveles=true&caracter=acontecimiento"
@@ -70,11 +95,14 @@ def export_to_csv(traffic_incidents):
 
         for incident in traffic_incidents:
             if not any(inc.codEle == incident.codEle for inc in existing_incidents):
+                dateToConvert = f"{incident.fecha} - {incident.hora}"
+                incident._date = convert_date_format(dateToConvert)
+                incident.descripcion = remove_html_tags(incident.descripcion)
                 writer.writerow(incident.__dict__)
+
 
 def load_existing_incidents(csv_filename):
     existing_incidents = set()
-
     try:
         with open(csv_filename, 'r', newline='') as csvfile:
             reader = csv.DictReader(csvfile)
@@ -89,7 +117,6 @@ def load_existing_incidents(csv_filename):
 
 if __name__ == "__main__":
     traffic_info = get_traffic_info()
-
     traffic_incidents = [TrafficIncident(**incident) for incident in sorted(traffic_info, key=lambda x: x.get('codEle', ''))]
 
     if len(traffic_incidents) > 0:
