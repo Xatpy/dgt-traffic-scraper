@@ -28670,6 +28670,134 @@
         "codEle": "11263458",
         "poblacion": "TRASPINEDO",
         "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / C-17 (69.0 - 69.5)",
+        "codEle": "11258334",
+        "poblacion": "GLEVA (LA)",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-25 (176.0 - 174.0)",
+        "codEle": "11259190",
+        "poblacion": "VIC",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-17 (60.0 - 57.0)",
+        "codEle": "11258110",
+        "poblacion": "VIC",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-25 (184.0 - 183.0)",
+        "codEle": "11259150",
+        "poblacion": "FOLGUEROLES",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-37 (152.0 - 151.5)",
+        "codEle": "11258882",
+        "poblacion": "MANLLEU",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / N-120 (68.0 - 68.0)",
+        "codEle": "11262514",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (47.0 - 50.0)",
+        "codEle": "11258194",
+        "poblacion": "VILADEMULS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (743.0 - 747.0)",
+        "codEle": "11257598",
+        "poblacion": "ERMEDAS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / C-38 (25.5 - 25.0)",
+        "codEle": "11258697",
+        "poblacion": "GINESTOSA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (139.0 - 139.0)",
+        "codEle": "11258816",
+        "poblacion": "MONZON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-406 (31.0 - 31.0)",
+        "codEle": "11261419",
+        "poblacion": "VILLANUEVA DE SAN JUAN",
+        "provincia": "SEVILLA"
+      }
+    ],
+    "19": [
+      {
+        "alias": "EVENTOS / C-25 (176.0 - 174.0)",
+        "codEle": "11259190",
+        "poblacion": "VIC",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-37 (152.0 - 151.5)",
+        "codEle": "11258882",
+        "poblacion": "MANLLEU",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-25 (184.0 - 183.0)",
+        "codEle": "11259150",
+        "poblacion": "FOLGUEROLES",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-17 (60.0 - 57.0)",
+        "codEle": "11258110",
+        "poblacion": "VIC",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-17 (69.0 - 69.5)",
+        "codEle": "11258334",
+        "poblacion": "GLEVA (LA)",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / N-120 (68.0 - 68.0)",
+        "codEle": "11262514",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / C-38 (25.5 - 25.0)",
+        "codEle": "11258697",
+        "poblacion": "GINESTOSA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (47.0 - 50.0)",
+        "codEle": "11258194",
+        "poblacion": "VILADEMULS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (743.0 - 747.0)",
+        "codEle": "11257598",
+        "poblacion": "ERMEDAS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / A-406 (31.0 - 31.0)",
+        "codEle": "11261419",
+        "poblacion": "VILLANUEVA DE SAN JUAN",
+        "provincia": "SEVILLA"
       }
     ]
   }
