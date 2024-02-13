@@ -7707,6 +7707,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-13T05:00:00+01:00",
+    "alias": "EVENTOS / A-92 (220.16 - 220.16)",
+    "autonomia": "Andaluc\u00eda",
+    "carretera": "A-92",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11255435",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-92 </span> </b> en el <b> km 220.16</b> en <b>PE\u00d1UELAS (GRANADA)</b> sentido <b>AMBOS SENTIDOS</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTE TOTAL</b></span>",
+    "estado": "1",
+    "fecha": "13/02/2024",
+    "fechaFin": "?",
+    "hora": "06:00",
+    "lat": "37.19421",
+    "lng": "-3.8541489",
+    "pkFinal": "220.16",
+    "pkIni": "220.16",
+    "poblacion": "PE\u00d1UELAS",
+    "provincia": "GRANADA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-11T09:54:00+01:00",
     "alias": "EVENTOS / AP-4 (44.87 - 45.21)",
     "autonomia": "Andaluc\u00eda",
