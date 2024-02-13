@@ -24998,6 +24998,96 @@
         "provincia": "BADAJOZ"
       },
       {
+        "alias": "EVENTOS / N-430 (154.0 - 154.0)",
+        "codEle": "11257765",
+        "poblacion": "CASAS DE DON PEDRO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-120 (66.0 - 66.0)",
+        "codEle": "11257929",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / CM-3166 (6.0 - 6.0)",
+        "codEle": "11256031",
+        "poblacion": "CAMPO DE CRIPTANA",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / A-3 (77.0 - 77.0)",
+        "codEle": "11257891",
+        "poblacion": "BELINCHON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-384 (14.0 - 14.0)",
+        "codEle": "11257253",
+        "poblacion": "COTO DE BORNOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-381 (0.0 - 0.0)",
+        "codEle": "11257408",
+        "poblacion": "REPASTADEROS (LOS)",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-306 (19.0 - 19.0)",
+        "codEle": "11257057",
+        "poblacion": "CA\u00d1ETE DE LAS TORRES",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (743.0 - 747.0)",
+        "codEle": "11257598",
+        "poblacion": "ERMEDAS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (354.0 - 354.1)",
+        "codEle": "11247119",
+        "poblacion": "CALAHORRA",
+        "provincia": "RIOJA, LA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (363.7 - 364.0)",
+        "codEle": "11248205",
+        "poblacion": "MURILLO DE CALAHORRA",
+        "provincia": "RIOJA, LA"
+      },
+      {
+        "alias": "EVENTOS / A-4 (457.0 - 457.0)",
+        "codEle": "11257033",
+        "poblacion": "ECIJA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-92 (37.0 - 37.0)",
+        "codEle": "11257143",
+        "poblacion": "MONJAS (LAS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / N-122 (307.0 - 307.0)",
+        "codEle": "11258040",
+        "poblacion": "PE\u00d1AFIEL",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / A-120 (3.75 - 3.75)",
+        "codEle": "11257959",
+        "poblacion": "VENTA DEL OLIVAR",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-435 (33.8 - 33.8)",
+        "codEle": "11257454",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
         "alias": "EVENTOS / CM-3166 (6.0 - 6.0)",
         "codEle": "11256031",
         "poblacion": "CAMPO DE CRIPTANA",
@@ -25044,6 +25134,116 @@
         "codEle": "11257143",
         "poblacion": "MONJAS (LAS)",
         "provincia": "SEVILLA"
+      }
+    ],
+    "09": [
+      {
+        "alias": "EVENTOS / N-430 (154.0 - 154.0)",
+        "codEle": "11257765",
+        "poblacion": "CASAS DE DON PEDRO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-435 (33.8 - 33.8)",
+        "codEle": "11257454",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / C-17 (60.0 - 58.0)",
+        "codEle": "11258110",
+        "poblacion": "VIC",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-17 (69.0 - 70.0)",
+        "codEle": "11258334",
+        "poblacion": "GLEVA (LA)",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / N-120 (66.0 - 66.0)",
+        "codEle": "11257929",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / CM-3166 (6.0 - 6.0)",
+        "codEle": "11256031",
+        "poblacion": "CAMPO DE CRIPTANA",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / A-3 (77.0 - 77.0)",
+        "codEle": "11257891",
+        "poblacion": "BELINCHON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-384 (14.0 - 14.0)",
+        "codEle": "11257253",
+        "poblacion": "COTO DE BORNOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-2004 (1.6 - 1.6)",
+        "codEle": "11258531",
+        "poblacion": "SOLETE ALTO",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-381 (0.0 - 0.0)",
+        "codEle": "11258529",
+        "poblacion": "REPASTADEROS (LOS)",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-306 (19.0 - 19.0)",
+        "codEle": "11257057",
+        "poblacion": "CA\u00d1ETE DE LAS TORRES",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (47.0 - 48.0)",
+        "codEle": "11258194",
+        "poblacion": "VILADEMULS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (743.0 - 747.0)",
+        "codEle": "11257598",
+        "poblacion": "ERMEDAS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (363.7 - 364.0)",
+        "codEle": "11248205",
+        "poblacion": "MURILLO DE CALAHORRA",
+        "provincia": "RIOJA, LA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (354.0 - 354.1)",
+        "codEle": "11247119",
+        "poblacion": "CALAHORRA",
+        "provincia": "RIOJA, LA"
+      },
+      {
+        "alias": "EVENTOS / A-4 (457.0 - 457.0)",
+        "codEle": "11258406",
+        "poblacion": "ECIJA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-92 (37.0 - 37.0)",
+        "codEle": "11257143",
+        "poblacion": "MONJAS (LAS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / N-122 (307.0 - 307.0)",
+        "codEle": "11258581",
+        "poblacion": "PE\u00d1AFIEL",
+        "provincia": "VALLADOLID"
       }
     ]
   }
