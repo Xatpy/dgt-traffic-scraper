@@ -24466,6 +24466,56 @@
         "codEle": "11247119",
         "poblacion": "CALAHORRA",
         "provincia": "RIOJA, LA"
+      },
+      {
+        "alias": "EVENTOS / CM-412 (153.0 - 153.0)",
+        "codEle": "11247631",
+        "poblacion": "VILLANUEVA DE LA FUENTE",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-401 (156.0 - 156.0)",
+        "codEle": "11248765",
+        "poblacion": "FUENTE EL FRESNO",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-232 (363.7 - 364.0)",
+        "codEle": "11248205",
+        "poblacion": "MURILLO DE CALAHORRA",
+        "provincia": "RIOJA, LA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (354.0 - 354.1)",
+        "codEle": "11247119",
+        "poblacion": "CALAHORRA",
+        "provincia": "RIOJA, LA"
+      }
+    ],
+    "02": [
+      {
+        "alias": "EVENTOS / N-401 (156.0 - 156.0)",
+        "codEle": "11248765",
+        "poblacion": "FUENTE EL FRESNO",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / CM-412 (153.0 - 153.0)",
+        "codEle": "11247631",
+        "poblacion": "VILLANUEVA DE LA FUENTE",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-232 (354.0 - 354.1)",
+        "codEle": "11247119",
+        "poblacion": "CALAHORRA",
+        "provincia": "RIOJA, LA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (363.7 - 364.0)",
+        "codEle": "11248205",
+        "poblacion": "MURILLO DE CALAHORRA",
+        "provincia": "RIOJA, LA"
       }
     ]
   }
