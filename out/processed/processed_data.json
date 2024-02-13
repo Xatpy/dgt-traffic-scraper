@@ -26702,6 +26702,308 @@
         "codEle": "11260387",
         "poblacion": "PE\u00d1AFIEL",
         "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / N-430 (154.0 - 154.0)",
+        "codEle": "11257765",
+        "poblacion": "CASAS DE DON PEDRO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (17.63 - 17.63)",
+        "codEle": "11259541",
+        "poblacion": "VILLARREAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-435 (33.8 - 33.8)",
+        "codEle": "11257454",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / C-37 (152.0 - 151.5)",
+        "codEle": "11258882",
+        "poblacion": "MANLLEU",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-25 (176.0 - 174.0)",
+        "codEle": "11259190",
+        "poblacion": "VIC",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-17 (60.0 - 57.0)",
+        "codEle": "11258110",
+        "poblacion": "VIC",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-17 (69.0 - 69.5)",
+        "codEle": "11258334",
+        "poblacion": "GLEVA (LA)",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-25 (184.0 - 183.0)",
+        "codEle": "11259150",
+        "poblacion": "FOLGUEROLES",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / N-122 (247.2 - 247.2)",
+        "codEle": "11259066",
+        "poblacion": "ZUZONES",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / N-120 (66.0 - 66.0)",
+        "codEle": "11257929",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / CM-420 (73.0 - 73.0)",
+        "codEle": "11259882",
+        "poblacion": "CAMPO DE CRIPTANA",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / A-3 (77.0 - 77.0)",
+        "codEle": "11257891",
+        "poblacion": "BELINCHON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-384 (14.0 - 22.0)",
+        "codEle": "11260727",
+        "poblacion": "COTO DE BORNOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / CA-33 (12.0 - 12.0)",
+        "codEle": "11260717",
+        "poblacion": "TRES CAMINOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-381 (0.0 - 0.0)",
+        "codEle": "11260671",
+        "poblacion": "REPASTADEROS (LOS)",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-435 (0.0 - 0.0)",
+        "codEle": "11260335",
+        "poblacion": "ALCARACEJOS",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / A-4 (373.5 - 373.6)",
+        "codEle": "11260465",
+        "poblacion": "CARPIO (EL)",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (47.0 - 52.0)",
+        "codEle": "11258194",
+        "poblacion": "VILADEMULS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (743.0 - 747.0)",
+        "codEle": "11257598",
+        "poblacion": "ERMEDAS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / C-38 (25.5 - 25.0)",
+        "codEle": "11258697",
+        "poblacion": "GINESTOSA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (139.0 - 139.0)",
+        "codEle": "11258816",
+        "poblacion": "MONZON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (364.0 - 364.0)",
+        "codEle": "11259990",
+        "poblacion": "PRADEJON",
+        "provincia": "RIOJA, LA"
+      },
+      {
+        "alias": "EVENTOS / A-4 (460.0 - 460.0)",
+        "codEle": "11260837",
+        "poblacion": "VILLANUEVA DEL REY",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-92 (37.0 - 37.0)",
+        "codEle": "11260097",
+        "poblacion": "MONJAS (LAS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / AP-4 (45.7 - 45.7)",
+        "codEle": "11260787",
+        "poblacion": "CABEZAS DE SAN JUAN (LAS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-92 (37.0 - 37.0)",
+        "codEle": "11260096",
+        "poblacion": "MONJAS (LAS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-471R1 (16.0 - 16.0)",
+        "codEle": "11260165",
+        "poblacion": "CABEZAS DE SAN JUAN (LAS)",
+        "provincia": "SEVILLA"
+      }
+    ],
+    "13": [
+      {
+        "alias": "EVENTOS / N-430 (154.0 - 154.0)",
+        "codEle": "11257765",
+        "poblacion": "CASAS DE DON PEDRO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (17.63 - 17.63)",
+        "codEle": "11259541",
+        "poblacion": "VILLARREAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-435 (33.8 - 33.8)",
+        "codEle": "11257454",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / C-17 (60.0 - 57.0)",
+        "codEle": "11258110",
+        "poblacion": "VIC",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-37 (152.0 - 151.5)",
+        "codEle": "11258882",
+        "poblacion": "MANLLEU",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-25 (184.0 - 183.0)",
+        "codEle": "11259150",
+        "poblacion": "FOLGUEROLES",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-17 (69.0 - 69.5)",
+        "codEle": "11258334",
+        "poblacion": "GLEVA (LA)",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / C-25 (176.0 - 174.0)",
+        "codEle": "11259190",
+        "poblacion": "VIC",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / N-120 (66.0 - 66.0)",
+        "codEle": "11257929",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / A-3 (77.0 - 77.0)",
+        "codEle": "11257891",
+        "poblacion": "BELINCHON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-384 (14.0 - 22.0)",
+        "codEle": "11260727",
+        "poblacion": "COTO DE BORNOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / CA-33 (12.0 - 12.0)",
+        "codEle": "11261014",
+        "poblacion": "TRES CAMINOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-381 (0.0 - 0.0)",
+        "codEle": "11260671",
+        "poblacion": "REPASTADEROS (LOS)",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-435 (0.0 - 0.0)",
+        "codEle": "11260335",
+        "poblacion": "ALCARACEJOS",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (47.0 - 50.0)",
+        "codEle": "11258194",
+        "poblacion": "VILADEMULS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (743.0 - 747.0)",
+        "codEle": "11257598",
+        "poblacion": "ERMEDAS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / C-38 (25.5 - 25.0)",
+        "codEle": "11258697",
+        "poblacion": "GINESTOSA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (139.0 - 139.0)",
+        "codEle": "11258816",
+        "poblacion": "MONZON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (364.0 - 364.0)",
+        "codEle": "11259990",
+        "poblacion": "PRADEJON",
+        "provincia": "RIOJA, LA"
+      },
+      {
+        "alias": "EVENTOS / AP-4 (45.7 - 45.7)",
+        "codEle": "11261058",
+        "poblacion": "CABEZAS DE SAN JUAN (LAS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-92 (37.0 - 37.0)",
+        "codEle": "11260097",
+        "poblacion": "MONJAS (LAS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-92 (37.0 - 37.0)",
+        "codEle": "11260096",
+        "poblacion": "MONJAS (LAS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-471R1 (16.0 - 16.0)",
+        "codEle": "11260165",
+        "poblacion": "CABEZAS DE SAN JUAN (LAS)",
+        "provincia": "SEVILLA"
       }
     ]
   }
