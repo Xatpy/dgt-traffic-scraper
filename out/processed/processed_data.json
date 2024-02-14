@@ -35160,6 +35160,120 @@
     ],
     "16": [
       {
+        "alias": "EVENTOS / EX-107 (71.51 - 71.5)",
+        "codEle": "11268611",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
+        "codEle": "11268886",
+        "poblacion": "QUINTANA DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-432 (30.65 - 30.65)",
+        "codEle": "11267144",
+        "poblacion": "TORRE DE MIGUEL SESMERO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-435 (34.0 - 34.0)",
+        "codEle": "11266406",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-363 (8.0 - 8.0)",
+        "codEle": "11266686",
+        "poblacion": "ALVARADO - LA RISCA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-523 (48.9 - 48.9)",
+        "codEle": "11265398",
+        "poblacion": "ROCA DE LA SIERRA (LA)",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-110 (34.2 - 34.2)",
+        "codEle": "11270555",
+        "poblacion": "ALBURQUERQUE",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (19.0 - 19.0)",
+        "codEle": "11268669",
+        "poblacion": "CAMPANARIO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-1 (160.0 - 159.0)",
+        "codEle": "11273535",
+        "poblacion": "ARANDA DE DUERO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / A-1 (160.0 - 159.0)",
+        "codEle": "11273466",
+        "poblacion": "ARANDA DE DUERO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / A-4 (211.3 - 211.3)",
+        "codEle": "11273579",
+        "poblacion": "VALDEPE\u00d1AS",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-2 (743.0 - 747.0)",
+        "codEle": "11257598",
+        "poblacion": "ERMEDAS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (736.0 - 732.0)",
+        "codEle": "11264832",
+        "poblacion": "ORRIOLS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / C-38 (25.5 - 25.0)",
+        "codEle": "11258697",
+        "poblacion": "GINESTOSA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / A-231 (25.8 - 25.8)",
+        "codEle": "11273839",
+        "poblacion": "VILLAMARCO",
+        "provincia": "LE\u00d3N"
+      },
+      {
+        "alias": "EVENTOS / A-92 (105.0 - 105.0)",
+        "codEle": "11273848",
+        "poblacion": "ESTEPA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-406 (31.0 - 31.0)",
+        "codEle": "11265364",
+        "poblacion": "VILLANUEVA DE SAN JUAN",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (19.8 - 19.8)",
+        "codEle": "11265520",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / SE-9223 (2.0 - 2.0)",
+        "codEle": "11266280",
+        "poblacion": "ALGAMITAS",
+        "provincia": "SEVILLA"
+      },
+      {
         "alias": "EVENTOS / EX-363 (8.0 - 8.0)",
         "codEle": "11266686",
         "poblacion": "ALVARADO - LA RISCA",
@@ -35277,6 +35391,80 @@
         "alias": "EVENTOS / A-406 (31.0 - 31.0)",
         "codEle": "11265364",
         "poblacion": "VILLANUEVA DE SAN JUAN",
+        "provincia": "SEVILLA"
+      }
+    ],
+    "17": [
+      {
+        "alias": "EVENTOS / N-523 (48.9 - 48.9)",
+        "codEle": "11265398",
+        "poblacion": "ROCA DE LA SIERRA (LA)",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-435 (34.0 - 34.0)",
+        "codEle": "11266406",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-110 (34.2 - 34.2)",
+        "codEle": "11270555",
+        "poblacion": "ALBURQUERQUE",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-2 (743.0 - 747.0)",
+        "codEle": "11257598",
+        "poblacion": "ERMEDAS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (736.0 - 732.0)",
+        "codEle": "11264832",
+        "poblacion": "ORRIOLS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / C-38 (25.5 - 25.0)",
+        "codEle": "11258697",
+        "poblacion": "GINESTOSA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / A-231 (25.8 - 25.8)",
+        "codEle": "11273839",
+        "poblacion": "VILLAMARCO",
+        "provincia": "LE\u00d3N"
+      },
+      {
+        "alias": "EVENTOS / A-67 (7.0 - 7.0)",
+        "codEle": "11274041",
+        "poblacion": "PALENCIA",
+        "provincia": "PALENCIA"
+      },
+      {
+        "alias": "EVENTOS / A-92 (104.0 - 104.0)",
+        "codEle": "11273993",
+        "poblacion": "ESTEPA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / SE-9223 (2.0 - 2.0)",
+        "codEle": "11266280",
+        "poblacion": "ALGAMITAS",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-406 (31.0 - 31.0)",
+        "codEle": "11265364",
+        "poblacion": "VILLANUEVA DE SAN JUAN",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (19.8 - 19.8)",
+        "codEle": "11265520",
+        "poblacion": "NAVARREDONDA",
         "provincia": "SEVILLA"
       }
     ]
