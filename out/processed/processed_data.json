@@ -30450,6 +30450,380 @@
         "codEle": "11266765",
         "poblacion": "TRASPINEDO",
         "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / EX-300 (25.0 - 25.0)",
+        "codEle": "11267478",
+        "poblacion": "TALAVERA LA REAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / BA-138 (1.0 - 1.0)",
+        "codEle": "11267510",
+        "poblacion": "TALARRUBIAS",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-110 (69.0 - 69.0)",
+        "codEle": "11265211",
+        "poblacion": "GEVORA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-363 (8.0 - 8.0)",
+        "codEle": "11266686",
+        "poblacion": "ALVARADO - LA RISCA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-432 (30.65 - 30.65)",
+        "codEle": "11267144",
+        "poblacion": "TORRE DE MIGUEL SESMERO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-328 (4.1 - 4.1)",
+        "codEle": "11265099",
+        "poblacion": "MONTIJO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-435 (34.0 - 34.0)",
+        "codEle": "11266406",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-523 (48.9 - 48.9)",
+        "codEle": "11265398",
+        "poblacion": "ROCA DE LA SIERRA (LA)",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-340 (964.0 - 964.0)",
+        "codEle": "11267685",
+        "poblacion": "CARINYENA",
+        "provincia": "CASTELL\u00d3N/CASTELL\u00d3"
+      },
+      {
+        "alias": "EVENTOS / CV-16 (8.6 - 8.6)",
+        "codEle": "11267392",
+        "poblacion": "SANT JOAN DE MORO",
+        "provincia": "CASTELL\u00d3N/CASTELL\u00d3"
+      },
+      {
+        "alias": "EVENTOS / CC-321 (2.07 - 2.07)",
+        "codEle": "11267336",
+        "poblacion": "PERALA (LA)",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / N-521 (59.75 - 59.75)",
+        "codEle": "11267124",
+        "poblacion": "MALPARTIDA DE CACERES",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11267573",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (47.0 - 48.0)",
+        "codEle": "11258194",
+        "poblacion": "VILADEMULS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (29.0 - 28.0)",
+        "codEle": "11264570",
+        "poblacion": "VILAMORELL",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (736.0 - 732.0)",
+        "codEle": "11264832",
+        "poblacion": "ORRIOLS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / C-38 (25.5 - 25.0)",
+        "codEle": "11258697",
+        "poblacion": "GINESTOSA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (743.0 - 747.0)",
+        "codEle": "11257598",
+        "poblacion": "ERMEDAS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / A-44 (97.0 - 97.0)",
+        "codEle": "11265943",
+        "poblacion": "FRAGE (EL)",
+        "provincia": "GRANADA"
+      },
+      {
+        "alias": "EVENTOS / A-406 (31.0 - 31.0)",
+        "codEle": "11265364",
+        "poblacion": "VILLANUEVA DE SAN JUAN",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-92 (104.0 - 104.0)",
+        "codEle": "11267774",
+        "poblacion": "ESTEPA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (19.8 - 19.8)",
+        "codEle": "11265520",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-49 (16.18 - 16.18)",
+        "codEle": "11267558",
+        "poblacion": "GELO",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / SE-9223 (2.0 - 2.0)",
+        "codEle": "11266280",
+        "poblacion": "ALGAMITAS",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.0)",
+        "codEle": "11267030",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / CM-4015 (29.0 - 5.0)",
+        "codEle": "11267147",
+        "poblacion": "SAN MARTIN DE PUSA",
+        "provincia": "TOLEDO"
+      },
+      {
+        "alias": "EVENTOS / CM-3128 (1.0 - 20.0)",
+        "codEle": "11267275",
+        "poblacion": "MADRIDEJOS",
+        "provincia": "TOLEDO"
+      },
+      {
+        "alias": "EVENTOS / CM-4133 (15.0 - 7.0)",
+        "codEle": "11267371",
+        "poblacion": "CAMU\u00d1AS",
+        "provincia": "TOLEDO"
+      },
+      {
+        "alias": "EVENTOS / N-122 (342.0 - 342.0)",
+        "codEle": "11266765",
+        "poblacion": "TRASPINEDO",
+        "provincia": "VALLADOLID"
+      }
+    ],
+    "09": [
+      {
+        "alias": "EVENTOS / EX-300 (25.0 - 25.0)",
+        "codEle": "11267950",
+        "poblacion": "TALAVERA LA REAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / BA-138 (1.0 - 1.0)",
+        "codEle": "11267952",
+        "poblacion": "TALARRUBIAS",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-110 (69.0 - 69.0)",
+        "codEle": "11267872",
+        "poblacion": "GEVORA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-432 (145.0 - 145.0)",
+        "codEle": "11267954",
+        "poblacion": "AZUAGA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-435 (34.0 - 34.0)",
+        "codEle": "11266406",
+        "poblacion": "ALMENDRAL",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-432 (30.65 - 30.65)",
+        "codEle": "11267144",
+        "poblacion": "TORRE DE MIGUEL SESMERO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-328 (4.1 - 4.1)",
+        "codEle": "11265099",
+        "poblacion": "MONTIJO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-523 (48.9 - 48.9)",
+        "codEle": "11265398",
+        "poblacion": "ROCA DE LA SIERRA (LA)",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-363 (8.0 - 8.0)",
+        "codEle": "11266686",
+        "poblacion": "ALVARADO - LA RISCA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-119 (16.81 - 16.81)",
+        "codEle": "11268257",
+        "poblacion": "CUACOS DE YUSTE",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / N-521 (59.75 - 59.75)",
+        "codEle": "11267124",
+        "poblacion": "MALPARTIDA DE CACERES",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / CC-321 (2.07 - 2.07)",
+        "codEle": "11267336",
+        "poblacion": "PERALA (LA)",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / N-2 (743.0 - 747.0)",
+        "codEle": "11257598",
+        "poblacion": "ERMEDAS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / C-38 (25.5 - 25.0)",
+        "codEle": "11258697",
+        "poblacion": "GINESTOSA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (47.0 - 48.0)",
+        "codEle": "11258194",
+        "poblacion": "VILADEMULS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (736.0 - 732.0)",
+        "codEle": "11264832",
+        "poblacion": "ORRIOLS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (29.0 - 28.0)",
+        "codEle": "11264570",
+        "poblacion": "VILAMORELL",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / A-44 (97.0 - 97.0)",
+        "codEle": "11267598",
+        "poblacion": "FRAGE (EL)",
+        "provincia": "GRANADA"
+      },
+      {
+        "alias": "EVENTOS / A-384 (90.0 - 90.0)",
+        "codEle": "11268232",
+        "poblacion": "ALMARGEN",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-406 (31.0 - 31.0)",
+        "codEle": "11265364",
+        "poblacion": "VILLANUEVA DE SAN JUAN",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-92 (104.0 - 104.0)",
+        "codEle": "11268241",
+        "poblacion": "ESTEPA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-4 (508.57 - 508.57)",
+        "codEle": "11268167",
+        "poblacion": "CARMONA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-92 (64.6 - 64.6)",
+        "codEle": "11268159",
+        "poblacion": "PUEBLA DE CAZALLA (LA)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-66 (803.91 - 803.91)",
+        "codEle": "11267909",
+        "poblacion": "SALTERAS",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-451 (19.8 - 19.8)",
+        "codEle": "11265520",
+        "poblacion": "NAVARREDONDA",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / AP-4 (26.5 - 26.5)",
+        "codEle": "11268170",
+        "poblacion": "PALACIOS Y VILLAFRANCA (LOS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / N-4 (571.0 - 571.0)",
+        "codEle": "11268065",
+        "poblacion": "PALACIOS Y VILLAFRANCA (LOS)",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-49 (16.18 - 16.18)",
+        "codEle": "11268046",
+        "poblacion": "GELO",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / SE-9223 (2.0 - 2.0)",
+        "codEle": "11266280",
+        "poblacion": "ALGAMITAS",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-66 (805.0 - 805.0)",
+        "codEle": "11268095",
+        "poblacion": "SANTIPONCE",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / N-234 (352.8 - 352.8)",
+        "codEle": "11268280",
+        "poblacion": "CASAS (LAS)",
+        "provincia": "SORIA"
+      },
+      {
+        "alias": "EVENTOS / SO-20 (12.0 - 12.0)",
+        "codEle": "11268230",
+        "poblacion": "CASAS (LAS)",
+        "provincia": "SORIA"
+      },
+      {
+        "alias": "EVENTOS / CM-3128 (1.0 - 20.0)",
+        "codEle": "11267275",
+        "poblacion": "MADRIDEJOS",
+        "provincia": "TOLEDO"
       }
     ]
   }
