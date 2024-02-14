@@ -13398,6 +13398,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-14T19:21:00+01:00",
+    "alias": "EVENTOS / CL-626 (47.0 - 47.0)",
+    "autonomia": "Castilla y Le\u00f3n",
+    "carretera": "CL-626",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11275289",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">CL-626 </span> </b> en el <b> km 47</b> en <b>SENA DE LUNA (LE\u00d3N)</b> sentido <b>DECRECIENTE DE LA KILOMETRACI\u00d3N</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>UN SOLO CARRIL CON TR\u00c1FICO ALTERNADO</b></span>",
+    "estado": "1",
+    "fecha": "14/02/2024",
+    "fechaFin": "?",
+    "hora": "20:21",
+    "lat": "42.924355",
+    "lng": "-5.9433494",
+    "pkFinal": "47",
+    "pkIni": "47",
+    "poblacion": "SENA DE LUNA",
+    "provincia": "LE\u00d3N",
+    "sentido": "DECRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-10T16:44:00+01:00",
     "alias": "EVENTOS / A-7 (953.0 - 953.15)",
     "autonomia": "Andaluc\u00eda",
