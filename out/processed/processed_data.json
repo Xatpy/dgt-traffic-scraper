@@ -35848,6 +35848,80 @@
         "codEle": "11277418",
         "poblacion": "IGUALEJA",
         "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / C-38 (25.5 - 25.0)",
+        "codEle": "11258697",
+        "poblacion": "GINESTOSA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / A-397 (26.0 - 26.0)",
+        "codEle": "11277418",
+        "poblacion": "IGUALEJA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-31 (20.0 - 20.0)",
+        "codEle": "11278055",
+        "poblacion": "POZOAMARGO",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (124.0 - 124.0)",
+        "codEle": "11277998",
+        "poblacion": "ZAFRA DE ZANCARA",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-397 (26.0 - 26.0)",
+        "codEle": "11277418",
+        "poblacion": "IGUALEJA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.0)",
+        "codEle": "11277927",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      }
+    ],
+    "08": [
+      {
+        "alias": "EVENTOS / EX-363 (8.0 - 8.0)",
+        "codEle": "11278750",
+        "poblacion": "ALVARADO - LA RISCA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-3 (124.0 - 124.0)",
+        "codEle": "11277998",
+        "poblacion": "ZAFRA DE ZANCARA",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-31 (20.0 - 20.0)",
+        "codEle": "11278055",
+        "poblacion": "POZOAMARGO",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (125.0 - 125.0)",
+        "codEle": "11278573",
+        "poblacion": "ZAFRA DE ZANCARA",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.0)",
+        "codEle": "11277927",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / N-601 (233.0 - 233.0)",
+        "codEle": "11278510",
+        "poblacion": "MEDINA DE RIOSECO",
+        "provincia": "VALLADOLID"
       }
     ]
   }
