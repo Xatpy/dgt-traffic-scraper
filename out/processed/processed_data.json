@@ -35822,6 +35822,32 @@
         "codEle": "11258697",
         "poblacion": "GINESTOSA",
         "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / C-38 (25.5 - 25.0)",
+        "codEle": "11258697",
+        "poblacion": "GINESTOSA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / A-397 (26.0 - 26.0)",
+        "codEle": "11276910",
+        "poblacion": "IGUALEJA",
+        "provincia": "M\u00c1LAGA"
+      }
+    ],
+    "07": [
+      {
+        "alias": "EVENTOS / C-38 (25.5 - 25.0)",
+        "codEle": "11258697",
+        "poblacion": "GINESTOSA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / A-397 (26.0 - 26.0)",
+        "codEle": "11277418",
+        "poblacion": "IGUALEJA",
+        "provincia": "M\u00c1LAGA"
       }
     ]
   }
