@@ -36420,6 +36420,224 @@
         "codEle": "11280136",
         "poblacion": "AGUAVIVA",
         "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / EX-105 (24.0 - 24.0)",
+        "codEle": "11280618",
+        "poblacion": "GUARE\u00d1A",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (17.6 - 17.6)",
+        "codEle": "11279184",
+        "poblacion": "SAN RAFAEL DE OLIVENZA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (71.0 - 71.0)",
+        "codEle": "11278815",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-363 (8.0 - 8.0)",
+        "codEle": "11278750",
+        "poblacion": "ALVARADO - LA RISCA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-3 (124.0 - 124.0)",
+        "codEle": "11277998",
+        "poblacion": "ZAFRA DE ZANCARA",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-31 (20.0 - 20.0)",
+        "codEle": "11278055",
+        "poblacion": "POZOAMARGO",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (125.0 - 125.0)",
+        "codEle": "11278941",
+        "poblacion": "ZAFRA DE ZANCARA",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / EX-109 (60.15 - 60.25)",
+        "codEle": "11281218",
+        "poblacion": "PERALES DEL PUERTO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (93.0 - 98.95)",
+        "codEle": "11279551",
+        "poblacion": "CASAS DE DON GOMEZ",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-384 (20.0 - 21.0)",
+        "codEle": "11280243",
+        "poblacion": "VILLAMARTIN",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-33 (25.0 - 54.0)",
+        "codEle": "11280935",
+        "poblacion": "ENCEBRAS (LAS)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-471R1 (15.98 - 15.98)",
+        "codEle": "11280153",
+        "poblacion": "VETAHERRADO",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-225 (21.0 - 21.0)",
+        "codEle": "11280136",
+        "poblacion": "AGUAVIVA",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / EX-105 (24.0 - 24.0)",
+        "codEle": "11280618",
+        "poblacion": "GUARE\u00d1A",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-363 (8.0 - 8.0)",
+        "codEle": "11278750",
+        "poblacion": "ALVARADO - LA RISCA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (17.6 - 17.6)",
+        "codEle": "11279184",
+        "poblacion": "SAN RAFAEL DE OLIVENZA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (71.0 - 71.0)",
+        "codEle": "11278815",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-3 (124.0 - 124.0)",
+        "codEle": "11277998",
+        "poblacion": "ZAFRA DE ZANCARA",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-31 (20.0 - 20.0)",
+        "codEle": "11278055",
+        "poblacion": "POZOAMARGO",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (125.0 - 125.0)",
+        "codEle": "11278941",
+        "poblacion": "ZAFRA DE ZANCARA",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / EX-109 (60.15 - 60.25)",
+        "codEle": "11281218",
+        "poblacion": "PERALES DEL PUERTO",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (93.0 - 98.95)",
+        "codEle": "11279551",
+        "poblacion": "CASAS DE DON GOMEZ",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-384 (20.0 - 21.0)",
+        "codEle": "11280243",
+        "poblacion": "VILLAMARTIN",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-33 (25.0 - 54.0)",
+        "codEle": "11280935",
+        "poblacion": "ENCEBRAS (LAS)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-471R1 (15.98 - 15.98)",
+        "codEle": "11280153",
+        "poblacion": "VETAHERRADO",
+        "provincia": "SEVILLA"
+      },
+      {
+        "alias": "EVENTOS / A-225 (21.0 - 21.0)",
+        "codEle": "11280136",
+        "poblacion": "AGUAVIVA",
+        "provincia": "TERUEL"
+      }
+    ],
+    "12": [
+      {
+        "alias": "EVENTOS / EX-105 (24.0 - 24.0)",
+        "codEle": "11280618",
+        "poblacion": "GUARE\u00d1A",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (17.6 - 17.6)",
+        "codEle": "11279184",
+        "poblacion": "SAN RAFAEL DE OLIVENZA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-363 (8.0 - 8.0)",
+        "codEle": "11278750",
+        "poblacion": "ALVARADO - LA RISCA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (71.0 - 71.0)",
+        "codEle": "11278815",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-3 (124.0 - 124.0)",
+        "codEle": "11277998",
+        "poblacion": "ZAFRA DE ZANCARA",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-31 (20.0 - 20.0)",
+        "codEle": "11278055",
+        "poblacion": "POZOAMARGO",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (125.0 - 125.0)",
+        "codEle": "11278941",
+        "poblacion": "ZAFRA DE ZANCARA",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-384 (20.0 - 21.0)",
+        "codEle": "11280243",
+        "poblacion": "VILLAMARTIN",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-33 (25.0 - 54.0)",
+        "codEle": "11281617",
+        "poblacion": "ENCEBRAS (LAS)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-225 (21.0 - 21.0)",
+        "codEle": "11280136",
+        "poblacion": "AGUAVIVA",
+        "provincia": "TERUEL"
       }
     ]
   }
