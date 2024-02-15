@@ -37106,10 +37106,36 @@
         "provincia": "BURGOS"
       },
       {
+        "alias": "EVENTOS / N-120 (67.0 - 67.0)",
+        "codEle": "11284962",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (17.6 - 17.6)",
+        "codEle": "11279184",
+        "poblacion": "SAN RAFAEL DE OLIVENZA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-120 (67.0 - 67.0)",
+        "codEle": "11284962",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
         "alias": "EVENTOS / A-33 (41.6 - 41.6)",
         "codEle": "11284717",
         "poblacion": "CARCHE (EL)",
         "provincia": "MURCIA"
+      }
+    ],
+    "18": [
+      {
+        "alias": "EVENTOS / N-120 (67.0 - 67.0)",
+        "codEle": "11284962",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
       }
     ]
   }
