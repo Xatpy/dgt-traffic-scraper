@@ -37137,6 +37137,14 @@
         "poblacion": "BELORADO",
         "provincia": "BURGOS"
       }
+    ],
+    "21": [
+      {
+        "alias": "EVENTOS / N-601 (195.0 - 195.0)",
+        "codEle": "11287443",
+        "poblacion": "ZARATAN",
+        "provincia": "VALLADOLID"
+      }
     ]
   }
 }
