@@ -36878,6 +36878,42 @@
         "provincia": "BADAJOZ"
       },
       {
+        "alias": "EVENTOS / EX-107 (71.0 - 71.0)",
+        "codEle": "11278815",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-363 (8.0 - 8.0)",
+        "codEle": "11278750",
+        "poblacion": "ALVARADO - LA RISCA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (17.6 - 17.6)",
+        "codEle": "11279184",
+        "poblacion": "SAN RAFAEL DE OLIVENZA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-31 (20.0 - 20.0)",
+        "codEle": "11278055",
+        "poblacion": "POZOAMARGO",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-33 (25.0 - 54.0)",
+        "codEle": "11283829",
+        "poblacion": "ENCEBRAS (LAS)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / EX-105 (24.0 - 24.0)",
+        "codEle": "11280618",
+        "poblacion": "GUARE\u00d1A",
+        "provincia": "BADAJOZ"
+      },
+      {
         "alias": "EVENTOS / EX-363 (8.0 - 8.0)",
         "codEle": "11278750",
         "poblacion": "ALVARADO - LA RISCA",
@@ -36918,6 +36954,50 @@
         "codEle": "11283829",
         "poblacion": "ENCEBRAS (LAS)",
         "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (71.0 - 71.0)",
+        "codEle": "11278815",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (17.6 - 17.6)",
+        "codEle": "11279184",
+        "poblacion": "SAN RAFAEL DE OLIVENZA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-31 (20.0 - 20.0)",
+        "codEle": "11278055",
+        "poblacion": "POZOAMARGO",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-33 (25.0 - 54.0)",
+        "codEle": "11283829",
+        "poblacion": "ENCEBRAS (LAS)",
+        "provincia": "MURCIA"
+      }
+    ],
+    "15": [
+      {
+        "alias": "EVENTOS / EX-107 (17.6 - 17.6)",
+        "codEle": "11279184",
+        "poblacion": "SAN RAFAEL DE OLIVENZA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (71.0 - 71.0)",
+        "codEle": "11278815",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-31 (20.0 - 20.0)",
+        "codEle": "11278055",
+        "poblacion": "POZOAMARGO",
+        "provincia": "CUENCA"
       }
     ]
   }
