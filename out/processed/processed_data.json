@@ -37260,6 +37260,104 @@
         "codEle": "11289455",
         "poblacion": "AGUAVIVA",
         "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (71.0 - 71.0)",
+        "codEle": "11289919",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11290357",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11290753",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / M-600 (40.0 - 40.0)",
+        "codEle": "11290112",
+        "poblacion": "BRUNETE",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.3)",
+        "codEle": "11289372",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / A-225 (18.3 - 18.4)",
+        "codEle": "11289455",
+        "poblacion": "AGUAVIVA",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / N-3 (268.1 - 268.1)",
+        "codEle": "11290686",
+        "poblacion": "VILLAR DE OLMOS",
+        "provincia": "VALENCIA/VAL\u00c8NCIA"
+      }
+    ],
+    "09": [
+      {
+        "alias": "EVENTOS / N-432 (130.0 - 130.0)",
+        "codEle": "11291085",
+        "poblacion": "BERLANGA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (71.0 - 71.0)",
+        "codEle": "11289919",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11291235",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (98.0 - 98.2)",
+        "codEle": "11291226",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11291196",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / M-600 (40.0 - 40.0)",
+        "codEle": "11290112",
+        "poblacion": "BRUNETE",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / A-225 (18.3 - 18.4)",
+        "codEle": "11289455",
+        "poblacion": "AGUAVIVA",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / N-3 (268.1 - 268.1)",
+        "codEle": "11290686",
+        "poblacion": "VILLAR DE OLMOS",
+        "provincia": "VALENCIA/VAL\u00c8NCIA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (216.44 - 216.0)",
+        "codEle": "11291129",
+        "poblacion": "VILLADOZ",
+        "provincia": "ZARAGOZA"
       }
     ]
   }
