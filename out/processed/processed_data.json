@@ -37642,6 +37642,326 @@
         "codEle": "11291129",
         "poblacion": "VILLADOZ",
         "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-31 (191.0 - 191.0)",
+        "codEle": "11291622",
+        "poblacion": "SANTA EULALIA",
+        "provincia": "ALICANTE/ALACANT"
+      },
+      {
+        "alias": "EVENTOS / N-432 (130.0 - 130.0)",
+        "codEle": "11291085",
+        "poblacion": "BERLANGA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
+        "codEle": "11291866",
+        "poblacion": "QUINTANA DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (18.5 - 18.5)",
+        "codEle": "11291872",
+        "poblacion": "CAMPANARIO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (71.0 - 71.0)",
+        "codEle": "11289919",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11291235",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-420 (472.0 - 472.0)",
+        "codEle": "11291395",
+        "poblacion": "CARBONERAS DE GUADAZAON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-330 (228.0 - 228.0)",
+        "codEle": "11292114",
+        "poblacion": "TALAYUELAS",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (98.0 - 98.2)",
+        "codEle": "11291278",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-4 (420.0 - 420.0)",
+        "codEle": "11291824",
+        "poblacion": "VALCHILLON",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-4 (372.75 - 372.75)",
+        "codEle": "11292249",
+        "poblacion": "CARPIO (EL)",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-432 (296.0 - 296.0)",
+        "codEle": "11291582",
+        "poblacion": "SANTA CRUZ",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / A-1241 (21.0 - 21.0)",
+        "codEle": "11291661",
+        "poblacion": "ZAIDIN",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / M-600 (40.0 - 40.0)",
+        "codEle": "11290112",
+        "poblacion": "BRUNETE",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / A-367 (40.0 - 40.0)",
+        "codEle": "11291507",
+        "poblacion": "RONDA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (181.0 - 181.1)",
+        "codEle": "11291506",
+        "poblacion": "POYO DEL CID (EL)",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / A-225 (18.3 - 18.4)",
+        "codEle": "11289455",
+        "poblacion": "AGUAVIVA",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / N-432 (130.0 - 130.0)",
+        "codEle": "11291085",
+        "poblacion": "BERLANGA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
+        "codEle": "11291866",
+        "poblacion": "QUINTANA DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (18.5 - 18.5)",
+        "codEle": "11291872",
+        "poblacion": "CAMPANARIO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (71.0 - 71.0)",
+        "codEle": "11289919",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-330 (228.0 - 228.0)",
+        "codEle": "11292114",
+        "poblacion": "TALAYUELAS",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11291235",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-420 (472.0 - 472.0)",
+        "codEle": "11291395",
+        "poblacion": "CARBONERAS DE GUADAZAON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (98.0 - 98.2)",
+        "codEle": "11291278",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-4 (420.0 - 420.0)",
+        "codEle": "11291824",
+        "poblacion": "VALCHILLON",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-432 (296.0 - 296.0)",
+        "codEle": "11291582",
+        "poblacion": "SANTA CRUZ",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-4 (372.75 - 372.75)",
+        "codEle": "11292249",
+        "poblacion": "CARPIO (EL)",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (139.0 - 139.0)",
+        "codEle": "11292501",
+        "poblacion": "MONZON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-1241 (21.0 - 21.0)",
+        "codEle": "11291661",
+        "poblacion": "ZAIDIN",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / M-600 (40.0 - 40.0)",
+        "codEle": "11290112",
+        "poblacion": "BRUNETE",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / A-367 (40.0 - 40.0)",
+        "codEle": "11291507",
+        "poblacion": "RONDA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (181.0 - 181.1)",
+        "codEle": "11291506",
+        "poblacion": "POYO DEL CID (EL)",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / A-225 (18.3 - 18.4)",
+        "codEle": "11289455",
+        "poblacion": "AGUAVIVA",
+        "provincia": "TERUEL"
+      }
+    ],
+    "11": [
+      {
+        "alias": "EVENTOS / N-432 (130.0 - 130.0)",
+        "codEle": "11291085",
+        "poblacion": "BERLANGA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-107 (71.0 - 71.0)",
+        "codEle": "11289919",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
+        "codEle": "11291866",
+        "poblacion": "QUINTANA DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (18.5 - 18.5)",
+        "codEle": "11291872",
+        "poblacion": "CAMPANARIO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-420 (472.0 - 472.0)",
+        "codEle": "11291395",
+        "poblacion": "CARBONERAS DE GUADAZAON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-330 (228.0 - 228.0)",
+        "codEle": "11292114",
+        "poblacion": "TALAYUELAS",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11291235",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / EX-A1 (98.0 - 98.2)",
+        "codEle": "11291278",
+        "poblacion": "MORALEJA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-4 (420.0 - 420.0)",
+        "codEle": "11291824",
+        "poblacion": "VALCHILLON",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-4 (372.75 - 372.75)",
+        "codEle": "11292249",
+        "poblacion": "CARPIO (EL)",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-432 (238.0 - 238.0)",
+        "codEle": "11292785",
+        "poblacion": "OBEJO",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-432 (296.0 - 296.0)",
+        "codEle": "11291582",
+        "poblacion": "SANTA CRUZ",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / A-1241 (21.0 - 21.0)",
+        "codEle": "11291661",
+        "poblacion": "ZAIDIN",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (139.0 - 139.0)",
+        "codEle": "11292501",
+        "poblacion": "MONZON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / M-600 (40.0 - 40.0)",
+        "codEle": "11290112",
+        "poblacion": "BRUNETE",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / A-367 (40.0 - 40.0)",
+        "codEle": "11291507",
+        "poblacion": "RONDA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / N-340 (1058.5 - 1059.5)",
+        "codEle": "11292664",
+        "poblacion": "ALCANAR",
+        "provincia": "TARRAGONA"
+      },
+      {
+        "alias": "EVENTOS / A-225 (18.3 - 18.4)",
+        "codEle": "11289455",
+        "poblacion": "AGUAVIVA",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / A-23 (181.0 - 181.1)",
+        "codEle": "11291506",
+        "poblacion": "POYO DEL CID (EL)",
+        "provincia": "TERUEL"
       }
     ]
   }
