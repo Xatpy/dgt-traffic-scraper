@@ -38824,6 +38824,60 @@
     ],
     "15": [
       {
+        "alias": "EVENTOS / EX-103 (89.3 - 89.4)",
+        "codEle": "11297309",
+        "poblacion": "CASTUERA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
+        "codEle": "11291866",
+        "poblacion": "QUINTANA DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (18.5 - 18.5)",
+        "codEle": "11291872",
+        "poblacion": "CAMPANARIO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-330 (228.0 - 228.0)",
+        "codEle": "11292114",
+        "poblacion": "TALAYUELAS",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (159.0 - 159.0)",
+        "codEle": "11294061",
+        "poblacion": "CASTILLO DE GARCIMU\u00d1OZ",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11293568",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-420 (472.0 - 472.0)",
+        "codEle": "11291395",
+        "poblacion": "CARBONERAS DE GUADAZAON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-6 (422.0 - 422.0)",
+        "codEle": "11297610",
+        "poblacion": "VEGA DE VALCARCE",
+        "provincia": "LE\u00d3N"
+      },
+      {
+        "alias": "EVENTOS / A-23 (182.0 - 184.0)",
+        "codEle": "11297528",
+        "poblacion": "CALAMOCHA",
+        "provincia": "TERUEL"
+      },
+      {
         "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
         "codEle": "11291866",
         "poblacion": "QUINTANA DE LA SERENA",
@@ -38858,6 +38912,128 @@
         "codEle": "11292114",
         "poblacion": "TALAYUELAS",
         "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (18.5 - 18.5)",
+        "codEle": "11291872",
+        "poblacion": "CAMPANARIO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
+        "codEle": "11291866",
+        "poblacion": "QUINTANA DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-103 (89.3 - 89.4)",
+        "codEle": "11297309",
+        "poblacion": "CASTUERA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-330 (228.0 - 228.0)",
+        "codEle": "11292114",
+        "poblacion": "TALAYUELAS",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11293568",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (159.0 - 159.0)",
+        "codEle": "11294061",
+        "poblacion": "CASTILLO DE GARCIMU\u00d1OZ",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-420 (472.0 - 472.0)",
+        "codEle": "11291395",
+        "poblacion": "CARBONERAS DE GUADAZAON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (182.0 - 184.0)",
+        "codEle": "11297528",
+        "poblacion": "CALAMOCHA",
+        "provincia": "TERUEL"
+      }
+    ],
+    "16": [
+      {
+        "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
+        "codEle": "11291866",
+        "poblacion": "QUINTANA DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-103 (89.3 - 89.4)",
+        "codEle": "11297309",
+        "poblacion": "CASTUERA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (18.5 - 18.5)",
+        "codEle": "11291872",
+        "poblacion": "CAMPANARIO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-120 (66.0 - 66.0)",
+        "codEle": "11297746",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / CL-629 (78.2 - 78.2)",
+        "codEle": "11297850",
+        "poblacion": "VILLALAZARA",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11293568",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (159.0 - 159.0)",
+        "codEle": "11294061",
+        "poblacion": "CASTILLO DE GARCIMU\u00d1OZ",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-420 (472.0 - 472.0)",
+        "codEle": "11291395",
+        "poblacion": "CARBONERAS DE GUADAZAON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-330 (228.0 - 228.0)",
+        "codEle": "11292114",
+        "poblacion": "TALAYUELAS",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (122.0 - 122.0)",
+        "codEle": "11298132",
+        "poblacion": "ALGAYON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-1241 (0.5 - 0.5)",
+        "codEle": "11297996",
+        "poblacion": "ALTORRICON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (182.0 - 184.0)",
+        "codEle": "11297528",
+        "poblacion": "CALAMOCHA",
+        "provincia": "TERUEL"
       }
     ]
   }
