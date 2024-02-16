@@ -38706,6 +38706,158 @@
         "codEle": "11294141",
         "poblacion": "QUINTANAR DE LA ORDEN",
         "provincia": "TOLEDO"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (18.5 - 18.5)",
+        "codEle": "11291872",
+        "poblacion": "CAMPANARIO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
+        "codEle": "11291866",
+        "poblacion": "QUINTANA DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-420 (472.0 - 472.0)",
+        "codEle": "11291395",
+        "poblacion": "CARBONERAS DE GUADAZAON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (159.0 - 159.0)",
+        "codEle": "11294061",
+        "poblacion": "CASTILLO DE GARCIMU\u00d1OZ",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11293568",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-330 (228.0 - 228.0)",
+        "codEle": "11292114",
+        "poblacion": "TALAYUELAS",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-432 (238.0 - 238.0)",
+        "codEle": "11292785",
+        "poblacion": "OBEJO",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-420 (81.0 - 81.0)",
+        "codEle": "11294831",
+        "poblacion": "CARDE\u00d1A",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-4 (372.75 - 372.75)",
+        "codEle": "11292249",
+        "poblacion": "CARPIO (EL)",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-301 (121.0 - 121.0)",
+        "codEle": "11294141",
+        "poblacion": "QUINTANAR DE LA ORDEN",
+        "provincia": "TOLEDO"
+      },
+      {
+        "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
+        "codEle": "11291866",
+        "poblacion": "QUINTANA DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (18.5 - 18.5)",
+        "codEle": "11291872",
+        "poblacion": "CAMPANARIO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11293568",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-420 (472.0 - 472.0)",
+        "codEle": "11291395",
+        "poblacion": "CARBONERAS DE GUADAZAON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (159.0 - 159.0)",
+        "codEle": "11294061",
+        "poblacion": "CASTILLO DE GARCIMU\u00d1OZ",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-330 (228.0 - 228.0)",
+        "codEle": "11292114",
+        "poblacion": "TALAYUELAS",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-420 (81.0 - 81.0)",
+        "codEle": "11294831",
+        "poblacion": "CARDE\u00d1A",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-4 (372.75 - 372.75)",
+        "codEle": "11292249",
+        "poblacion": "CARPIO (EL)",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-301 (121.0 - 121.0)",
+        "codEle": "11294141",
+        "poblacion": "QUINTANAR DE LA ORDEN",
+        "provincia": "TOLEDO"
+      }
+    ],
+    "15": [
+      {
+        "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
+        "codEle": "11291866",
+        "poblacion": "QUINTANA DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (18.5 - 18.5)",
+        "codEle": "11291872",
+        "poblacion": "CAMPANARIO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-420 (472.0 - 472.0)",
+        "codEle": "11291395",
+        "poblacion": "CARBONERAS DE GUADAZAON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11293568",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (159.0 - 159.0)",
+        "codEle": "11294061",
+        "poblacion": "CASTILLO DE GARCIMU\u00d1OZ",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-330 (228.0 - 228.0)",
+        "codEle": "11292114",
+        "poblacion": "TALAYUELAS",
+        "provincia": "CUENCA"
       }
     ]
   }
