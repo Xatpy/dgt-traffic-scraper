@@ -38200,6 +38200,102 @@
         "provincia": "BADAJOZ"
       },
       {
+        "alias": "EVENTOS / EX-104 (18.5 - 18.5)",
+        "codEle": "11291872",
+        "poblacion": "CAMPANARIO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
+        "codEle": "11291866",
+        "poblacion": "QUINTANA DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-3 (159.0 - 159.0)",
+        "codEle": "11294061",
+        "poblacion": "CASTILLO DE GARCIMU\u00d1OZ",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-330 (228.0 - 228.0)",
+        "codEle": "11292114",
+        "poblacion": "TALAYUELAS",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11293568",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-420 (472.0 - 472.0)",
+        "codEle": "11291395",
+        "poblacion": "CARBONERAS DE GUADAZAON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-432 (296.0 - 296.0)",
+        "codEle": "11291582",
+        "poblacion": "SANTA CRUZ",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-420 (81.0 - 81.0)",
+        "codEle": "11294831",
+        "poblacion": "CARDE\u00d1A",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-432 (238.0 - 238.0)",
+        "codEle": "11292785",
+        "poblacion": "OBEJO",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-4 (372.75 - 372.75)",
+        "codEle": "11292249",
+        "poblacion": "CARPIO (EL)",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / M-600 (40.0 - 40.0)",
+        "codEle": "11290112",
+        "poblacion": "BRUNETE",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / A-367 (40.0 - 40.0)",
+        "codEle": "11293727",
+        "poblacion": "RONDA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / CL-603 (83.1 - 83.1)",
+        "codEle": "11294339",
+        "poblacion": "PINILLOS DE POLENDOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / N-301 (121.0 - 121.0)",
+        "codEle": "11294141",
+        "poblacion": "QUINTANAR DE LA ORDEN",
+        "provincia": "TOLEDO"
+      },
+      {
+        "alias": "EVENTOS / N-330 (192.03 - 192.03)",
+        "codEle": "11294554",
+        "poblacion": "TORRE (LA)",
+        "provincia": "VALENCIA/VAL\u00c8NCIA"
+      },
+      {
+        "alias": "EVENTOS / N-432 (130.0 - 130.0)",
+        "codEle": "11291085",
+        "poblacion": "BERLANGA",
+        "provincia": "BADAJOZ"
+      },
+      {
         "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
         "codEle": "11291866",
         "poblacion": "QUINTANA DE LA SERENA",
@@ -38300,6 +38396,98 @@
         "codEle": "11294293",
         "poblacion": "PARADORES DE CASTROGONZALO",
         "provincia": "ZAMORA"
+      }
+    ],
+    "13": [
+      {
+        "alias": "EVENTOS / N-432 (130.0 - 130.0)",
+        "codEle": "11291085",
+        "poblacion": "BERLANGA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-346 (30.0 - 30.0)",
+        "codEle": "11291866",
+        "poblacion": "QUINTANA DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (18.5 - 18.5)",
+        "codEle": "11291872",
+        "poblacion": "CAMPANARIO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-330 (228.0 - 228.0)",
+        "codEle": "11292114",
+        "poblacion": "TALAYUELAS",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (159.0 - 159.0)",
+        "codEle": "11294061",
+        "poblacion": "CASTILLO DE GARCIMU\u00d1OZ",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11293568",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-420 (472.0 - 472.0)",
+        "codEle": "11291395",
+        "poblacion": "CARBONERAS DE GUADAZAON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / N-432 (238.0 - 238.0)",
+        "codEle": "11292785",
+        "poblacion": "OBEJO",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-432 (296.0 - 296.0)",
+        "codEle": "11291582",
+        "poblacion": "SANTA CRUZ",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-4 (372.75 - 372.75)",
+        "codEle": "11292249",
+        "poblacion": "CARPIO (EL)",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / N-420 (81.0 - 81.0)",
+        "codEle": "11294831",
+        "poblacion": "CARDE\u00d1A",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / A-367 (40.0 - 40.0)",
+        "codEle": "11293727",
+        "poblacion": "RONDA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / CL-603 (83.1 - 83.1)",
+        "codEle": "11294339",
+        "poblacion": "PINILLOS DE POLENDOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / N-301 (121.0 - 121.0)",
+        "codEle": "11294141",
+        "poblacion": "QUINTANAR DE LA ORDEN",
+        "provincia": "TOLEDO"
+      },
+      {
+        "alias": "EVENTOS / N-330 (192.03 - 192.03)",
+        "codEle": "11294554",
+        "poblacion": "TORRE (LA)",
+        "provincia": "VALENCIA/VAL\u00c8NCIA"
       }
     ]
   }
