@@ -37158,5 +37158,23 @@
         "provincia": "VALLADOLID"
       }
     ]
+  },
+  "20240216": {
+    "06": [
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11288497",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      }
+    ],
+    "07": [
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11289136",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      }
+    ]
   }
 }
