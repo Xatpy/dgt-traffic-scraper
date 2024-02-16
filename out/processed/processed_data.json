@@ -39122,6 +39122,90 @@
         "provincia": "ALICANTE/ALACANT"
       },
       {
+        "alias": "EVENTOS / N-120 (66.0 - 66.0)",
+        "codEle": "11297746",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / CL-629 (78.2 - 78.2)",
+        "codEle": "11297850",
+        "poblacion": "VILLALAZARA",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / A-50 (59.0 - 59.0)",
+        "codEle": "11298322",
+        "poblacion": "PE\u00d1ARANDA DE BRACAMONTE",
+        "provincia": "SALAMANCA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (182.0 - 184.0)",
+        "codEle": "11297528",
+        "poblacion": "CALAMOCHA",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / N-340 (711.87 - 711.87)",
+        "codEle": "11298726",
+        "poblacion": "SAN FELIPE NERI",
+        "provincia": "ALICANTE/ALACANT"
+      },
+      {
+        "alias": "EVENTOS / EX-103 (89.3 - 89.4)",
+        "codEle": "11297309",
+        "poblacion": "CASTUERA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-120 (66.0 - 66.0)",
+        "codEle": "11297746",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / CL-629 (78.2 - 78.2)",
+        "codEle": "11297850",
+        "poblacion": "VILLALAZARA",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / N-240 (122.0 - 122.0)",
+        "codEle": "11298132",
+        "poblacion": "ALGAYON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-1241 (0.5 - 0.5)",
+        "codEle": "11297996",
+        "poblacion": "ALTORRICON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (198.0 - 198.0)",
+        "codEle": "11298099",
+        "poblacion": "SIETAMO",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-50 (59.0 - 59.0)",
+        "codEle": "11298322",
+        "poblacion": "PE\u00d1ARANDA DE BRACAMONTE",
+        "provincia": "SALAMANCA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (182.0 - 184.0)",
+        "codEle": "11297528",
+        "poblacion": "CALAMOCHA",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / N-340 (711.87 - 711.87)",
+        "codEle": "11298726",
+        "poblacion": "SAN FELIPE NERI",
+        "provincia": "ALICANTE/ALACANT"
+      },
+      {
         "alias": "EVENTOS / EX-103 (89.3 - 89.4)",
         "codEle": "11297309",
         "poblacion": "CASTUERA",
@@ -39168,6 +39252,32 @@
         "codEle": "11297528",
         "poblacion": "CALAMOCHA",
         "provincia": "TERUEL"
+      }
+    ],
+    "18": [
+      {
+        "alias": "EVENTOS / BA-051 (17.5 - 17.6)",
+        "codEle": "11299253",
+        "poblacion": "MONTERRUBIO DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-120 (66.0 - 66.0)",
+        "codEle": "11297746",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / CL-629 (78.2 - 78.2)",
+        "codEle": "11297850",
+        "poblacion": "VILLALAZARA",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / N-240 (193.0 - 193.0)",
+        "codEle": "11299444",
+        "poblacion": "VELILLAS",
+        "provincia": "HUESCA"
       }
     ]
   }
