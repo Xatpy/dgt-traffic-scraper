@@ -37170,10 +37170,96 @@
     ],
     "07": [
       {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11289781",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11289875",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / M-600 (40.0 - 40.0)",
+        "codEle": "11289331",
+        "poblacion": "BRUNETE",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.3)",
+        "codEle": "11289372",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / A-225 (18.3 - 18.4)",
+        "codEle": "11289455",
+        "poblacion": "AGUAVIVA",
+        "provincia": "TERUEL"
+      },
+      {
         "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
         "codEle": "11289136",
         "poblacion": "CORTIJILLOS",
         "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11289303",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / M-600 (40.0 - 40.0)",
+        "codEle": "11289331",
+        "poblacion": "BRUNETE",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.3)",
+        "codEle": "11289372",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      }
+    ],
+    "08": [
+      {
+        "alias": "EVENTOS / EX-107 (71.0 - 71.0)",
+        "codEle": "11289919",
+        "poblacion": "VILLANUEVA DEL FRESNO",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-3 (87.0 - 87.0)",
+        "codEle": "11290357",
+        "poblacion": "TARANCON",
+        "provincia": "CUENCA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11290226",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / M-600 (40.0 - 40.0)",
+        "codEle": "11290112",
+        "poblacion": "BRUNETE",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.3)",
+        "codEle": "11289372",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / A-225 (18.3 - 18.4)",
+        "codEle": "11289455",
+        "poblacion": "AGUAVIVA",
+        "provincia": "TERUEL"
       }
     ]
   }
