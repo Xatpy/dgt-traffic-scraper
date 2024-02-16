@@ -39262,6 +39262,36 @@
         "provincia": "BADAJOZ"
       },
       {
+        "alias": "EVENTOS / CL-629 (78.2 - 78.2)",
+        "codEle": "11297850",
+        "poblacion": "VILLALAZARA",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / N-120 (66.0 - 66.0)",
+        "codEle": "11297746",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / N-260 (280.0 - 281.0)",
+        "codEle": "11299670",
+        "poblacion": "SORT",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-12 (4.5 - 5.0)",
+        "codEle": "11299647",
+        "poblacion": "ZIZUR MAYOR/ZIZUR NAGUSIA",
+        "provincia": "NAVARRA"
+      },
+      {
+        "alias": "EVENTOS / BA-051 (17.5 - 17.6)",
+        "codEle": "11299253",
+        "poblacion": "MONTERRUBIO DE LA SERENA",
+        "provincia": "BADAJOZ"
+      },
+      {
         "alias": "EVENTOS / N-120 (66.0 - 66.0)",
         "codEle": "11297746",
         "poblacion": "BELORADO",
@@ -39278,6 +39308,44 @@
         "codEle": "11299444",
         "poblacion": "VELILLAS",
         "provincia": "HUESCA"
+      }
+    ],
+    "19": [
+      {
+        "alias": "EVENTOS / N-120 (66.0 - 66.0)",
+        "codEle": "11297746",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / CL-629 (78.2 - 78.2)",
+        "codEle": "11297850",
+        "poblacion": "VILLALAZARA",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / N-240 (303.0 - 303.0)",
+        "codEle": "11299897",
+        "poblacion": "PUENTE LA REINA DE JACA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / L-303 (19.0 - 20.0)",
+        "codEle": "11299894",
+        "poblacion": "PUIGVERD D'AGRAMUNT",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-260 (280.0 - 281.0)",
+        "codEle": "11299670",
+        "poblacion": "SORT",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-12 (4.5 - 5.0)",
+        "codEle": "11299992",
+        "poblacion": "ZIZUR MAYOR/ZIZUR NAGUSIA",
+        "provincia": "NAVARRA"
       }
     ]
   }
