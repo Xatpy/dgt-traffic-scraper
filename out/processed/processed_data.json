@@ -39504,6 +39504,32 @@
         "codEle": "11309181",
         "poblacion": "POYO DEL CID (EL)",
         "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / N-420 (636.0 - 636.0)",
+        "codEle": "11309861",
+        "poblacion": "MEZQUITA DE JARQUE",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / A-23 (181.0 - 181.0)",
+        "codEle": "11309181",
+        "poblacion": "POYO DEL CID (EL)",
+        "provincia": "TERUEL"
+      }
+    ],
+    "17": [
+      {
+        "alias": "EVENTOS / N-420 (636.0 - 636.0)",
+        "codEle": "11309861",
+        "poblacion": "MEZQUITA DE JARQUE",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / A-23 (181.0 - 181.0)",
+        "codEle": "11309181",
+        "poblacion": "POYO DEL CID (EL)",
+        "provincia": "TERUEL"
       }
     ]
   }

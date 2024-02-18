@@ -19719,6 +19719,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-18T16:20:00+01:00",
+    "alias": "EVENTOS / N-420 (636.0 - 636.0)",
+    "autonomia": "Arag\u00f3n",
+    "carretera": "N-420",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11309861",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">N-420 </span> </b> en el <b> km 636</b> en <b>MEZQUITA DE JARQUE (TERUEL)</b> sentido <b>CRECIENTE DE LA KILOMETRACI\u00d3N</b></span>",
+    "estado": "1",
+    "fecha": "18/02/2024",
+    "fechaFin": "?",
+    "hora": "17:20",
+    "lat": "40.722015",
+    "lng": "-0.8490913",
+    "pkFinal": "636",
+    "pkIni": "636",
+    "poblacion": "MEZQUITA DE JARQUE",
+    "provincia": "TERUEL",
+    "sentido": "CRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-09T13:41:00+01:00",
     "alias": "EVENTOS / A-23 (316.0 - 316.0)",
     "autonomia": "Arag\u00f3n",
