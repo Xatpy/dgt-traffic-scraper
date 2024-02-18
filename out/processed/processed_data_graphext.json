@@ -6174,6 +6174,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-18T09:24:00+01:00",
+    "alias": "EVENTOS / A-23 (183.0 - 183.0)",
+    "autonomia": "Arag\u00f3n",
+    "carretera": "A-23",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11307515",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-23 </span> </b> en el <b> km 183</b> en <b>CALAMOCHA (TERUEL)</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "18/02/2024",
+    "fechaFin": "?",
+    "hora": "10:24",
+    "lat": "40.898758",
+    "lng": "-1.3025649",
+    "pkFinal": "183",
+    "pkIni": "183",
+    "poblacion": "CALAMOCHA",
+    "provincia": "TERUEL",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-13T10:09:00+01:00",
     "alias": "EVENTOS / N-122 (247.2 - 247.2)",
     "autonomia": "Castilla y Le\u00f3n",
