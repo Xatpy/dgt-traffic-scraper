@@ -39555,6 +39555,34 @@
         "poblacion": "POYO DEL CID (EL)",
         "provincia": "TERUEL"
       }
+    ],
+    "18": [
+      {
+        "alias": "EVENTOS / C-14 (82.0 - 83.0)",
+        "codEle": "11311046",
+        "poblacion": "SANTA MARIA DE MONTMAGASTRELL",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / L-303 (15.0 - 15.5)",
+        "codEle": "11311049",
+        "poblacion": "OSSO DE SIO",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / L-303 (15.0 - 15.5)",
+        "codEle": "11311049",
+        "poblacion": "OSSO DE SIO",
+        "provincia": "LLEIDA"
+      }
+    ],
+    "19": [
+      {
+        "alias": "EVENTOS / C-14 (82.0 - 83.0)",
+        "codEle": "11311046",
+        "poblacion": "SANTA MARIA DE MONTMAGASTRELL",
+        "provincia": "LLEIDA"
+      }
     ]
   }
 }
