@@ -39604,5 +39604,23 @@
         "provincia": "LLEIDA"
       }
     ]
+  },
+  "20240219": {
+    "07": [
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.0)",
+        "codEle": "11313681",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      }
+    ],
+    "08": [
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.0)",
+        "codEle": "11313681",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      }
+    ]
   }
 }
