@@ -39942,6 +39942,32 @@
         "codEle": "11321055",
         "poblacion": "ESPADIN (EL)",
         "provincia": "ALMER\u00cdA"
+      },
+      {
+        "alias": "EVENTOS / A-92N (108.0 - 112.0)",
+        "codEle": "11321054",
+        "poblacion": "RIO MULA (EL)",
+        "provincia": "ALMER\u00cdA"
+      },
+      {
+        "alias": "EVENTOS / A-92N (112.0 - 108.0)",
+        "codEle": "11321055",
+        "poblacion": "ESPADIN (EL)",
+        "provincia": "ALMER\u00cdA"
+      }
+    ],
+    "17": [
+      {
+        "alias": "EVENTOS / A-92N (108.0 - 112.0)",
+        "codEle": "11321054",
+        "poblacion": "RIO MULA (EL)",
+        "provincia": "ALMER\u00cdA"
+      },
+      {
+        "alias": "EVENTOS / A-92N (112.0 - 108.0)",
+        "codEle": "11321055",
+        "poblacion": "ESPADIN (EL)",
+        "provincia": "ALMER\u00cdA"
       }
     ]
   }
