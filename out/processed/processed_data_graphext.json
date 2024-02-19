@@ -20202,6 +20202,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-19T13:08:00+01:00",
+    "alias": "EVENTOS / A-381 (45.0 - 45.0)",
+    "autonomia": "Andaluc\u00eda",
+    "carretera": "A-381",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11319678",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-381 </span> </b> en el <b> km 45</b> en <b>ALCALA DE LOS GAZULES (C\u00c1DIZ)</b> sentido <b>DECRECIENTE DE LA KILOMETRACI\u00d3N</b></span>",
+    "estado": "1",
+    "fecha": "19/02/2024",
+    "fechaFin": "?",
+    "hora": "14:08",
+    "lat": "36.438343",
+    "lng": "-5.7199054",
+    "pkFinal": "45",
+    "pkIni": "45",
+    "poblacion": "ALCALA DE LOS GAZULES",
+    "provincia": "C\u00c1DIZ",
+    "sentido": "DECRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-14T09:38:00+01:00",
     "alias": "EVENTOS / EX-316 (17.31 - 17.31)",
     "autonomia": "Extremadura",

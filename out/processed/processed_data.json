@@ -39826,6 +39826,26 @@
         "codEle": "11318400",
         "poblacion": "RIO MULA (EL)",
         "provincia": "ALMER\u00cdA"
+      },
+      {
+        "alias": "EVENTOS / A-92N (108.0 - 112.0)",
+        "codEle": "11318400",
+        "poblacion": "RIO MULA (EL)",
+        "provincia": "ALMER\u00cdA"
+      }
+    ],
+    "13": [
+      {
+        "alias": "EVENTOS / A-92N (108.0 - 112.0)",
+        "codEle": "11318400",
+        "poblacion": "RIO MULA (EL)",
+        "provincia": "ALMER\u00cdA"
+      },
+      {
+        "alias": "EVENTOS / A-381 (45.0 - 45.0)",
+        "codEle": "11319678",
+        "poblacion": "ALCALA DE LOS GAZULES",
+        "provincia": "C\u00c1DIZ"
       }
     ]
   }
