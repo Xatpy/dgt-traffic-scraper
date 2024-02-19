@@ -39642,6 +39642,42 @@
     ],
     "09": [
       {
+        "alias": "EVENTOS / Ma-19 (36.5 - 36.5)",
+        "codEle": "11316053",
+        "poblacion": "CAMPOS",
+        "provincia": "BALEARS, ILLES"
+      },
+      {
+        "alias": "EVENTOS / Ma-15 (41.26 - 41.26)",
+        "codEle": "11316241",
+        "poblacion": "VILAFRANCA DE BONANY",
+        "provincia": "BALEARS, ILLES"
+      },
+      {
+        "alias": "EVENTOS / Ma-13A (27.44 - 27.44)",
+        "codEle": "11315864",
+        "poblacion": "INCA",
+        "provincia": "BALEARS, ILLES"
+      },
+      {
+        "alias": "EVENTOS / Ma-13A (27.44 - 27.44)",
+        "codEle": "11315864",
+        "poblacion": "INCA",
+        "provincia": "BALEARS, ILLES"
+      },
+      {
+        "alias": "EVENTOS / Ma-19 (36.5 - 36.5)",
+        "codEle": "11316053",
+        "poblacion": "CAMPOS",
+        "provincia": "BALEARS, ILLES"
+      },
+      {
+        "alias": "EVENTOS / Ma-15 (41.26 - 41.26)",
+        "codEle": "11316067",
+        "poblacion": "VILAFRANCA DE BONANY",
+        "provincia": "BALEARS, ILLES"
+      },
+      {
         "alias": "EVENTOS / Ma-13A (27.44 - 27.44)",
         "codEle": "11315864",
         "poblacion": "INCA",
@@ -39664,6 +39700,26 @@
         "codEle": "11313681",
         "poblacion": "TERUEL",
         "provincia": "TERUEL"
+      }
+    ],
+    "10": [
+      {
+        "alias": "EVENTOS / Ma-15 (41.26 - 41.26)",
+        "codEle": "11316599",
+        "poblacion": "VILAFRANCA DE BONANY",
+        "provincia": "BALEARS, ILLES"
+      },
+      {
+        "alias": "EVENTOS / Me-1 (42.0 - 42.0)",
+        "codEle": "11316583",
+        "poblacion": "TUDONS",
+        "provincia": "BALEARS, ILLES"
+      },
+      {
+        "alias": "EVENTOS / Ma-13A (27.44 - 27.44)",
+        "codEle": "11315864",
+        "poblacion": "INCA",
+        "provincia": "BALEARS, ILLES"
       }
     ]
   }
