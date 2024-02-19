@@ -39767,6 +39767,42 @@
       },
       {
         "alias": "EVENTOS / Me-1 (42.0 - 42.0)",
+        "codEle": "11318050",
+        "poblacion": "TUDONS",
+        "provincia": "BALEARS, ILLES"
+      },
+      {
+        "alias": "EVENTOS / A-92N (108.0 - 108.0)",
+        "codEle": "11317178",
+        "poblacion": "RIO MULA (EL)",
+        "provincia": "ALMER\u00cdA"
+      },
+      {
+        "alias": "EVENTOS / Me-1 (42.0 - 42.0)",
+        "codEle": "11317730",
+        "poblacion": "TUDONS",
+        "provincia": "BALEARS, ILLES"
+      },
+      {
+        "alias": "EVENTOS / Ma-3011 (0.83 - 0.83)",
+        "codEle": "11317028",
+        "poblacion": "PLATJA DE PALMA",
+        "provincia": "BALEARS, ILLES"
+      },
+      {
+        "alias": "EVENTOS / Ma-15 (41.26 - 41.26)",
+        "codEle": "11317636",
+        "poblacion": "VILAFRANCA DE BONANY",
+        "provincia": "BALEARS, ILLES"
+      },
+      {
+        "alias": "EVENTOS / A-92N (108.0 - 108.0)",
+        "codEle": "11317178",
+        "poblacion": "RIO MULA (EL)",
+        "provincia": "ALMER\u00cdA"
+      },
+      {
+        "alias": "EVENTOS / Me-1 (42.0 - 42.0)",
         "codEle": "11317223",
         "poblacion": "TUDONS",
         "provincia": "BALEARS, ILLES"
@@ -39782,6 +39818,14 @@
         "codEle": "11317392",
         "poblacion": "VILAFRANCA DE BONANY",
         "provincia": "BALEARS, ILLES"
+      }
+    ],
+    "12": [
+      {
+        "alias": "EVENTOS / A-92N (108.0 - 112.0)",
+        "codEle": "11318400",
+        "poblacion": "RIO MULA (EL)",
+        "provincia": "ALMER\u00cdA"
       }
     ]
   }
