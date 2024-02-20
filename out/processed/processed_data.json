@@ -39970,5 +39970,29 @@
         "provincia": "ALMER\u00cdA"
       }
     ]
+  },
+  "20240220": {
+    "07": [
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.0)",
+        "codEle": "11325703",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.0)",
+        "codEle": "11325703",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      }
+    ],
+    "08": [
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.0)",
+        "codEle": "11325703",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      }
+    ]
   }
 }
