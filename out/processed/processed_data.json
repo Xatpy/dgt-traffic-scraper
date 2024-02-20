@@ -40014,6 +40014,164 @@
         "codEle": "11329147",
         "poblacion": "MUELA (LA)",
         "provincia": "ASTURIAS"
+      },
+      {
+        "alias": "EVENTOS / A-5 (345.0 - 345.0)",
+        "codEle": "11329479",
+        "poblacion": "VIRGEN DE LA LUZ",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-66 (626.0 - 626.0)",
+        "codEle": "11329530",
+        "poblacion": "CARRION",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-8 (272.64 - 272.05)",
+        "codEle": "11329692",
+        "poblacion": "SERDIO",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-8 (173.75 - 173.75)",
+        "codEle": "11329554",
+        "poblacion": "COLINDRES",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-8 (272.23 - 272.61)",
+        "codEle": "11329685",
+        "poblacion": "SERDIO",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-8 (173.75 - 173.75)",
+        "codEle": "11329553",
+        "poblacion": "COLINDRES",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-67 (135.9 - 135.92)",
+        "codEle": "11329708",
+        "poblacion": "REQUEJO",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / N-629 (86.4 - 87.0)",
+        "codEle": "11329631",
+        "poblacion": "COLINDRES",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / N-634 (279.19 - 279.15)",
+        "codEle": "11329721",
+        "poblacion": "SERDIO",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / N-630 (75.0 - 75.5)",
+        "codEle": "11329147",
+        "poblacion": "MUELA (LA)",
+        "provincia": "ASTURIAS"
+      },
+      {
+        "alias": "EVENTOS / A-5 (345.0 - 345.0)",
+        "codEle": "11329479",
+        "poblacion": "VIRGEN DE LA LUZ",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-66 (626.0 - 626.0)",
+        "codEle": "11329530",
+        "poblacion": "CARRION",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-8 (173.75 - 173.75)",
+        "codEle": "11329553",
+        "poblacion": "COLINDRES",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-8 (173.75 - 173.75)",
+        "codEle": "11329554",
+        "poblacion": "COLINDRES",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / N-629 (86.0 - 86.0)",
+        "codEle": "11329518",
+        "poblacion": "COLINDRES",
+        "provincia": "CANTABRIA"
+      }
+    ],
+    "12": [
+      {
+        "alias": "EVENTOS / A-66 (626.0 - 626.0)",
+        "codEle": "11329530",
+        "poblacion": "CARRION",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-5 (345.0 - 345.0)",
+        "codEle": "11329479",
+        "poblacion": "VIRGEN DE LA LUZ",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / BU-P-1001 (6.0 - 6.0)",
+        "codEle": "11330166",
+        "poblacion": "VILLAGONZALO PEDERNALES",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / A-8 (173.75 - 173.75)",
+        "codEle": "11329554",
+        "poblacion": "COLINDRES",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-8 (272.64 - 272.05)",
+        "codEle": "11329692",
+        "poblacion": "SERDIO",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-8 (173.75 - 173.75)",
+        "codEle": "11329553",
+        "poblacion": "COLINDRES",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-8 (272.23 - 272.61)",
+        "codEle": "11329685",
+        "poblacion": "SERDIO",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / N-611 (139.75 - 139.49)",
+        "codEle": "11330677",
+        "poblacion": "VILLAESCUSA",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / N-634 (279.19 - 279.15)",
+        "codEle": "11329721",
+        "poblacion": "SERDIO",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / N-629 (86.4 - 87.0)",
+        "codEle": "11329631",
+        "poblacion": "COLINDRES",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-8 (272.69 - 272.68)",
+        "codEle": "11330045",
+        "poblacion": "SERDIO",
+        "provincia": "CANTABRIA"
       }
     ]
   }
