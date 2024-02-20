@@ -39999,6 +39999,22 @@
         "poblacion": "TERUEL",
         "provincia": "TERUEL"
       }
+    ],
+    "10": [
+      {
+        "alias": "EVENTOS / A-4 (405.0 - 405.0)",
+        "codEle": "11328986",
+        "poblacion": "ALAMEDA DEL OBISPO",
+        "provincia": "C\u00d3RDOBA"
+      }
+    ],
+    "11": [
+      {
+        "alias": "EVENTOS / N-630 (75.0 - 75.5)",
+        "codEle": "11329147",
+        "poblacion": "MUELA (LA)",
+        "provincia": "ASTURIAS"
+      }
     ]
   }
 }
