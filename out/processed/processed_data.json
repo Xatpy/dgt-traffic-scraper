@@ -42230,6 +42230,68 @@
         "codEle": "11344296",
         "poblacion": "BUJARALOZ",
         "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-430 (230.0 - 230.1)",
+        "codEle": "11339323",
+        "poblacion": "PUEBLA DE DON RODRIGO",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-401 (161.2 - 162.0)",
+        "codEle": "11338953",
+        "poblacion": "MALAGON",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-2 (390.0 - 391.5)",
+        "codEle": "11344296",
+        "poblacion": "BUJARALOZ",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (215.0 - 215.0)",
+        "codEle": "11342811",
+        "poblacion": "VILLADOZ",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-430 (230.0 - 230.1)",
+        "codEle": "11339323",
+        "poblacion": "PUEBLA DE DON RODRIGO",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-601 (136.0 - 136.0)",
+        "codEle": "11344497",
+        "poblacion": "PURAS",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / N-601 (136.0 - 136.0)",
+        "codEle": "11344463",
+        "poblacion": "PURAS",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / N-601 (136.0 - 136.0)",
+        "codEle": "11344507",
+        "poblacion": "PURAS",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / N-2 (390.0 - 391.5)",
+        "codEle": "11344296",
+        "poblacion": "BUJARALOZ",
+        "provincia": "ZARAGOZA"
+      }
+    ],
+    "18": [
+      {
+        "alias": "EVENTOS / N-430 (230.0 - 230.1)",
+        "codEle": "11339323",
+        "poblacion": "PUEBLA DE DON RODRIGO",
+        "provincia": "CIUDAD REAL"
       }
     ]
   }
