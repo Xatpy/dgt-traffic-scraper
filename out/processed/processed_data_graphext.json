@@ -14721,6 +14721,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-21T18:39:00+01:00",
+    "alias": "EVENTOS / A-1 (69.0 - 69.0)",
+    "autonomia": "Madrid, Comunidad de",
+    "carretera": "A-1",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11345077",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  - <b>SALIDA</b> de la carretera  <b> <span style=\"color:#ab3000\">A-1 </span> </b> en el <b> km 69</b> en <b>TOMILLERAS (LAS) (MADRID)</b> sentido <b>CRECIENTE DE LA KILOMETRACI\u00d3N</b> hacia <b>BURGOS</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTE DE UN CARRIL</b></span>",
+    "estado": "1",
+    "fecha": "21/02/2024",
+    "fechaFin": "?",
+    "hora": "19:39",
+    "lat": "40.941044",
+    "lng": "-3.6305869",
+    "pkFinal": "69",
+    "pkIni": "69",
+    "poblacion": "TOMILLERAS (LAS)",
+    "provincia": "MADRID",
+    "sentido": "CRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-08T19:22:00+01:00",
     "alias": "EVENTOS / A-92M (8.0 - 9.0)",
     "autonomia": "Andaluc\u00eda",
