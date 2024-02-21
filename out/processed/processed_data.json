@@ -40484,9 +40484,77 @@
         "provincia": "GUADALAJARA"
       },
       {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11336888",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
         "alias": "EVENTOS / N-232 (215.0 - 215.0)",
         "codEle": "11336721",
         "poblacion": "RODEN",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-45 (98.0 - 98.0)",
+        "codEle": "11337197",
+        "poblacion": "CARTAOJAL",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11336888",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / N-320 (290.39 - 290.39)",
+        "codEle": "11336116",
+        "poblacion": "CABANILLAS DEL CAMPO",
+        "provincia": "GUADALAJARA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (215.0 - 215.0)",
+        "codEle": "11336721",
+        "poblacion": "RODEN",
+        "provincia": "ZARAGOZA"
+      }
+    ],
+    "08": [
+      {
+        "alias": "EVENTOS / A-42 (25.0 - 25.0)",
+        "codEle": "11337891",
+        "poblacion": "TORREJON DE LA CALZADA",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / A-45 (98.0 - 98.0)",
+        "codEle": "11337197",
+        "poblacion": "CARTAOJAL",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-357 (47.0 - 47.0)",
+        "codEle": "11337955",
+        "poblacion": "CARTAMA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11337498",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-220 (1.0 - 0.0)",
+        "codEle": "11337501",
+        "poblacion": "ALMUNIA DE DO\u00d1A GODINA (LA)",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (271.0 - 269.0)",
+        "codEle": "11337828",
+        "poblacion": "ALMUNIA DE DO\u00d1A GODINA (LA)",
         "provincia": "ZARAGOZA"
       }
     ]
