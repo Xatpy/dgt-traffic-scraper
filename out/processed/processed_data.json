@@ -40466,5 +40466,29 @@
         "provincia": "CANTABRIA"
       }
     ]
+  },
+  "20240221": {
+    "06": [
+      {
+        "alias": "EVENTOS / N-320 (290.39 - 290.39)",
+        "codEle": "11336116",
+        "poblacion": "CABANILLAS DEL CAMPO",
+        "provincia": "GUADALAJARA"
+      }
+    ],
+    "07": [
+      {
+        "alias": "EVENTOS / N-320 (290.39 - 290.39)",
+        "codEle": "11336116",
+        "poblacion": "CABANILLAS DEL CAMPO",
+        "provincia": "GUADALAJARA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (215.0 - 215.0)",
+        "codEle": "11336721",
+        "poblacion": "RODEN",
+        "provincia": "ZARAGOZA"
+      }
+    ]
   }
 }
