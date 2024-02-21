@@ -41116,6 +41116,228 @@
         "provincia": "C\u00c1CERES"
       },
       {
+        "alias": "EVENTOS / A-33 (60.0 - 60.0)",
+        "codEle": "11340164",
+        "poblacion": "YECLA",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (627.35 - 627.35)",
+        "codEle": "11339910",
+        "poblacion": "VIQUEJOS",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-30 (90.0 - 90.0)",
+        "codEle": "11339722",
+        "poblacion": "RAMBLAS (LAS)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / RM-19 (21.8 - 21.8)",
+        "codEle": "11338027",
+        "poblacion": "SAN CAYETANO",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (611.0 - 611.0)",
+        "codEle": "11340035",
+        "poblacion": "\u00d1ORICA (LA)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-30 (157.44 - 157.44)",
+        "codEle": "11338969",
+        "poblacion": "ZENETA",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-33 (31.0 - 31.0)",
+        "codEle": "11340217",
+        "poblacion": "CARCHE (EL)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11340059",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (215.0 - 215.0)",
+        "codEle": "11338194",
+        "poblacion": "RODEN",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-122 (53.0 - 49.8)",
+        "codEle": "11339767",
+        "poblacion": "AGON",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (214.0 - 216.0)",
+        "codEle": "11338613",
+        "poblacion": "VILLADOZ",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-127 (2.0 - 0.0)",
+        "codEle": "11339778",
+        "poblacion": "URBANIZACION SAN ANTONIO",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (270.0 - 273.0)",
+        "codEle": "11338341",
+        "poblacion": "RICLA",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-68 (286.0 - 289.0)",
+        "codEle": "11339554",
+        "poblacion": "URBANIZACION SAN ANTONIO",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-430 (183.0 - 183.0)",
+        "codEle": "11339329",
+        "poblacion": "GARBAYUELA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / N-430 (230.0 - 230.1)",
+        "codEle": "11339323",
+        "poblacion": "PUEBLA DE DON RODRIGO",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-401 (161.2 - 162.0)",
+        "codEle": "11338953",
+        "poblacion": "MALAGON",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / A-41 (167.0 - 167.1)",
+        "codEle": "11339497",
+        "poblacion": "CIUDAD REAL",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / CC-324 (0.0 - 6.0)",
+        "codEle": "11338967",
+        "poblacion": "ESTACION DE ARROYO-MALPARTIDA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
+        "alias": "EVENTOS / A-7 (627.35 - 627.35)",
+        "codEle": "11340454",
+        "poblacion": "VIQUEJOS",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-30 (90.0 - 90.0)",
+        "codEle": "11340477",
+        "poblacion": "RAMBLAS (LAS)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-33 (60.0 - 60.0)",
+        "codEle": "11340164",
+        "poblacion": "YECLA",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / RM-19 (21.8 - 21.8)",
+        "codEle": "11338027",
+        "poblacion": "SAN CAYETANO",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (611.0 - 611.0)",
+        "codEle": "11340461",
+        "poblacion": "\u00d1ORICA (LA)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-33 (31.0 - 31.0)",
+        "codEle": "11340217",
+        "poblacion": "CARCHE (EL)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11340059",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (215.0 - 215.0)",
+        "codEle": "11338194",
+        "poblacion": "RODEN",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (270.0 - 273.0)",
+        "codEle": "11338341",
+        "poblacion": "RICLA",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-122 (53.0 - 49.8)",
+        "codEle": "11339767",
+        "poblacion": "AGON",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (214.0 - 216.0)",
+        "codEle": "11338613",
+        "poblacion": "VILLADOZ",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-127 (2.0 - 0.0)",
+        "codEle": "11339778",
+        "poblacion": "URBANIZACION SAN ANTONIO",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (301.0 - 300.0)",
+        "codEle": "11340498",
+        "poblacion": "VILLANUEVA DE GALLEGO",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-430 (183.0 - 183.0)",
+        "codEle": "11339329",
+        "poblacion": "GARBAYUELA",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-41 (167.0 - 167.1)",
+        "codEle": "11339497",
+        "poblacion": "CIUDAD REAL",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-401 (161.2 - 162.0)",
+        "codEle": "11338953",
+        "poblacion": "MALAGON",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-430 (230.0 - 230.1)",
+        "codEle": "11339323",
+        "poblacion": "PUEBLA DE DON RODRIGO",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / CC-324 (0.0 - 6.0)",
+        "codEle": "11338967",
+        "poblacion": "ESTACION DE ARROYO-MALPARTIDA",
+        "provincia": "C\u00c1CERES"
+      },
+      {
         "alias": "EVENTOS / RM-19 (21.8 - 21.8)",
         "codEle": "11338027",
         "poblacion": "SAN CAYETANO",
@@ -41191,6 +41413,98 @@
         "alias": "EVENTOS / A-127 (2.0 - 0.0)",
         "codEle": "11339778",
         "poblacion": "URBANIZACION SAN ANTONIO",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (270.0 - 273.0)",
+        "codEle": "11338341",
+        "poblacion": "RICLA",
+        "provincia": "ZARAGOZA"
+      }
+    ],
+    "12": [
+      {
+        "alias": "EVENTOS / N-430 (230.0 - 230.1)",
+        "codEle": "11339323",
+        "poblacion": "PUEBLA DE DON RODRIGO",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-401 (161.2 - 162.0)",
+        "codEle": "11338953",
+        "poblacion": "MALAGON",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / A-41 (167.0 - 167.1)",
+        "codEle": "11339497",
+        "poblacion": "CIUDAD REAL",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / RM-15 (44.0 - 44.0)",
+        "codEle": "11340782",
+        "poblacion": "BULLAS",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / RM-19 (21.8 - 21.8)",
+        "codEle": "11338027",
+        "poblacion": "SAN CAYETANO",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-30 (90.0 - 90.0)",
+        "codEle": "11340477",
+        "poblacion": "RAMBLAS (LAS)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (627.35 - 627.35)",
+        "codEle": "11340980",
+        "poblacion": "VIQUEJOS",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (611.0 - 611.0)",
+        "codEle": "11341004",
+        "poblacion": "\u00d1ORICA (LA)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-33 (60.0 - 60.0)",
+        "codEle": "11340164",
+        "poblacion": "YECLA",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-33 (31.0 - 31.0)",
+        "codEle": "11340972",
+        "poblacion": "CARCHE (EL)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11340059",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-68 (228.0 - 228.0)",
+        "codEle": "11340686",
+        "poblacion": "CARTUJA BAJA",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (214.0 - 216.0)",
+        "codEle": "11338613",
+        "poblacion": "VILLADOZ",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (301.0 - 300.0)",
+        "codEle": "11340498",
+        "poblacion": "VILLANUEVA DE GALLEGO",
         "provincia": "ZARAGOZA"
       },
       {
