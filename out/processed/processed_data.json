@@ -42006,6 +42006,90 @@
         "provincia": "CIUDAD REAL"
       },
       {
+        "alias": "EVENTOS / RM-19 (21.8 - 21.8)",
+        "codEle": "11342680",
+        "poblacion": "SAN CAYETANO",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (612.0 - 612.0)",
+        "codEle": "11343145",
+        "poblacion": "\u00d1ORICA (LA)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-33 (41.0 - 41.0)",
+        "codEle": "11343164",
+        "poblacion": "CARCHE (EL)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (215.0 - 215.0)",
+        "codEle": "11342811",
+        "poblacion": "VILLADOZ",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-430 (230.0 - 230.1)",
+        "codEle": "11339323",
+        "poblacion": "PUEBLA DE DON RODRIGO",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-401 (161.2 - 162.0)",
+        "codEle": "11338953",
+        "poblacion": "MALAGON",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / RM-19 (21.8 - 21.8)",
+        "codEle": "11342680",
+        "poblacion": "SAN CAYETANO",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (612.0 - 612.0)",
+        "codEle": "11343024",
+        "poblacion": "\u00d1ORICA (LA)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-33 (41.0 - 41.0)",
+        "codEle": "11343011",
+        "poblacion": "CARCHE (EL)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-357 (68.95 - 47.0)",
+        "codEle": "11341991",
+        "poblacion": "MALAGA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-45 (142.0 - 98.96)",
+        "codEle": "11342304",
+        "poblacion": "MALAGA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (215.0 - 215.0)",
+        "codEle": "11342811",
+        "poblacion": "VILLADOZ",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-401 (161.2 - 162.0)",
+        "codEle": "11338953",
+        "poblacion": "MALAGON",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-430 (230.0 - 230.1)",
+        "codEle": "11339323",
+        "poblacion": "PUEBLA DE DON RODRIGO",
+        "provincia": "CIUDAD REAL"
+      },
+      {
         "alias": "EVENTOS / A-7 (612.0 - 612.0)",
         "codEle": "11342579",
         "poblacion": "\u00d1ORICA (LA)",
@@ -42046,6 +42130,44 @@
         "codEle": "11342656",
         "poblacion": "VILLARRAPA",
         "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (215.0 - 215.0)",
+        "codEle": "11342811",
+        "poblacion": "VILLADOZ",
+        "provincia": "ZARAGOZA"
+      }
+    ],
+    "16": [
+      {
+        "alias": "EVENTOS / N-430 (230.0 - 230.1)",
+        "codEle": "11339323",
+        "poblacion": "PUEBLA DE DON RODRIGO",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / N-401 (161.2 - 162.0)",
+        "codEle": "11338953",
+        "poblacion": "MALAGON",
+        "provincia": "CIUDAD REAL"
+      },
+      {
+        "alias": "EVENTOS / A-7 (612.0 - 612.0)",
+        "codEle": "11343488",
+        "poblacion": "\u00d1ORICA (LA)",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / RM-19 (21.8 - 21.8)",
+        "codEle": "11342680",
+        "poblacion": "SAN CAYETANO",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-33 (41.0 - 41.0)",
+        "codEle": "11343164",
+        "poblacion": "CARCHE (EL)",
+        "provincia": "MURCIA"
       },
       {
         "alias": "EVENTOS / A-23 (215.0 - 215.0)",
