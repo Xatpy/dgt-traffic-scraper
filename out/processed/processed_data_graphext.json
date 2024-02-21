@@ -19593,6 +19593,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-21T21:40:00+01:00",
+    "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+    "autonomia": "Castilla y Le\u00f3n",
+    "carretera": "N-6",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11345855",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">N-6 </span> </b> en el <b> km 57</b> en <b>GUDILLOS (SEGOVIA)</b> sentido <b>CRECIENTE DE LA KILOMETRACI\u00d3N</b></span>",
+    "estado": "1",
+    "fecha": "21/02/2024",
+    "fechaFin": "?",
+    "hora": "22:40",
+    "lat": "40.708023",
+    "lng": "-4.1423426",
+    "pkFinal": "57",
+    "pkIni": "57",
+    "poblacion": "GUDILLOS",
+    "provincia": "SEGOVIA",
+    "sentido": "CRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-09T12:17:00+01:00",
     "alias": "EVENTOS / CV-10 (76.0 - 76.0)",
     "autonomia": "Comunitat Valenciana",
