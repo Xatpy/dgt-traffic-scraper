@@ -40556,6 +40556,116 @@
         "codEle": "11337828",
         "poblacion": "ALMUNIA DE DO\u00d1A GODINA (LA)",
         "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-42 (25.0 - 25.0)",
+        "codEle": "11338323",
+        "poblacion": "TORREJON DE LA CALZADA",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / RM-19 (21.8 - 21.8)",
+        "codEle": "11338027",
+        "poblacion": "SAN CAYETANO",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-45 (98.0 - 98.0)",
+        "codEle": "11337197",
+        "poblacion": "CARTAOJAL",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-357 (47.0 - 47.0)",
+        "codEle": "11338018",
+        "poblacion": "CARTAMA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11337498",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (215.0 - 215.0)",
+        "codEle": "11338194",
+        "poblacion": "RODEN",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-122 (55.0 - 49.8)",
+        "codEle": "11338254",
+        "poblacion": "MAGALLON",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-127 (1.0 - 0.0)",
+        "codEle": "11338101",
+        "poblacion": "MAGALLON",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (269.0 - 271.0)",
+        "codEle": "11338206",
+        "poblacion": "RICLA",
+        "provincia": "ZARAGOZA"
+      }
+    ],
+    "09": [
+      {
+        "alias": "EVENTOS / RM-15 (42.0 - 42.0)",
+        "codEle": "11338696",
+        "poblacion": "BULLAS",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / RM-19 (21.8 - 21.8)",
+        "codEle": "11338027",
+        "poblacion": "SAN CAYETANO",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / A-45 (98.0 - 98.0)",
+        "codEle": "11337197",
+        "poblacion": "CARTAOJAL",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11337498",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (215.0 - 215.0)",
+        "codEle": "11338194",
+        "poblacion": "RODEN",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-127 (1.0 - 0.0)",
+        "codEle": "11338101",
+        "poblacion": "MAGALLON",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-122 (55.0 - 49.8)",
+        "codEle": "11338254",
+        "poblacion": "MAGALLON",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (214.0 - 216.0)",
+        "codEle": "11338613",
+        "poblacion": "VILLADOZ",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (270.0 - 273.0)",
+        "codEle": "11338341",
+        "poblacion": "RICLA",
+        "provincia": "ZARAGOZA"
       }
     ]
   }
