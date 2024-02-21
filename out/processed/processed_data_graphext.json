@@ -7245,6 +7245,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-21T17:16:00+01:00",
+    "alias": "EVENTOS / N-2 (390.0 - 391.5)",
+    "autonomia": "Arag\u00f3n",
+    "carretera": "N-2",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11344296",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n dif\u00edcil  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">N-2 </span> </b> a la altura de <b>BUJARALOZ (ZARAGOZA)</b> desde el <b> km 390</b> al <b> km 391.5</b> sentido <b>AMBOS SENTIDOS</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTE TOTAL</b></span>",
+    "estado": "1",
+    "fecha": "21/02/2024",
+    "fechaFin": "?",
+    "hora": "18:16",
+    "lat": "41.497086",
+    "lng": "-0.1626046",
+    "pkFinal": "391.5",
+    "pkIni": "390",
+    "poblacion": "BUJARALOZ",
+    "provincia": "ZARAGOZA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-14T17:38:00+01:00",
     "alias": "EVENTOS / A-231 (25.8 - 25.8)",
     "autonomia": "Castilla y Le\u00f3n",
