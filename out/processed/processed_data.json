@@ -42381,7 +42381,45 @@
       },
       {
         "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-1 (69.0 - 69.0)",
+        "codEle": "11345077",
+        "poblacion": "TOMILLERAS (LAS)",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
         "codEle": "11345855",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-1 (69.0 - 69.0)",
+        "codEle": "11345077",
+        "poblacion": "TOMILLERAS (LAS)",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      }
+    ],
+    "23": [
+      {
+        "alias": "EVENTOS / A-1 (69.0 - 69.0)",
+        "codEle": "11345077",
+        "poblacion": "TOMILLERAS (LAS)",
+        "provincia": "MADRID"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
         "poblacion": "GUDILLOS",
         "provincia": "SEGOVIA"
       }
