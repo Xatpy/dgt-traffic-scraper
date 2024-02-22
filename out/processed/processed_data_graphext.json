@@ -20013,6 +20013,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-22T06:40:00+01:00",
+    "alias": "EVENTOS / CV-500 (26.62 - 26.62)",
+    "autonomia": "Comunitat Valenciana",
+    "carretera": "CV-500",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11346824",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">CV-500 </span> </b> en el <b> km 26.62</b> en <b>PERELLO (EL) (VALENCIA/VAL\u00c8NCIA)</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "22/02/2024",
+    "fechaFin": "?",
+    "hora": "07:40",
+    "lat": "39.219032",
+    "lng": "-0.3037327",
+    "pkFinal": "26.62",
+    "pkIni": "26.62",
+    "poblacion": "PERELLO (EL)",
+    "provincia": "VALENCIA/VAL\u00c8NCIA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-14T08:44:00+01:00",
     "alias": "EVENTOS / A-92 (104.0 - 104.0)",
     "autonomia": "Andaluc\u00eda",

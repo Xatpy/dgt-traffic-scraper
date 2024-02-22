@@ -42550,6 +42550,32 @@
         "codEle": "11345906",
         "poblacion": "GUDILLOS",
         "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / CV-500 (26.62 - 26.62)",
+        "codEle": "11346824",
+        "poblacion": "PERELLO (EL)",
+        "provincia": "VALENCIA/VAL\u00c8NCIA"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      }
+    ],
+    "07": [
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / CV-500 (26.62 - 26.62)",
+        "codEle": "11346824",
+        "poblacion": "PERELLO (EL)",
+        "provincia": "VALENCIA/VAL\u00c8NCIA"
       }
     ]
   }
