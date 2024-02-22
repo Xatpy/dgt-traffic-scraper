@@ -42610,10 +42610,24 @@
         "provincia": "SEGOVIA"
       },
       {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
         "alias": "EVENTOS / CV-500 (0.3 - 0.31)",
         "codEle": "11348574",
         "poblacion": "PINEDO",
         "provincia": "VALENCIA/VAL\u00c8NCIA"
+      }
+    ],
+    "09": [
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
       }
     ]
   }
