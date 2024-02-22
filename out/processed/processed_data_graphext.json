@@ -17871,6 +17871,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-22T14:53:00+01:00",
+    "alias": "EVENTOS / N-357 (0.0 - 0.5)",
+    "autonomia": "Andaluc\u00eda",
+    "carretera": "N-357",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11359029",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n dif\u00edcil  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  - <b>T\u00daNEL</b> de la carretera  <b> <span style=\"color:#ab3000\">N-357 </span> </b> a la altura de <b>ALGECIRAS (C\u00c1DIZ)</b> desde el <b> km 0</b> al <b> km 0.5</b> sentido <b>AMBOS SENTIDOS</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTE TOTAL</b></span>",
+    "estado": "1",
+    "fecha": "22/02/2024",
+    "fechaFin": "?",
+    "hora": "15:53",
+    "lat": "36.15772",
+    "lng": "-5.45749",
+    "pkFinal": "0.5",
+    "pkIni": "0",
+    "poblacion": "ALGECIRAS",
+    "provincia": "C\u00c1DIZ",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-16T06:43:00+01:00",
     "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
     "autonomia": "Andaluc\u00eda",
