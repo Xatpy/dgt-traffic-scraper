@@ -42956,6 +42956,68 @@
         "codEle": "11356823",
         "poblacion": "CASTELLAR-OLIVERAL",
         "provincia": "VALENCIA/VAL\u00c8NCIA"
+      },
+      {
+        "alias": "EVENTOS / N-357 (0.1 - 1.9)",
+        "codEle": "11357698",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1117.0 - 1117.0)",
+        "codEle": "11357699",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1116.9 - 1116.9)",
+        "codEle": "11357697",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1117.0 - 1117.0)",
+        "codEle": "11357947",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1116.3 - 1117.0)",
+        "codEle": "11357949",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / N-357 (0.1 - 1.9)",
+        "codEle": "11357883",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1116.9 - 1116.9)",
+        "codEle": "11357946",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      }
+    ],
+    "15": [
+      {
+        "alias": "EVENTOS / A-7 (1116.3 - 1117.0)",
+        "codEle": "11358320",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / N-357 (0.0 - 0.5)",
+        "codEle": "11358289",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
       }
     ]
   }
