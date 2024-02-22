@@ -42808,6 +42808,50 @@
         "codEle": "11345906",
         "poblacion": "GUDILLOS",
         "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1116.9 - 1116.9)",
+        "codEle": "11354718",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / N-357 (0.1 - 1.9)",
+        "codEle": "11354665",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      }
+    ],
+    "13": [
+      {
+        "alias": "EVENTOS / A-7 (1116.9 - 1116.9)",
+        "codEle": "11356703",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1117.0 - 1117.0)",
+        "codEle": "11356705",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / N-357 (0.1 - 1.9)",
+        "codEle": "11356704",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
       }
     ]
   }
