@@ -42628,6 +42628,38 @@
         "codEle": "11345906",
         "poblacion": "GUDILLOS",
         "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      }
+    ],
+    "10": [
+      {
+        "alias": "EVENTOS / A-7 (1116.07 - 1116.07)",
+        "codEle": "11350342",
+        "poblacion": "PALMONES",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / N-6 (57.0 - 57.0)",
+        "codEle": "11345906",
+        "poblacion": "GUDILLOS",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / N-601 (135.0 - 135.0)",
+        "codEle": "11350153",
+        "poblacion": "MONTEJO DE AREVALO",
+        "provincia": "SEGOVIA"
       }
     ]
   }
