@@ -18963,6 +18963,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-22T08:17:00+01:00",
+    "alias": "EVENTOS / CV-500 (0.3 - 0.31)",
+    "autonomia": "Comunitat Valenciana",
+    "carretera": "CV-500",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11348574",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  - <b>SALIDA</b> de la carretera  <b> <span style=\"color:#ab3000\">CV-500 </span> </b> a la altura de <b>PINEDO (VALENCIA/VAL\u00c8NCIA)</b> desde el <b> km 0.3</b> al <b> km 0.31</b> sentido <b>CRECIENTE DE LA KILOMETRACI\u00d3N</b> hacia <b>1A ZAL/ PINEDO</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTE TOTAL</b></span>",
+    "estado": "1",
+    "fecha": "22/02/2024",
+    "fechaFin": "?",
+    "hora": "09:17",
+    "lat": "39.43046",
+    "lng": "-0.3412225",
+    "pkFinal": "0.31",
+    "pkIni": "0.3",
+    "poblacion": "PINEDO",
+    "provincia": "VALENCIA/VAL\u00c8NCIA",
+    "sentido": "CRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-11T11:51:00+01:00",
     "alias": "EVENTOS / AP-4 (44.87 - 45.21)",
     "autonomia": "Andaluc\u00eda",
