@@ -22260,6 +22260,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-23T16:28:00+01:00",
+    "alias": "EVENTOS / A-67 (104.0 - 103.0)",
+    "autonomia": "Castilla y Le\u00f3n",
+    "carretera": "A-67",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11369962",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-67 </span> </b> desde el <b> km 104 </b> en <b>AGUILAR DE CAMPOO (PALENCIA)</b> al <b> km 103</b> en <b>CAMESA DE VALDIVIA (PALENCIA)</b> sentido <b>AMBOS SENTIDOS</b> hacia <b>AMBOS SENTIDOS</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTES INTERMITENTES</b></span>",
+    "estado": "1",
+    "fecha": "23/02/2024",
+    "fechaFin": "?",
+    "hora": "17:28",
+    "lat": "42.784473",
+    "lng": "-4.238398",
+    "pkFinal": "103",
+    "pkIni": "104",
+    "poblacion": "AGUILAR DE CAMPOO",
+    "provincia": "PALENCIA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-09T11:16:00+01:00",
     "alias": "EVENTOS / N-6 (98.0 - 98.0)",
     "autonomia": "Castilla y Le\u00f3n",

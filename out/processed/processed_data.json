@@ -43458,6 +43458,32 @@
         "codEle": "11369158",
         "poblacion": "TERUEL",
         "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / A-67 (103.0 - 103.0)",
+        "codEle": "11366618",
+        "poblacion": "CAMESA DE VALDIVIA",
+        "provincia": "PALENCIA"
+      },
+      {
+        "alias": "EVENTOS / A-67 (104.0 - 103.0)",
+        "codEle": "11369962",
+        "poblacion": "AGUILAR DE CAMPOO",
+        "provincia": "PALENCIA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (116.0 - 116.0)",
+        "codEle": "11369158",
+        "poblacion": "TERUEL",
+        "provincia": "TERUEL"
+      }
+    ],
+    "17": [
+      {
+        "alias": "EVENTOS / A-67 (103.0 - 103.0)",
+        "codEle": "11366618",
+        "poblacion": "CAMESA DE VALDIVIA",
+        "provincia": "PALENCIA"
       }
     ]
   }
