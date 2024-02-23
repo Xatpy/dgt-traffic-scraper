@@ -43124,6 +43124,44 @@
         "codEle": "11363385",
         "poblacion": "CORTIJILLOS",
         "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (70.5 - 70.5)",
+        "codEle": "11363016",
+        "poblacion": "CABEZA DEL BUEY",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11363831",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11363385",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      }
+    ],
+    "09": [
+      {
+        "alias": "EVENTOS / EX-104 (70.5 - 70.5)",
+        "codEle": "11363016",
+        "poblacion": "CABEZA DEL BUEY",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11363810",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11363921",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
       }
     ]
   }
