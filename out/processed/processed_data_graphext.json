@@ -18270,6 +18270,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-23T15:18:00+01:00",
+    "alias": "EVENTOS / A-23 (116.0 - 116.0)",
+    "autonomia": "Arag\u00f3n",
+    "carretera": "A-23",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11369158",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-23 </span> </b> en el <b> km 116</b> en <b>TERUEL (TERUEL)</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "23/02/2024",
+    "fechaFin": "?",
+    "hora": "16:18",
+    "lat": "40.369568",
+    "lng": "-1.0994087",
+    "pkFinal": "116",
+    "pkIni": "116",
+    "poblacion": "TERUEL",
+    "provincia": "TERUEL",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-22T14:05:00+01:00",
     "alias": "EVENTOS / N-357 (0.1 - 1.9)",
     "autonomia": "Andaluc\u00eda",
