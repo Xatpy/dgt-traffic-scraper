@@ -43304,6 +43304,44 @@
         "codEle": "11364695",
         "poblacion": "RUEDA",
         "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (70.5 - 70.5)",
+        "codEle": "11363016",
+        "poblacion": "CABEZA DEL BUEY",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / VP-9902 (0.0 - 0.0)",
+        "codEle": "11364695",
+        "poblacion": "RUEDA",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (70.5 - 70.5)",
+        "codEle": "11363016",
+        "poblacion": "CABEZA DEL BUEY",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / VP-9902 (0.0 - 0.0)",
+        "codEle": "11364695",
+        "poblacion": "RUEDA",
+        "provincia": "VALLADOLID"
+      }
+    ],
+    "12": [
+      {
+        "alias": "EVENTOS / EX-104 (70.5 - 70.5)",
+        "codEle": "11363016",
+        "poblacion": "CABEZA DEL BUEY",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / VP-9902 (0.0 - 0.0)",
+        "codEle": "11364695",
+        "poblacion": "RUEDA",
+        "provincia": "VALLADOLID"
       }
     ]
   }
