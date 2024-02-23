@@ -43368,6 +43368,38 @@
         "codEle": "11366618",
         "poblacion": "CAMESA DE VALDIVIA",
         "provincia": "PALENCIA"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (70.5 - 70.5)",
+        "codEle": "11363016",
+        "poblacion": "CABEZA DEL BUEY",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-67 (103.0 - 103.0)",
+        "codEle": "11366618",
+        "poblacion": "CAMESA DE VALDIVIA",
+        "provincia": "PALENCIA"
+      },
+      {
+        "alias": "EVENTOS / EX-104 (70.5 - 70.5)",
+        "codEle": "11363016",
+        "poblacion": "CABEZA DEL BUEY",
+        "provincia": "BADAJOZ"
+      },
+      {
+        "alias": "EVENTOS / A-67 (103.0 - 103.0)",
+        "codEle": "11366618",
+        "poblacion": "CAMESA DE VALDIVIA",
+        "provincia": "PALENCIA"
+      }
+    ],
+    "14": [
+      {
+        "alias": "EVENTOS / A-67 (103.0 - 103.0)",
+        "codEle": "11366618",
+        "poblacion": "CAMESA DE VALDIVIA",
+        "provincia": "PALENCIA"
       }
     ]
   }
