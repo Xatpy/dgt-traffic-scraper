@@ -18186,6 +18186,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-25T14:59:00+01:00",
+    "alias": "EVENTOS / A-23 (181.0 - 181.0)",
+    "autonomia": "Arag\u00f3n",
+    "carretera": "A-23",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11380963",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-23 </span> </b> en el <b> km 181</b> en <b>POYO DEL CID (EL) (TERUEL)</b> sentido <b>AMBOS SENTIDOS</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTE TOTAL</b></span>",
+    "estado": "1",
+    "fecha": "25/02/2024",
+    "fechaFin": "?",
+    "hora": "15:59",
+    "lat": "40.881126",
+    "lng": "-1.3060117",
+    "pkFinal": "181",
+    "pkIni": "181",
+    "poblacion": "POYO DEL CID (EL)",
+    "provincia": "TERUEL",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-16T06:43:00+01:00",
     "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
     "autonomia": "Andaluc\u00eda",
