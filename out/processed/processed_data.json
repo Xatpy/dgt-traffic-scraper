@@ -43664,6 +43664,32 @@
         "codEle": "11380963",
         "poblacion": "POYO DEL CID (EL)",
         "provincia": "TERUEL"
+      },
+      {
+        "alias": "EVENTOS / A-1605 (5.0 - 5.0)",
+        "codEle": "11381342",
+        "poblacion": "CAPELLA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (181.0 - 181.0)",
+        "codEle": "11380963",
+        "poblacion": "POYO DEL CID (EL)",
+        "provincia": "TERUEL"
+      }
+    ],
+    "17": [
+      {
+        "alias": "EVENTOS / A-1605 (5.0 - 5.0)",
+        "codEle": "11381342",
+        "poblacion": "CAPELLA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-23 (181.0 - 181.0)",
+        "codEle": "11380963",
+        "poblacion": "POYO DEL CID (EL)",
+        "provincia": "TERUEL"
       }
     ]
   }
