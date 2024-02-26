@@ -43754,6 +43754,18 @@
     ],
     "12": [
       {
+        "alias": "EVENTOS / A-6 (314.0 - 314.0)",
+        "codEle": "11390432",
+        "poblacion": "TORALINO DE LA VEGA",
+        "provincia": "LE\u00d3N"
+      },
+      {
+        "alias": "EVENTOS / N-6 (313.0 - 313.0)",
+        "codEle": "11390109",
+        "poblacion": "TORALINO DE LA VEGA",
+        "provincia": "LE\u00d3N"
+      },
+      {
         "alias": "EVENTOS / N-6 (313.0 - 313.0)",
         "codEle": "11390109",
         "poblacion": "TORALINO DE LA VEGA",
@@ -43762,6 +43774,20 @@
       {
         "alias": "EVENTOS / A-6 (314.0 - 314.0)",
         "codEle": "11390082",
+        "poblacion": "TORALINO DE LA VEGA",
+        "provincia": "LE\u00d3N"
+      }
+    ],
+    "13": [
+      {
+        "alias": "EVENTOS / N-6 (313.0 - 313.0)",
+        "codEle": "11390109",
+        "poblacion": "TORALINO DE LA VEGA",
+        "provincia": "LE\u00d3N"
+      },
+      {
+        "alias": "EVENTOS / A-6 (314.0 - 314.0)",
+        "codEle": "11390432",
         "poblacion": "TORALINO DE LA VEGA",
         "provincia": "LE\u00d3N"
       }
