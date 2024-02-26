@@ -24927,6 +24927,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-26T09:12:00+01:00",
+    "alias": "EVENTOS / M-208 (10.0 - 10.0)",
+    "autonomia": "Madrid, Comunidad de",
+    "carretera": "M-208",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11387470",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">M-208 </span> </b> en el <b> km 10</b> en <b>HUERTOS FAMILIARES (MADRID)</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "26/02/2024",
+    "fechaFin": "?",
+    "hora": "10:12",
+    "lat": "40.39742",
+    "lng": "-3.4980946",
+    "pkFinal": "10",
+    "pkIni": "10",
+    "poblacion": "HUERTOS FAMILIARES",
+    "provincia": "MADRID",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-19T15:19:00+01:00",
     "alias": "EVENTOS / A-381 (0.1 - 0.1)",
     "autonomia": "Andaluc\u00eda",

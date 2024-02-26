@@ -43710,5 +43710,15 @@
         "provincia": "TERUEL"
       }
     ]
+  },
+  "20240226": {
+    "09": [
+      {
+        "alias": "EVENTOS / M-208 (10.0 - 10.0)",
+        "codEle": "11387470",
+        "poblacion": "HUERTOS FAMILIARES",
+        "provincia": "MADRID"
+      }
+    ]
   }
 }
