@@ -8064,6 +8064,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-27T20:49:00+01:00",
+    "alias": "EVENTOS / LL-12 (1.0 - 0.0)",
+    "autonomia": "Catalu\u00f1a",
+    "carretera": "LL-12",
+    "causa": "",
+    "codEle": "11405836",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">LL-12 </span> </b> a la altura de <b>ALBATARREC (LLEIDA)</b> desde el <b> km 1</b> al <b> km 0</b> sentido <b>NORTE</b> hacia <b>LLEIDA</b></span>",
+    "estado": "1",
+    "fecha": "27/02/2024",
+    "fechaFin": "?",
+    "hora": "21:49",
+    "lat": "41.565735",
+    "lng": "0.6220854",
+    "pkFinal": "0",
+    "pkIni": "1",
+    "poblacion": "ALBATARREC",
+    "provincia": "LLEIDA",
+    "sentido": "NORTE",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-21T17:16:00+01:00",
     "alias": "EVENTOS / N-2 (390.0 - 391.5)",
     "autonomia": "Arag\u00f3n",
