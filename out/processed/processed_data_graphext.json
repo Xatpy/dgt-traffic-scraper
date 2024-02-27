@@ -22197,6 +22197,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-27T08:35:00+01:00",
+    "alias": "EVENTOS / AP-2 (128.0 - 140.0)",
+    "autonomia": "Catalu\u00f1a",
+    "carretera": "AP-2",
+    "causa": "",
+    "codEle": "11398520",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">AP-2 </span> </b> a la altura de <b>SOSES (LLEIDA)</b> desde el <b> km 128</b> al <b> km 140</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "27/02/2024",
+    "fechaFin": "?",
+    "hora": "09:35",
+    "lat": "41.53977",
+    "lng": "0.4816473",
+    "pkFinal": "140",
+    "pkIni": "128",
+    "poblacion": "SOSES",
+    "provincia": "LLEIDA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-13T10:04:00+01:00",
     "alias": "EVENTOS / A-48 (3.0 - 3.0)",
     "autonomia": "Andaluc\u00eda",
