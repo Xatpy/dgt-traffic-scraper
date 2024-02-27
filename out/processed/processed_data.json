@@ -43853,6 +43853,30 @@
         "poblacion": "TORALINO DE LA VEGA",
         "provincia": "LE\u00d3N"
       }
+    ],
+    "23": [
+      {
+        "alias": "EVENTOS / AP-7 (32.0 - 34.0)",
+        "codEle": "11395888",
+        "poblacion": "CREIXELL",
+        "provincia": "GIRONA"
+      }
+    ]
+  },
+  "20240227": {
+    "01": [
+      {
+        "alias": "EVENTOS / AP-7 (32.0 - 34.0)",
+        "codEle": "11395888",
+        "poblacion": "CREIXELL",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (774.0 - 774.5)",
+        "codEle": "11396119",
+        "poblacion": "CANADAL",
+        "provincia": "GIRONA"
+      }
     ]
   }
 }
