@@ -49956,6 +49956,350 @@
         "codEle": "11405864",
         "poblacion": "ALMOLDA (LA)",
         "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (28.0 - 26.0)",
+        "codEle": "11406402",
+        "poblacion": "VILAMORELL",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-152 (1.0 - 0.0)",
+        "codEle": "11399528",
+        "poblacion": "",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (736.0 - 748.0)",
+        "codEle": "11396119",
+        "poblacion": "ORRIOLS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (29.0 - 47.0)",
+        "codEle": "11395888",
+        "poblacion": "VILAMORELL",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / A-242 (1.4 - 0.0)",
+        "codEle": "11399744",
+        "poblacion": "LITERA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (433.3 - 436.85)",
+        "codEle": "11399743",
+        "poblacion": "FRAGA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (114.0 - 114.0)",
+        "codEle": "11406321",
+        "poblacion": "TORRENTE DE CINCA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / N-230 (128.0 - 129.0)",
+        "codEle": "11401732",
+        "poblacion": "BORDES (LES)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (446.0 - 446.5)",
+        "codEle": "11398442",
+        "poblacion": "SOSES",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (121.0 - 140.0)",
+        "codEle": "11398520",
+        "poblacion": "AITONA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (501.5 - 500.0)",
+        "codEle": "11397847",
+        "poblacion": "VILAGRASSA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (116.0 - 116.5)",
+        "codEle": "11406255",
+        "poblacion": "ALMACELLES",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-260 (354.0 - 353.0)",
+        "codEle": "11401890",
+        "poblacion": "",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-230 (26.0 - 27.0)",
+        "codEle": "11398444",
+        "poblacion": "ALFARRAS",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-22 (17.0 - 17.5)",
+        "codEle": "11401379",
+        "poblacion": "",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / C-14 (136.5 - 135.0)",
+        "codEle": "11399341",
+        "poblacion": "BASSELLA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (510.0 - 514.0)",
+        "codEle": "11397902",
+        "poblacion": "TALLADELL (EL)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / LL-12 (1.0 - 0.0)",
+        "codEle": "11405836",
+        "poblacion": "ALBATARREC",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (67.0 - 67.0)",
+        "codEle": "11405864",
+        "poblacion": "ALMOLDA (LA)",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (28.0 - 26.0)",
+        "codEle": "11406402",
+        "poblacion": "VILAMORELL",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (29.0 - 47.0)",
+        "codEle": "11395888",
+        "poblacion": "VILAMORELL",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (736.0 - 748.0)",
+        "codEle": "11396119",
+        "poblacion": "ORRIOLS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-152 (1.0 - 0.0)",
+        "codEle": "11399528",
+        "poblacion": "",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / A-242 (1.4 - 0.0)",
+        "codEle": "11399744",
+        "poblacion": "LITERA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (433.3 - 436.85)",
+        "codEle": "11399743",
+        "poblacion": "FRAGA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (114.0 - 114.0)",
+        "codEle": "11406321",
+        "poblacion": "TORRENTE DE CINCA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (501.5 - 500.0)",
+        "codEle": "11397847",
+        "poblacion": "VILAGRASSA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-22 (17.0 - 17.5)",
+        "codEle": "11401379",
+        "poblacion": "",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / LL-12 (1.0 - 0.0)",
+        "codEle": "11405836",
+        "poblacion": "ALBATARREC",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (121.0 - 140.0)",
+        "codEle": "11398520",
+        "poblacion": "AITONA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (116.0 - 116.5)",
+        "codEle": "11406255",
+        "poblacion": "ALMACELLES",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-230 (128.0 - 129.0)",
+        "codEle": "11401732",
+        "poblacion": "BORDES (LES)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / C-14 (136.5 - 135.0)",
+        "codEle": "11399341",
+        "poblacion": "BASSELLA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (510.0 - 514.0)",
+        "codEle": "11397902",
+        "poblacion": "TALLADELL (EL)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-260 (354.0 - 353.0)",
+        "codEle": "11401890",
+        "poblacion": "",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (446.0 - 446.5)",
+        "codEle": "11398442",
+        "poblacion": "SOSES",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-230 (26.0 - 27.0)",
+        "codEle": "11398444",
+        "poblacion": "ALFARRAS",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (67.0 - 67.0)",
+        "codEle": "11405864",
+        "poblacion": "ALMOLDA (LA)",
+        "provincia": "ZARAGOZA"
+      }
+    ],
+    "06": [
+      {
+        "alias": "EVENTOS / AP-7 (28.0 - 24.0)",
+        "codEle": "11406402",
+        "poblacion": "VILAMORELL",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (29.0 - 47.0)",
+        "codEle": "11395888",
+        "poblacion": "VILAMORELL",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-152 (1.0 - 0.0)",
+        "codEle": "11399528",
+        "poblacion": "",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (736.0 - 748.0)",
+        "codEle": "11396119",
+        "poblacion": "ORRIOLS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / A-242 (1.4 - 0.0)",
+        "codEle": "11399744",
+        "poblacion": "LITERA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (433.3 - 436.85)",
+        "codEle": "11399743",
+        "poblacion": "FRAGA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (114.0 - 114.0)",
+        "codEle": "11406321",
+        "poblacion": "TORRENTE DE CINCA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / C-14 (136.5 - 135.0)",
+        "codEle": "11399341",
+        "poblacion": "BASSELLA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-230 (26.0 - 27.0)",
+        "codEle": "11398444",
+        "poblacion": "ALFARRAS",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / LL-12 (1.0 - 0.0)",
+        "codEle": "11405836",
+        "poblacion": "ALBATARREC",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (501.5 - 500.0)",
+        "codEle": "11397847",
+        "poblacion": "VILAGRASSA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (121.0 - 140.0)",
+        "codEle": "11398520",
+        "poblacion": "AITONA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (116.0 - 116.5)",
+        "codEle": "11406255",
+        "poblacion": "ALMACELLES",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (446.0 - 446.5)",
+        "codEle": "11398442",
+        "poblacion": "SOSES",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (510.0 - 514.0)",
+        "codEle": "11397902",
+        "poblacion": "TALLADELL (EL)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-22 (17.0 - 17.5)",
+        "codEle": "11401379",
+        "poblacion": "",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-260 (354.0 - 353.0)",
+        "codEle": "11401890",
+        "poblacion": "",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-230 (128.0 - 129.0)",
+        "codEle": "11401732",
+        "poblacion": "BORDES (LES)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (67.0 - 67.0)",
+        "codEle": "11405864",
+        "poblacion": "ALMOLDA (LA)",
+        "provincia": "ZARAGOZA"
       }
     ]
   }
