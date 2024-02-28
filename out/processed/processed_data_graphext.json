@@ -16422,6 +16422,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-02-28T18:39:00+01:00",
+    "alias": "EVENTOS / A-2 (433.3 - 436.85)",
+    "autonomia": "Arag\u00f3n",
+    "carretera": "A-2",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11415182",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-2 </span> </b> a la altura de <b>FRAGA (HUESCA)</b> desde el <b> km 433.3</b> al <b> km 436.85</b> sentido <b>CRECIENTE DE LA KILOMETRACI\u00d3N</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTE TOTAL</b></span>",
+    "estado": "1",
+    "fecha": "28/02/2024",
+    "fechaFin": "?",
+    "hora": "19:39",
+    "lat": "41.50918",
+    "lng": "0.3272221",
+    "pkFinal": "436.85",
+    "pkIni": "433.3",
+    "poblacion": "FRAGA",
+    "provincia": "HUESCA",
+    "sentido": "CRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-16T08:15:00+01:00",
     "alias": "EVENTOS / A-3 (87.0 - 87.0)",
     "autonomia": "Castilla-La Mancha",
