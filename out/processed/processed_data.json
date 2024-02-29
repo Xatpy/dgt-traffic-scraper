@@ -61402,6 +61402,162 @@
     ],
     "18": [
       {
+        "alias": "EVENTOS / BU-535 (1.7 - 1.7)",
+        "codEle": "11423715",
+        "poblacion": "ALTO SAN ROQUE",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / N-1 (317.8 - 317.8)",
+        "codEle": "11423626",
+        "poblacion": "CRUCERO (EL)",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / A-1 (171.0 - 171.0)",
+        "codEle": "11427537",
+        "poblacion": "GUMIEL DE IZAN",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / A-1 (173.0 - 173.0)",
+        "codEle": "11427444",
+        "poblacion": "GUMIEL DE IZAN",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / C-38 (28.0 - 28.5)",
+        "codEle": "11410584",
+        "poblacion": "ROCABRUNA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-2 (736.0 - 748.0)",
+        "codEle": "11396119",
+        "poblacion": "ORRIOLS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-152 (1.0 - 0.0)",
+        "codEle": "11399528",
+        "poblacion": "",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (29.0 - 47.0)",
+        "codEle": "11395888",
+        "poblacion": "VILAMORELL",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (121.3 - 121.3)",
+        "codEle": "11424664",
+        "poblacion": "ALTORRICON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (114.0 - 114.0)",
+        "codEle": "11426052",
+        "poblacion": "TORRENTE DE CINCA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (436.7 - 436.7)",
+        "codEle": "11420329",
+        "poblacion": "FRAGA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-22 (22.0 - 22.0)",
+        "codEle": "11420935",
+        "poblacion": "ALGAYON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-1240 (4.0 - 4.0)",
+        "codEle": "11427047",
+        "poblacion": "ALTORRICON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / A-22 (17.0 - 17.5)",
+        "codEle": "11420993",
+        "poblacion": "",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-260 (354.0 - 353.0)",
+        "codEle": "11401890",
+        "poblacion": "",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (510.0 - 503.0)",
+        "codEle": "11397902",
+        "poblacion": "TALLADELL (EL)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (121.0 - 140.0)",
+        "codEle": "11398520",
+        "poblacion": "AITONA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-230 (128.0 - 129.0)",
+        "codEle": "11401732",
+        "poblacion": "BORDES (LES)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (116.0 - 116.5)",
+        "codEle": "11420995",
+        "poblacion": "ALMACELLES",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / C-14 (75.0 - 75.5)",
+        "codEle": "11409686",
+        "poblacion": "TARREGA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (503.0 - 510.0)",
+        "codEle": "11397847",
+        "poblacion": "VILAGRASSA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / CT-34 (6.0 - 7.0)",
+        "codEle": "11423532",
+        "poblacion": "BARRANCO",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / CV-425 (4.0 - 4.0)",
+        "codEle": "11427134",
+        "poblacion": "BU\u00d1OL",
+        "provincia": "VALENCIA/VAL\u00c8NCIA"
+      },
+      {
+        "alias": "EVENTOS / CV-415 (0.0 - 0.0)",
+        "codEle": "11427367",
+        "poblacion": "PICASSENT",
+        "provincia": "VALENCIA/VAL\u00c8NCIA"
+      },
+      {
+        "alias": "EVENTOS / N-3 (305.0 - 305.0)",
+        "codEle": "11427510",
+        "poblacion": "BU\u00d1OL",
+        "provincia": "VALENCIA/VAL\u00c8NCIA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (67.0 - 67.0)",
+        "codEle": "11418969",
+        "poblacion": "ALMOLDA (LA)",
+        "provincia": "ZARAGOZA"
+      },
+      {
         "alias": "EVENTOS / N-1 (317.8 - 317.8)",
         "codEle": "11423626",
         "poblacion": "CRUCERO (EL)",
@@ -61548,6 +61704,128 @@
       {
         "alias": "EVENTOS / CV-425 (4.0 - 4.0)",
         "codEle": "11427134",
+        "poblacion": "BU\u00d1OL",
+        "provincia": "VALENCIA/VAL\u00c8NCIA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (67.0 - 67.0)",
+        "codEle": "11418969",
+        "poblacion": "ALMOLDA (LA)",
+        "provincia": "ZARAGOZA"
+      }
+    ],
+    "19": [
+      {
+        "alias": "EVENTOS / A-1 (171.0 - 171.0)",
+        "codEle": "11427631",
+        "poblacion": "GUMIEL DE IZAN",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / BU-535 (1.7 - 1.7)",
+        "codEle": "11423715",
+        "poblacion": "ALTO SAN ROQUE",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / N-1 (317.8 - 317.8)",
+        "codEle": "11423626",
+        "poblacion": "CRUCERO (EL)",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / A-1 (173.0 - 173.0)",
+        "codEle": "11427444",
+        "poblacion": "GUMIEL DE IZAN",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / N-2 (736.0 - 748.0)",
+        "codEle": "11396119",
+        "poblacion": "ORRIOLS",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-152 (1.0 - 0.0)",
+        "codEle": "11399528",
+        "poblacion": "",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / C-38 (28.0 - 28.5)",
+        "codEle": "11410584",
+        "poblacion": "ROCABRUNA",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (29.0 - 47.0)",
+        "codEle": "11395888",
+        "poblacion": "VILAMORELL",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (121.3 - 121.3)",
+        "codEle": "11424664",
+        "poblacion": "ALTORRICON",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (114.0 - 114.0)",
+        "codEle": "11426052",
+        "poblacion": "TORRENTE DE CINCA",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / N-260 (354.0 - 353.0)",
+        "codEle": "11401890",
+        "poblacion": "",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-240 (116.0 - 116.5)",
+        "codEle": "11420995",
+        "poblacion": "ALMACELLES",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / AP-2 (121.0 - 140.0)",
+        "codEle": "11398520",
+        "poblacion": "AITONA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (510.0 - 503.0)",
+        "codEle": "11397902",
+        "poblacion": "TALLADELL (EL)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / C-14 (75.0 - 75.5)",
+        "codEle": "11409686",
+        "poblacion": "TARREGA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-230 (128.0 - 129.0)",
+        "codEle": "11401732",
+        "poblacion": "BORDES (LES)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (503.0 - 510.0)",
+        "codEle": "11397847",
+        "poblacion": "VILAGRASSA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / CT-34 (6.0 - 7.0)",
+        "codEle": "11423532",
+        "poblacion": "BARRANCO",
+        "provincia": "MURCIA"
+      },
+      {
+        "alias": "EVENTOS / N-3 (305.0 - 305.0)",
+        "codEle": "11427510",
         "poblacion": "BU\u00d1OL",
         "provincia": "VALENCIA/VAL\u00c8NCIA"
       },
