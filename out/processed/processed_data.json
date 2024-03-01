@@ -65772,6 +65772,54 @@
         "provincia": "CANTABRIA"
       },
       {
+        "alias": "EVENTOS / A-2 (503.0 - 510.0)",
+        "codEle": "11397847",
+        "poblacion": "VILAGRASSA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (510.0 - 503.0)",
+        "codEle": "11397902",
+        "poblacion": "TALLADELL (EL)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / C-14 (118.0 - 117.5)",
+        "codEle": "11438496",
+        "poblacion": "PONTS",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-611 (119.0 - 119.0)",
+        "codEle": "11433389",
+        "poblacion": "MATAPORQUERA",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (510.0 - 503.0)",
+        "codEle": "11397902",
+        "poblacion": "TALLADELL (EL)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / C-14 (118.0 - 117.5)",
+        "codEle": "11438496",
+        "poblacion": "PONTS",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (503.0 - 510.0)",
+        "codEle": "11397847",
+        "poblacion": "VILAGRASSA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / N-611 (119.0 - 119.0)",
+        "codEle": "11433389",
+        "poblacion": "MATAPORQUERA",
+        "provincia": "CANTABRIA"
+      },
+      {
         "alias": "EVENTOS / C-14 (118.0 - 117.5)",
         "codEle": "11438496",
         "poblacion": "PONTS",
@@ -65787,6 +65835,32 @@
         "alias": "EVENTOS / A-2 (510.0 - 503.0)",
         "codEle": "11397902",
         "poblacion": "TALLADELL (EL)",
+        "provincia": "LLEIDA"
+      }
+    ],
+    "23": [
+      {
+        "alias": "EVENTOS / N-611 (119.0 - 119.0)",
+        "codEle": "11433389",
+        "poblacion": "MATAPORQUERA",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (503.0 - 510.0)",
+        "codEle": "11397847",
+        "poblacion": "VILAGRASSA",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (510.0 - 503.0)",
+        "codEle": "11397902",
+        "poblacion": "TALLADELL (EL)",
+        "provincia": "LLEIDA"
+      },
+      {
+        "alias": "EVENTOS / C-14 (118.0 - 117.5)",
+        "codEle": "11438496",
+        "poblacion": "PONTS",
         "provincia": "LLEIDA"
       }
     ]
