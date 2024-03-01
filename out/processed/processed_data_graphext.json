@@ -7644,6 +7644,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-01T05:27:00+01:00",
+    "alias": "EVENTOS / AP-7 (28.6 - 24.2)",
+    "autonomia": "Catalu\u00f1a",
+    "carretera": "AP-7",
+    "causa": "",
+    "codEle": "11429018",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> con circulaci\u00f3n dif\u00edcil  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">AP-7 </span> </b> desde el <b> km 28.6 </b> en <b>VILAMORELL (GIRONA)</b> al <b> km 24.2</b> en <b>TRES CASES (GIRONA)</b> sentido <b>SUR</b> hacia <b>ULLDECONA</b></span>",
+    "estado": "1",
+    "fecha": "01/03/2024",
+    "fechaFin": "?",
+    "hora": "06:27",
+    "lat": "42.22543",
+    "lng": "2.9386935",
+    "pkFinal": "24.2",
+    "pkIni": "28.6",
+    "poblacion": "VILAMORELL",
+    "provincia": "GIRONA",
+    "sentido": "SUR",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-08T15:09:00+01:00",
     "alias": "EVENTOS / N-322 (305.0 - 305.0)",
     "autonomia": "Castilla-La Mancha",
