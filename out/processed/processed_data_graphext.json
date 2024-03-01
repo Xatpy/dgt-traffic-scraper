@@ -24087,6 +24087,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-01T16:45:00+01:00",
+    "alias": "EVENTOS / C-14 (118.0 - 117.5)",
+    "autonomia": "Catalu\u00f1a",
+    "carretera": "C-14",
+    "causa": "",
+    "codEle": "11438496",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">C-14 </span> </b> a la altura de <b>PONTS (LLEIDA)</b> desde el <b> km 118</b> al <b> km 117.5</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "01/03/2024",
+    "fechaFin": "?",
+    "hora": "17:45",
+    "lat": "41.922565",
+    "lng": "1.1933972",
+    "pkFinal": "117.5",
+    "pkIni": "118",
+    "poblacion": "PONTS",
+    "provincia": "LLEIDA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-21T15:58:00+01:00",
     "alias": "EVENTOS / A-7 (612.0 - 612.0)",
     "autonomia": "Murcia, Regi\u00f3n de",
