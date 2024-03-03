@@ -25074,6 +25074,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-03T08:43:00+01:00",
+    "alias": "EVENTOS / A-4 (418.0 - 418.0)",
+    "autonomia": "Andaluc\u00eda",
+    "carretera": "A-4",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11449294",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-4 </span> </b> en el <b> km 418</b> en <b>PUENTE VIEJO (C\u00d3RDOBA)</b> sentido <b>DECRECIENTE DE LA KILOMETRACI\u00d3N</b></span>",
+    "estado": "1",
+    "fecha": "03/03/2024",
+    "fechaFin": "?",
+    "hora": "09:43",
+    "lat": "37.759495",
+    "lng": "-4.827287",
+    "pkFinal": "418",
+    "pkIni": "418",
+    "poblacion": "PUENTE VIEJO",
+    "provincia": "C\u00d3RDOBA",
+    "sentido": "DECRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-11T09:54:00+01:00",
     "alias": "EVENTOS / AP-4 (44.87 - 45.21)",
     "autonomia": "Andaluc\u00eda",

@@ -66626,5 +66626,15 @@
         "provincia": "LLEIDA"
       }
     ]
+  },
+  "20240303": {
+    "08": [
+      {
+        "alias": "EVENTOS / A-4 (418.0 - 418.0)",
+        "codEle": "11449294",
+        "poblacion": "PUENTE VIEJO",
+        "provincia": "C\u00d3RDOBA"
+      }
+    ]
   }
 }
