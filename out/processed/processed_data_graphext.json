@@ -25536,6 +25536,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-04T22:00:00+01:00",
+    "alias": "EVENTOS / A-6 (255.0 - 260.0)",
+    "autonomia": "Castilla y Le\u00f3n",
+    "carretera": "A-6",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11465066",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-6 </span> </b> desde el <b> km 255 </b> en <b>PARADORES DE CASTROGONZALO (ZAMORA)</b> al <b> km 260</b> en <b>BENAVENTE (ZAMORA)</b> sentido <b>AMBOS SENTIDOS</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTE TOTAL</b></span>",
+    "estado": "1",
+    "fecha": "04/03/2024",
+    "fechaFin": "?",
+    "hora": "23:00",
+    "lat": "41.965706",
+    "lng": "-5.5908446",
+    "pkFinal": "260",
+    "pkIni": "255",
+    "poblacion": "PARADORES DE CASTROGONZALO",
+    "provincia": "ZAMORA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-12T13:20:00+01:00",
     "alias": "EVENTOS / N-340 (98.0 - 98.0)",
     "autonomia": "Andaluc\u00eda",
