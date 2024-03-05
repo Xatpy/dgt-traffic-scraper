@@ -66911,6 +66911,40 @@
         "poblacion": "MONTEJO DE AREVALO",
         "provincia": "SEGOVIA"
       }
+    ],
+    "19": [
+      {
+        "alias": "EVENTOS / N-330 (617.0 - 617.0)",
+        "codEle": "11476959",
+        "poblacion": "HOSTAL DE IPIES",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / N-601 (134.0 - 134.0)",
+        "codEle": "11473001",
+        "poblacion": "MONTEJO DE AREVALO",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / N-330 (617.0 - 617.0)",
+        "codEle": "11476959",
+        "poblacion": "HOSTAL DE IPIES",
+        "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / N-601 (134.0 - 134.0)",
+        "codEle": "11473001",
+        "poblacion": "MONTEJO DE AREVALO",
+        "provincia": "SEGOVIA"
+      }
+    ],
+    "20": [
+      {
+        "alias": "EVENTOS / N-601 (134.0 - 134.0)",
+        "codEle": "11473001",
+        "poblacion": "MONTEJO DE AREVALO",
+        "provincia": "SEGOVIA"
+      }
     ]
   }
 }
