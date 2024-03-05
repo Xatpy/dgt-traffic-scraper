@@ -66894,6 +66894,12 @@
     ],
     "18": [
       {
+        "alias": "EVENTOS / N-601 (134.0 - 134.0)",
+        "codEle": "11473001",
+        "poblacion": "MONTEJO DE AREVALO",
+        "provincia": "SEGOVIA"
+      },
+      {
         "alias": "EVENTOS / N-330 (622.0 - 622.0)",
         "codEle": "11476647",
         "poblacion": "RAPUN",
