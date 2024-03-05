@@ -66768,6 +66768,38 @@
         "codEle": "11472170",
         "poblacion": "ESTACION (LA)",
         "provincia": "\u00c1VILA"
+      },
+      {
+        "alias": "EVENTOS / N-601 (134.0 - 134.0)",
+        "codEle": "11473001",
+        "poblacion": "MONTEJO DE AREVALO",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-6 (112.0 - 112.0)",
+        "codEle": "11472170",
+        "poblacion": "ESTACION (LA)",
+        "provincia": "\u00c1VILA"
+      },
+      {
+        "alias": "EVENTOS / N-601 (134.0 - 134.0)",
+        "codEle": "11473001",
+        "poblacion": "MONTEJO DE AREVALO",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-6 (112.0 - 112.0)",
+        "codEle": "11472170",
+        "poblacion": "ESTACION (LA)",
+        "provincia": "\u00c1VILA"
+      }
+    ],
+    "14": [
+      {
+        "alias": "EVENTOS / N-601 (134.0 - 134.0)",
+        "codEle": "11473001",
+        "poblacion": "MONTEJO DE AREVALO",
+        "provincia": "SEGOVIA"
       }
     ]
   }
