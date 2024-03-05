@@ -22428,6 +22428,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-05T16:19:00+01:00",
+    "alias": "EVENTOS / A-6 (111.0 - 111.2)",
+    "autonomia": "Castilla y Le\u00f3n",
+    "carretera": "A-6",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11475337",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-6 </span> </b> desde el <b> km 111 </b> en <b>ADANERO (\u00c1VILA)</b> al <b> km 111.2</b> en <b>ESTACION (LA) (\u00c1VILA)</b> sentido <b>AMBOS SENTIDOS</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTES INTERMITENTES</b></span>",
+    "estado": "1",
+    "fecha": "05/03/2024",
+    "fechaFin": "?",
+    "hora": "17:19",
+    "lat": "40.955383",
+    "lng": "-4.614198",
+    "pkFinal": "111.2",
+    "pkIni": "111",
+    "poblacion": "ADANERO",
+    "provincia": "\u00c1VILA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-11T12:45:00+01:00",
     "alias": "EVENTOS / AP-4 (44.87 - 45.21)",
     "autonomia": "Andaluc\u00eda",

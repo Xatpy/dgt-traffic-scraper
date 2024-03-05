@@ -66840,6 +66840,32 @@
         "codEle": "11473001",
         "poblacion": "MONTEJO DE AREVALO",
         "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / N-601 (134.0 - 134.0)",
+        "codEle": "11473001",
+        "poblacion": "MONTEJO DE AREVALO",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-6 (111.0 - 111.2)",
+        "codEle": "11475337",
+        "poblacion": "ADANERO",
+        "provincia": "\u00c1VILA"
+      }
+    ],
+    "17": [
+      {
+        "alias": "EVENTOS / N-601 (134.0 - 134.0)",
+        "codEle": "11473001",
+        "poblacion": "MONTEJO DE AREVALO",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-6 (111.0 - 111.2)",
+        "codEle": "11475337",
+        "poblacion": "ADANERO",
+        "provincia": "\u00c1VILA"
       }
     ]
   }
