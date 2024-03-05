@@ -66726,5 +66726,23 @@
         "provincia": "ZAMORA"
       }
     ]
+  },
+  "20240305": {
+    "11": [
+      {
+        "alias": "EVENTOS / A-6 (112.0 - 112.0)",
+        "codEle": "11472257",
+        "poblacion": "ESTACION (LA)",
+        "provincia": "\u00c1VILA"
+      }
+    ],
+    "12": [
+      {
+        "alias": "EVENTOS / A-6 (112.0 - 112.0)",
+        "codEle": "11472170",
+        "poblacion": "ESTACION (LA)",
+        "provincia": "\u00c1VILA"
+      }
+    ]
   }
 }
