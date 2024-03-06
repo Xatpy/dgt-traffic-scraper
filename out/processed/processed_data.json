@@ -67054,6 +67054,24 @@
     ],
     "11": [
       {
+        "alias": "EVENTOS / A-1 (107.1 - 107.0)",
+        "codEle": "11482530",
+        "poblacion": "CEREZO DE ARRIBA",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (170.0 - 170.0)",
+        "codEle": "11481727",
+        "poblacion": "ARCOS DE JALON",
+        "provincia": "SORIA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (308.9 - 319.7)",
+        "codEle": "11480650",
+        "poblacion": "AMPOLLA (L')",
+        "provincia": "TARRAGONA"
+      },
+      {
         "alias": "EVENTOS / AP-1 (36.0 - 36.0)",
         "codEle": "11482129",
         "poblacion": "BRIVIESCA",
@@ -67068,6 +67086,68 @@
       {
         "alias": "EVENTOS / A-1 (107.1 - 107.0)",
         "codEle": "11482238",
+        "poblacion": "CEREZO DE ARRIBA",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (170.0 - 170.0)",
+        "codEle": "11481727",
+        "poblacion": "ARCOS DE JALON",
+        "provincia": "SORIA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (308.9 - 319.7)",
+        "codEle": "11480650",
+        "poblacion": "AMPOLLA (L')",
+        "provincia": "TARRAGONA"
+      },
+      {
+        "alias": "EVENTOS / N-627 (53.0 - 53.0)",
+        "codEle": "11481970",
+        "poblacion": "BASCONCILLOS DEL TOZO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / AP-1 (36.0 - 36.0)",
+        "codEle": "11482129",
+        "poblacion": "BRIVIESCA",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / A-1 (107.1 - 107.0)",
+        "codEle": "11482480",
+        "poblacion": "CEREZO DE ARRIBA",
+        "provincia": "SEGOVIA"
+      },
+      {
+        "alias": "EVENTOS / A-2 (170.0 - 170.0)",
+        "codEle": "11481727",
+        "poblacion": "ARCOS DE JALON",
+        "provincia": "SORIA"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (308.9 - 319.7)",
+        "codEle": "11480650",
+        "poblacion": "AMPOLLA (L')",
+        "provincia": "TARRAGONA"
+      }
+    ],
+    "12": [
+      {
+        "alias": "EVENTOS / AP-1 (36.0 - 36.0)",
+        "codEle": "11485691",
+        "poblacion": "BRIVIESCA",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / N-120 (68.0 - 68.0)",
+        "codEle": "11485615",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / A-1 (107.1 - 107.0)",
+        "codEle": "11482530",
         "poblacion": "CEREZO DE ARRIBA",
         "provincia": "SEGOVIA"
       },
