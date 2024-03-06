@@ -29148,6 +29148,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-06T19:41:00+01:00",
+    "alias": "EVENTOS / N-120 (68.0 - 68.0)",
+    "autonomia": "Castilla y Le\u00f3n",
+    "carretera": "N-120",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11490127",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  - <b>CRUCE</b> de la carretera  <b> <span style=\"color:#ab3000\">N-120 </span> </b> en el <b> km 68</b> en <b>BELORADO (BURGOS)</b> sentido <b>AMBOS SENTIDOS</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTE TOTAL</b></span>",
+    "estado": "1",
+    "fecha": "06/03/2024",
+    "fechaFin": "?",
+    "hora": "20:41",
+    "lat": "42.416454",
+    "lng": "-3.209799",
+    "pkFinal": "68",
+    "pkIni": "68",
+    "poblacion": "BELORADO",
+    "provincia": "BURGOS",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-11T17:05:00+01:00",
     "alias": "EVENTOS / A-4 (503.0 - 503.0)",
     "autonomia": "Andaluc\u00eda",

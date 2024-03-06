@@ -67613,6 +67613,14 @@
         "poblacion": "AMPOLLA (L')",
         "provincia": "TARRAGONA"
       }
+    ],
+    "19": [
+      {
+        "alias": "EVENTOS / N-120 (68.0 - 68.0)",
+        "codEle": "11490127",
+        "poblacion": "BELORADO",
+        "provincia": "BURGOS"
+      }
     ]
   }
 }
