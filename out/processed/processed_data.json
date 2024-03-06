@@ -67600,6 +67600,18 @@
         "codEle": "11480650",
         "poblacion": "AMPOLLA (L')",
         "provincia": "TARRAGONA"
+      },
+      {
+        "alias": "EVENTOS / AP-1 (36.0 - 36.0)",
+        "codEle": "11485691",
+        "poblacion": "BRIVIESCA",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / AP-7 (308.9 - 319.7)",
+        "codEle": "11480650",
+        "poblacion": "AMPOLLA (L')",
+        "provincia": "TARRAGONA"
       }
     ]
   }
