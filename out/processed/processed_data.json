@@ -67650,6 +67650,56 @@
         "codEle": "11492331",
         "poblacion": "CORTIJILLOS",
         "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1112.0 - 1112.0)",
+        "codEle": "11492881",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11493054",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1112.0 - 1112.0)",
+        "codEle": "11493257",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-381 (88.0 - 88.0)",
+        "codEle": "11493155",
+        "poblacion": "PUENTE ROMANO",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11493153",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      }
+    ],
+    "08": [
+      {
+        "alias": "EVENTOS / A-7 (1112.0 - 1112.0)",
+        "codEle": "11493574",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1113.0 - 1113.0)",
+        "codEle": "11493777",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-381 (88.0 - 88.0)",
+        "codEle": "11493779",
+        "poblacion": "PUENTE ROMANO",
+        "provincia": "C\u00c1DIZ"
       }
     ]
   }
