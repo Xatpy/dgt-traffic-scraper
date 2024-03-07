@@ -67842,6 +67842,68 @@
         "codEle": "11494905",
         "poblacion": "TORDESILLAS",
         "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1114.0 - 1114.0)",
+        "codEle": "11495872",
+        "poblacion": "PUENTE ROMANO",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-357 (39.55 - 39.81)",
+        "codEle": "11494660",
+        "poblacion": "RIVERA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-62 (148.0 - 148.0)",
+        "codEle": "11494905",
+        "poblacion": "TORDESILLAS",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1114.0 - 1114.0)",
+        "codEle": "11495575",
+        "poblacion": "PUENTE ROMANO",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-357 (39.55 - 39.81)",
+        "codEle": "11494660",
+        "poblacion": "RIVERA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-62 (148.0 - 148.0)",
+        "codEle": "11494905",
+        "poblacion": "TORDESILLAS",
+        "provincia": "VALLADOLID"
+      }
+    ],
+    "11": [
+      {
+        "alias": "EVENTOS / A-7 (1112.0 - 1112.0)",
+        "codEle": "11496127",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-357 (39.55 - 39.81)",
+        "codEle": "11494660",
+        "poblacion": "RIVERA",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-62 (148.0 - 148.0)",
+        "codEle": "11494905",
+        "poblacion": "TORDESILLAS",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / VA-223 (16.0 - 16.0)",
+        "codEle": "11496249",
+        "poblacion": "CAMPASPERO",
+        "provincia": "VALLADOLID"
       }
     ]
   }
