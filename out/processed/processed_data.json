@@ -67986,6 +67986,44 @@
         "codEle": "11496249",
         "poblacion": "CAMPASPERO",
         "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / A-62 (148.0 - 148.0)",
+        "codEle": "11494905",
+        "poblacion": "TORDESILLAS",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / VA-223 (16.0 - 16.0)",
+        "codEle": "11496249",
+        "poblacion": "CAMPASPERO",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / VA-223 (16.0 - 16.0)",
+        "codEle": "11496249",
+        "poblacion": "CAMPASPERO",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / A-62 (148.0 - 148.0)",
+        "codEle": "11494905",
+        "poblacion": "TORDESILLAS",
+        "provincia": "VALLADOLID"
+      }
+    ],
+    "14": [
+      {
+        "alias": "EVENTOS / A-62 (148.0 - 148.0)",
+        "codEle": "11494905",
+        "poblacion": "TORDESILLAS",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / VA-223 (16.0 - 16.0)",
+        "codEle": "11496249",
+        "poblacion": "CAMPASPERO",
+        "provincia": "VALLADOLID"
       }
     ]
   }
