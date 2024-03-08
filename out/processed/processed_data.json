@@ -68262,6 +68262,56 @@
         "codEle": "11513572",
         "poblacion": "ESTACION (LA)",
         "provincia": "\u00c1VILA"
+      },
+      {
+        "alias": "EVENTOS / N-122 (342.0 - 342.0)",
+        "codEle": "11512917",
+        "poblacion": "TRASPINEDO",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / A-6 (111.4 - 111.4)",
+        "codEle": "11513572",
+        "poblacion": "ESTACION (LA)",
+        "provincia": "\u00c1VILA"
+      },
+      {
+        "alias": "EVENTOS / N-122 (342.0 - 342.0)",
+        "codEle": "11512917",
+        "poblacion": "TRASPINEDO",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / A-6 (111.4 - 111.4)",
+        "codEle": "11513572",
+        "poblacion": "ESTACION (LA)",
+        "provincia": "\u00c1VILA"
+      }
+    ],
+    "17": [
+      {
+        "alias": "EVENTOS / N-122 (342.0 - 342.0)",
+        "codEle": "11512917",
+        "poblacion": "TRASPINEDO",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / A-62 (195.0 - 195.0)",
+        "codEle": "11514630",
+        "poblacion": "CASTRILLO DE LA GUARE\u00d1A",
+        "provincia": "ZAMORA"
+      },
+      {
+        "alias": "EVENTOS / A-62 (195.0 - 195.0)",
+        "codEle": "11514631",
+        "poblacion": "CASTRILLO DE LA GUARE\u00d1A",
+        "provincia": "ZAMORA"
+      },
+      {
+        "alias": "EVENTOS / A-6 (111.4 - 111.4)",
+        "codEle": "11513572",
+        "poblacion": "ESTACION (LA)",
+        "provincia": "\u00c1VILA"
       }
     ]
   }
