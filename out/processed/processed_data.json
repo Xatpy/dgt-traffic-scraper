@@ -68090,5 +68090,23 @@
         "provincia": "VALLADOLID"
       }
     ]
+  },
+  "20240308": {
+    "06": [
+      {
+        "alias": "EVENTOS / B-20 (13.5 - 16.5)",
+        "codEle": "11504827",
+        "poblacion": "BARCELONA",
+        "provincia": "BARCELONA"
+      }
+    ],
+    "07": [
+      {
+        "alias": "EVENTOS / B-20 (13.5 - 16.5)",
+        "codEle": "11504827",
+        "poblacion": "BARCELONA",
+        "provincia": "BARCELONA"
+      }
+    ]
   }
 }

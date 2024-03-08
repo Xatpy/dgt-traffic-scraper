@@ -2646,6 +2646,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-08T06:27:00+01:00",
+    "alias": "EVENTOS / B-20 (13.5 - 16.5)",
+    "autonomia": "Catalu\u00f1a",
+    "carretera": "B-20",
+    "causa": "",
+    "codEle": "11504827",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">B-20 </span> </b> a la altura de <b>BARCELONA (BARCELONA)</b> desde el <b> km 13.5</b> al <b> km 16.5</b> sentido <b>SUR</b> hacia <b>NUS LLOBREGAT</b></span>",
+    "estado": "1",
+    "fecha": "08/03/2024",
+    "fechaFin": "?",
+    "hora": "07:27",
+    "lat": "41.443016",
+    "lng": "2.1705415",
+    "pkFinal": "16.5",
+    "pkIni": "13.5",
+    "poblacion": "BARCELONA",
+    "provincia": "BARCELONA",
+    "sentido": "SUR",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-28T20:12:00+01:00",
     "alias": "EVENTOS / C-26 (267.0 - 268.0)",
     "autonomia": "Catalu\u00f1a",
