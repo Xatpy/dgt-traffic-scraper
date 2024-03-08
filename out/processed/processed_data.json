@@ -68296,6 +68296,18 @@
         "provincia": "VALLADOLID"
       },
       {
+        "alias": "EVENTOS / N-122 (342.0 - 342.0)",
+        "codEle": "11512917",
+        "poblacion": "TRASPINEDO",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / N-122 (342.0 - 342.0)",
+        "codEle": "11512917",
+        "poblacion": "TRASPINEDO",
+        "provincia": "VALLADOLID"
+      },
+      {
         "alias": "EVENTOS / A-62 (195.0 - 195.0)",
         "codEle": "11514630",
         "poblacion": "CASTRILLO DE LA GUARE\u00d1A",
@@ -68312,6 +68324,14 @@
         "codEle": "11513572",
         "poblacion": "ESTACION (LA)",
         "provincia": "\u00c1VILA"
+      }
+    ],
+    "18": [
+      {
+        "alias": "EVENTOS / C-13 (128.0 - 128.5)",
+        "codEle": "11515323",
+        "poblacion": "SORT",
+        "provincia": "LLEIDA"
       }
     ]
   }
