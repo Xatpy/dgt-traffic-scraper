@@ -68197,6 +68197,34 @@
         "poblacion": "PUENTE DE GENAVE",
         "provincia": "JA\u00c9N"
       }
+    ],
+    "14": [
+      {
+        "alias": "EVENTOS / N-122 (342.0 - 342.0)",
+        "codEle": "11512917",
+        "poblacion": "TRASPINEDO",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / N-122 (342.0 - 342.0)",
+        "codEle": "11512741",
+        "poblacion": "TRASPINEDO",
+        "provincia": "VALLADOLID"
+      }
+    ],
+    "15": [
+      {
+        "alias": "EVENTOS / N-122 (342.0 - 342.0)",
+        "codEle": "11512917",
+        "poblacion": "TRASPINEDO",
+        "provincia": "VALLADOLID"
+      },
+      {
+        "alias": "EVENTOS / A-6 (111.4 - 111.4)",
+        "codEle": "11513425",
+        "poblacion": "ESTACION (LA)",
+        "provincia": "\u00c1VILA"
+      }
     ]
   }
 }
