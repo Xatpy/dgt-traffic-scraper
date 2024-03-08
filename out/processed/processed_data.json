@@ -68146,6 +68146,32 @@
         "codEle": "11507767",
         "poblacion": "PUENTE DE GENAVE",
         "provincia": "JA\u00c9N"
+      },
+      {
+        "alias": "EVENTOS / N-322 (223.0 - 223.0)",
+        "codEle": "11507768",
+        "poblacion": "PUENTE DE GENAVE",
+        "provincia": "JA\u00c9N"
+      },
+      {
+        "alias": "EVENTOS / N-322 (223.0 - 223.0)",
+        "codEle": "11507767",
+        "poblacion": "PUENTE DE GENAVE",
+        "provincia": "JA\u00c9N"
+      }
+    ],
+    "11": [
+      {
+        "alias": "EVENTOS / N-322 (223.0 - 223.0)",
+        "codEle": "11507768",
+        "poblacion": "PUENTE DE GENAVE",
+        "provincia": "JA\u00c9N"
+      },
+      {
+        "alias": "EVENTOS / N-322 (223.0 - 223.0)",
+        "codEle": "11507767",
+        "poblacion": "PUENTE DE GENAVE",
+        "provincia": "JA\u00c9N"
       }
     ]
   }
