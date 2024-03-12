@@ -68590,5 +68590,15 @@
         "provincia": "TARRAGONA"
       }
     ]
+  },
+  "20240312": {
+    "08": [
+      {
+        "alias": "EVENTOS / C-243B (17.0 - 18.0)",
+        "codEle": "11545780",
+        "poblacion": "ESPIELLS",
+        "provincia": "BARCELONA"
+      }
+    ]
   }
 }

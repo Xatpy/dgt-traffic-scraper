@@ -19782,6 +19782,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-12T08:22:00+01:00",
+    "alias": "EVENTOS / C-243B (17.0 - 18.0)",
+    "autonomia": "Catalu\u00f1a",
+    "carretera": "C-243B",
+    "causa": "",
+    "codEle": "11545780",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">C-243B </span> </b> desde el <b> km 17 </b> en <b>ESPIELLS (BARCELONA)</b> al <b> km 18</b> en <b>SANT SADURNI D'ANOIA (BARCELONA)</b> sentido <b>NORTE</b> hacia <b>GELIDA</b></span>",
+    "estado": "1",
+    "fecha": "12/03/2024",
+    "fechaFin": "?",
+    "hora": "09:22",
+    "lat": "41.427765",
+    "lng": "1.8084278",
+    "pkFinal": "18",
+    "pkIni": "17",
+    "poblacion": "ESPIELLS",
+    "provincia": "BARCELONA",
+    "sentido": "NORTE",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-12T15:12:00+01:00",
     "alias": "EVENTOS / A-4 (441.0 - 441.0)",
     "autonomia": "Andaluc\u00eda",
