@@ -68714,6 +68714,26 @@
         "codEle": "11545780",
         "poblacion": "SANT SADURNI D'ANOIA",
         "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / AL-14 (0.0 - 1.48)",
+        "codEle": "11547906",
+        "poblacion": "CASTELL DEL REY",
+        "provincia": "ALMER\u00cdA"
+      },
+      {
+        "alias": "EVENTOS / C-243B (17.5 - 18.0)",
+        "codEle": "11545780",
+        "poblacion": "SANT SADURNI D'ANOIA",
+        "provincia": "BARCELONA"
+      }
+    ],
+    "13": [
+      {
+        "alias": "EVENTOS / C-243B (17.5 - 18.0)",
+        "codEle": "11545780",
+        "poblacion": "SANT SADURNI D'ANOIA",
+        "provincia": "BARCELONA"
       }
     ]
   }
