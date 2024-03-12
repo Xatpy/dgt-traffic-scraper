@@ -68599,6 +68599,34 @@
         "poblacion": "ESPIELLS",
         "provincia": "BARCELONA"
       }
+    ],
+    "09": [
+      {
+        "alias": "EVENTOS / C-243B (17.0 - 18.0)",
+        "codEle": "11545780",
+        "poblacion": "ESPIELLS",
+        "provincia": "BARCELONA"
+      }
+    ],
+    "10": [
+      {
+        "alias": "EVENTOS / A-7 (814.31 - 814.31)",
+        "codEle": "11546868",
+        "poblacion": "SANTA MARIA DEL AGUILA",
+        "provincia": "ALMER\u00cdA"
+      },
+      {
+        "alias": "EVENTOS / A-7 (769.0 - 769.0)",
+        "codEle": "11547233",
+        "poblacion": "ALQUIAN (EL)",
+        "provincia": "ALMER\u00cdA"
+      },
+      {
+        "alias": "EVENTOS / C-243B (17.0 - 18.0)",
+        "codEle": "11545780",
+        "poblacion": "ESPIELLS",
+        "provincia": "BARCELONA"
+      }
     ]
   }
 }
