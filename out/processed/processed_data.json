@@ -68891,6 +68891,22 @@
         "poblacion": "ALMAZAN",
         "provincia": "SORIA"
       }
+    ],
+    "15": [
+      {
+        "alias": "EVENTOS / CL-101 (72.0 - 71.5)",
+        "codEle": "11560648",
+        "poblacion": "ALMAZAN",
+        "provincia": "SORIA"
+      }
+    ],
+    "16": [
+      {
+        "alias": "EVENTOS / CL-101 (72.0 - 71.5)",
+        "codEle": "11560648",
+        "poblacion": "ALMAZAN",
+        "provincia": "SORIA"
+      }
     ]
   }
 }
