@@ -68842,6 +68842,38 @@
     ],
     "13": [
       {
+        "alias": "EVENTOS / A-357 (65.0 - 65.0)",
+        "codEle": "11560664",
+        "poblacion": "CAMPANILLAS",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / CL-101 (72.0 - 71.5)",
+        "codEle": "11560648",
+        "poblacion": "ALMAZAN",
+        "provincia": "SORIA"
+      },
+      {
+        "alias": "EVENTOS / A-357 (65.0 - 65.0)",
+        "codEle": "11561030",
+        "poblacion": "CAMPANILLAS",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / CL-101 (72.0 - 71.5)",
+        "codEle": "11560648",
+        "poblacion": "ALMAZAN",
+        "provincia": "SORIA"
+      },
+      {
+        "alias": "EVENTOS / CL-101 (72.0 - 71.5)",
+        "codEle": "11560648",
+        "poblacion": "ALMAZAN",
+        "provincia": "SORIA"
+      }
+    ],
+    "14": [
+      {
         "alias": "EVENTOS / CL-101 (72.0 - 71.5)",
         "codEle": "11560648",
         "poblacion": "ALMAZAN",
