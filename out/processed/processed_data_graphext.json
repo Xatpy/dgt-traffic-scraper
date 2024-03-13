@@ -26943,6 +26943,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-13T08:43:00+01:00",
+    "alias": "EVENTOS / A-357 (63.0 - 63.0)",
+    "autonomia": "Andaluc\u00eda",
+    "carretera": "A-357",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11557158",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-357 </span> </b> en el <b> km 63</b> en <b>CAMPANILLAS (M\u00c1LAGA)</b> sentido <b>CRECIENTE DE LA KILOMETRACI\u00d3N</b></span>",
+    "estado": "1",
+    "fecha": "13/03/2024",
+    "fechaFin": "?",
+    "hora": "09:43",
+    "lat": "36.711014",
+    "lng": "-4.5288405",
+    "pkFinal": "63",
+    "pkIni": "63",
+    "poblacion": "CAMPANILLAS",
+    "provincia": "M\u00c1LAGA",
+    "sentido": "CRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-11T18:18:00+01:00",
     "alias": "EVENTOS / N-240 (198.0 - 198.0)",
     "autonomia": "Arag\u00f3n",
