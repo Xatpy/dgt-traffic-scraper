@@ -68839,6 +68839,14 @@
         "poblacion": "CAMPANILLAS",
         "provincia": "M\u00c1LAGA"
       }
+    ],
+    "13": [
+      {
+        "alias": "EVENTOS / CL-101 (72.0 - 71.5)",
+        "codEle": "11560648",
+        "poblacion": "ALMAZAN",
+        "provincia": "SORIA"
+      }
     ]
   }
 }
