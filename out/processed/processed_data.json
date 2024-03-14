@@ -68942,6 +68942,20 @@
         "codEle": "11575448",
         "poblacion": "VILLADANGOS DEL PARAMO",
         "provincia": "LE\u00d3N"
+      },
+      {
+        "alias": "EVENTOS / N-120 (323.3 - 323.3)",
+        "codEle": "11575676",
+        "poblacion": "VILLADANGOS DEL PARAMO",
+        "provincia": "LE\u00d3N"
+      }
+    ],
+    "17": [
+      {
+        "alias": "EVENTOS / N-120 (322.3 - 321.7)",
+        "codEle": "11576168",
+        "poblacion": "VILLADANGOS DEL PARAMO",
+        "provincia": "LE\u00d3N"
       }
     ]
   }
