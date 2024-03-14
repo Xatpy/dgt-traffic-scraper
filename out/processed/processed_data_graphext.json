@@ -21987,6 +21987,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-14T16:12:00+01:00",
+    "alias": "EVENTOS / N-120 (323.0 - 323.0)",
+    "autonomia": "Castilla y Le\u00f3n",
+    "carretera": "N-120",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11575448",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">N-120 </span> </b> en el <b> km 323</b> en <b>VILLADANGOS DEL PARAMO (LE\u00d3N)</b> sentido <b>DECRECIENTE DE LA KILOMETRACI\u00d3N</b></span>",
+    "estado": "1",
+    "fecha": "14/03/2024",
+    "fechaFin": "?",
+    "hora": "17:12",
+    "lat": "42.5209",
+    "lng": "-5.762777",
+    "pkFinal": "323",
+    "pkIni": "323",
+    "poblacion": "VILLADANGOS DEL PARAMO",
+    "provincia": "LE\u00d3N",
+    "sentido": "DECRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-10T09:20:00+01:00",
     "alias": "EVENTOS / A-92 (200.0 - 200.0)",
     "autonomia": "Andaluc\u00eda",
