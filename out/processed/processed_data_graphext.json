@@ -19341,6 +19341,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-15T14:28:00+01:00",
+    "alias": "EVENTOS / A-139 (0.4 - 0.5)",
+    "autonomia": "Arag\u00f3n",
+    "carretera": "A-139",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11586592",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-139 </span> </b> a la altura de <b>GRAUS (HUESCA)</b> desde el <b> km 0.4</b> al <b> km 0.5</b> sentido <b>AMBOS SENTIDOS</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTES INTERMITENTES</b></span>",
+    "estado": "1",
+    "fecha": "15/03/2024",
+    "fechaFin": "?",
+    "hora": "15:28",
+    "lat": "42.183094",
+    "lng": "0.3360641",
+    "pkFinal": "0.5",
+    "pkIni": "0.4",
+    "poblacion": "GRAUS",
+    "provincia": "HUESCA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-03-13T13:30:00+01:00",
     "alias": "EVENTOS / A-357 (65.0 - 65.0)",
     "autonomia": "Andaluc\u00eda",
