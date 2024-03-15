@@ -11928,6 +11928,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-15T18:53:00+01:00",
+    "alias": "EVENTOS / N-601 (177.0 - 177.0)",
+    "autonomia": "Castilla y Le\u00f3n",
+    "carretera": "N-601",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11589295",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">N-601 </span> </b> en el <b> km 177</b> en <b>BOECILLO (VALLADOLID)</b> sentido <b>DECRECIENTE DE LA KILOMETRACI\u00d3N</b></span>",
+    "estado": "1",
+    "fecha": "15/03/2024",
+    "fechaFin": "?",
+    "hora": "19:53",
+    "lat": "41.534904",
+    "lng": "-4.702302",
+    "pkFinal": "177",
+    "pkIni": "177",
+    "poblacion": "BOECILLO",
+    "provincia": "VALLADOLID",
+    "sentido": "DECRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-13T16:39:00+01:00",
     "alias": "EVENTOS / A-3 (77.0 - 77.0)",
     "autonomia": "Castilla-La Mancha",
