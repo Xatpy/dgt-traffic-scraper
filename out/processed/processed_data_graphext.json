@@ -24213,6 +24213,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-15T16:34:00+01:00",
+    "alias": "EVENTOS / C-16 (70.0 - 71.0)",
+    "autonomia": "Catalu\u00f1a",
+    "carretera": "C-16",
+    "causa": "",
+    "codEle": "11587996",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">C-16 </span> </b> a la altura de <b>BALSARENY (BARCELONA)</b> desde el <b> km 70</b> al <b> km 71</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "15/03/2024",
+    "fechaFin": "?",
+    "hora": "17:34",
+    "lat": "41.87539",
+    "lng": "1.8760507",
+    "pkFinal": "71",
+    "pkIni": "70",
+    "poblacion": "BALSARENY",
+    "provincia": "BARCELONA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-21T14:19:00+01:00",
     "alias": "EVENTOS / A-33 (60.0 - 60.0)",
     "autonomia": "Murcia, Regi\u00f3n de",

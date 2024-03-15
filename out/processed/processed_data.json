@@ -69028,6 +69028,32 @@
         "codEle": "11586592",
         "poblacion": "GRAUS",
         "provincia": "HUESCA"
+      },
+      {
+        "alias": "EVENTOS / C-16 (70.0 - 71.0)",
+        "codEle": "11587996",
+        "poblacion": "BALSARENY",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / A-139 (0.4 - 0.5)",
+        "codEle": "11586592",
+        "poblacion": "GRAUS",
+        "provincia": "HUESCA"
+      }
+    ],
+    "17": [
+      {
+        "alias": "EVENTOS / C-16 (71.0 - 70.0)",
+        "codEle": "11587996",
+        "poblacion": "BALSARENY",
+        "provincia": "BARCELONA"
+      },
+      {
+        "alias": "EVENTOS / A-139 (0.4 - 0.5)",
+        "codEle": "11586592",
+        "poblacion": "GRAUS",
+        "provincia": "HUESCA"
       }
     ]
   }
