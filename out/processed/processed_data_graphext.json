@@ -30975,6 +30975,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-15T09:02:00+01:00",
+    "alias": "EVENTOS / VA-20 (0.0 - 0.0)",
+    "autonomia": "Castilla y Le\u00f3n",
+    "carretera": "VA-20",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11582125",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">VA-20 </span> </b> en el <b> km 0</b> en <b>OVERUELA (LA) (VALLADOLID)</b> sentido <b>DECRECIENTE DE LA KILOMETRACI\u00d3N</b></span>",
+    "estado": "1",
+    "fecha": "15/03/2024",
+    "fechaFin": "?",
+    "hora": "10:02",
+    "lat": "41.68296",
+    "lng": "-4.73199",
+    "pkFinal": "0",
+    "pkIni": "0",
+    "poblacion": "OVERUELA (LA)",
+    "provincia": "VALLADOLID",
+    "sentido": "DECRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-09T11:20:00+01:00",
     "alias": "EVENTOS / A-7 (378.0 - 378.0)",
     "autonomia": "Comunitat Valenciana",
