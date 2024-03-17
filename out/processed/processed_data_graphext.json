@@ -23583,6 +23583,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-17T10:40:00+01:00",
+    "alias": "EVENTOS / C-251 (8.5 - 10.0)",
+    "autonomia": "Catalu\u00f1a",
+    "carretera": "C-251",
+    "causa": "",
+    "codEle": "11599352",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">C-251 </span> </b> desde el <b> km 8.5 </b> en <b>PLA MORATO (BARCELONA)</b> al <b> km 10</b> en <b>LLINARS DEL VALLES (BARCELONA)</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "17/03/2024",
+    "fechaFin": "?",
+    "hora": "11:40",
+    "lat": "41.63772",
+    "lng": "2.370086",
+    "pkFinal": "10",
+    "pkIni": "8.5",
+    "poblacion": "PLA MORATO",
+    "provincia": "BARCELONA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-19T15:19:00+01:00",
     "alias": "EVENTOS / A-381 (0.1 - 0.1)",
     "autonomia": "Andaluc\u00eda",

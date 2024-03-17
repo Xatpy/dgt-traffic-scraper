@@ -69152,5 +69152,15 @@
         "provincia": "HUESCA"
       }
     ]
+  },
+  "20240317": {
+    "11": [
+      {
+        "alias": "EVENTOS / C-251 (8.5 - 10.0)",
+        "codEle": "11599352",
+        "poblacion": "PLA MORATO",
+        "provincia": "BARCELONA"
+      }
+    ]
   }
 }
