@@ -69190,6 +69190,44 @@
         "codEle": "11609400",
         "poblacion": "SAN JUAN DEL PUERTO",
         "provincia": "HUELVA"
+      },
+      {
+        "alias": "EVENTOS / A-67 (204.4 - 204.4)",
+        "codEle": "11610130",
+        "poblacion": "PE\u00d1ACASTILLO",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-49 (75.0 - 75.0)",
+        "codEle": "11609400",
+        "poblacion": "SAN JUAN DEL PUERTO",
+        "provincia": "HUELVA"
+      },
+      {
+        "alias": "EVENTOS / A-67 (204.4 - 204.4)",
+        "codEle": "11610130",
+        "poblacion": "PE\u00d1ACASTILLO",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-49 (75.0 - 75.0)",
+        "codEle": "11609400",
+        "poblacion": "SAN JUAN DEL PUERTO",
+        "provincia": "HUELVA"
+      }
+    ],
+    "11": [
+      {
+        "alias": "EVENTOS / A-67 (204.4 - 204.4)",
+        "codEle": "11610130",
+        "poblacion": "PE\u00d1ACASTILLO",
+        "provincia": "CANTABRIA"
+      },
+      {
+        "alias": "EVENTOS / A-49 (75.0 - 75.0)",
+        "codEle": "11609400",
+        "poblacion": "SAN JUAN DEL PUERTO",
+        "provincia": "HUELVA"
       }
     ]
   }
