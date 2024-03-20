@@ -19740,6 +19740,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-20T21:03:00+01:00",
+    "alias": "EVENTOS / A-6 (422.0 - 422.1)",
+    "autonomia": "Castilla y Le\u00f3n",
+    "carretera": "A-6",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11655403",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-6 </span> </b> a la altura de <b>VEGA DE VALCARCE (LE\u00d3N)</b> desde el <b> km 422</b> al <b> km 422.1</b> sentido <b>CRECIENTE DE LA KILOMETRACI\u00d3N</b> hacia <b>CORU\u00d1A</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTE TOTAL</b></span>",
+    "estado": "1",
+    "fecha": "20/03/2024",
+    "fechaFin": "?",
+    "hora": "22:03",
+    "lat": "42.66829",
+    "lng": "-6.946458",
+    "pkFinal": "422.1",
+    "pkIni": "422",
+    "poblacion": "VEGA DE VALCARCE",
+    "provincia": "LE\u00d3N",
+    "sentido": "CRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-15T12:29:00+01:00",
     "alias": "EVENTOS / A-1 (118.5 - 118.6)",
     "autonomia": "Castilla y Le\u00f3n",

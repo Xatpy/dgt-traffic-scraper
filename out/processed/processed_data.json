@@ -69254,5 +69254,15 @@
         "provincia": "HUELVA"
       }
     ]
+  },
+  "20240320": {
+    "21": [
+      {
+        "alias": "EVENTOS / A-6 (422.0 - 422.1)",
+        "codEle": "11655403",
+        "poblacion": "VEGA DE VALCARCE",
+        "provincia": "LE\u00d3N"
+      }
+    ]
   }
 }
