@@ -69565,6 +69565,40 @@
         "poblacion": "TORTOSA",
         "provincia": "TARRAGONA"
       }
+    ],
+    "20": [
+      {
+        "alias": "EVENTOS / AP-1 (42.8 - 42.8)",
+        "codEle": "11674697",
+        "poblacion": "CAMENO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / AP-1 (42.8 - 42.8)",
+        "codEle": "11674696",
+        "poblacion": "CAMENO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / AP-1 (42.8 - 42.8)",
+        "codEle": "11674819",
+        "poblacion": "CAMENO",
+        "provincia": "BURGOS"
+      },
+      {
+        "alias": "EVENTOS / AP-1 (42.8 - 42.8)",
+        "codEle": "11674818",
+        "poblacion": "CAMENO",
+        "provincia": "BURGOS"
+      }
+    ],
+    "21": [
+      {
+        "alias": "EVENTOS / AP-1 (42.8 - 42.8)",
+        "codEle": "11674929",
+        "poblacion": "CAMENO",
+        "provincia": "BURGOS"
+      }
     ]
   }
 }
