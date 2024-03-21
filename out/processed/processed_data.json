@@ -69325,6 +69325,14 @@
         "poblacion": "VEGA DE VALCARCE",
         "provincia": "LE\u00d3N"
       }
+    ],
+    "07": [
+      {
+        "alias": "EVENTOS / A-31 (40.0 - 40.0)",
+        "codEle": "11657049",
+        "poblacion": "RODA (LA)",
+        "provincia": "ALBACETE"
+      }
     ]
   }
 }

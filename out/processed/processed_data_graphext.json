@@ -30597,6 +30597,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-21T06:51:00+01:00",
+    "alias": "EVENTOS / A-31 (40.0 - 40.0)",
+    "autonomia": "Castilla-La Mancha",
+    "carretera": "A-31",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11657049",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-31 </span> </b> en el <b> km 40</b> en <b>RODA (LA) (ALBACETE)</b> sentido <b>CRECIENTE DE LA KILOMETRACI\u00d3N</b></span>",
+    "estado": "1",
+    "fecha": "21/03/2024",
+    "fechaFin": "?",
+    "hora": "07:51",
+    "lat": "39.20308",
+    "lng": "-2.1450145",
+    "pkFinal": "40",
+    "pkIni": "40",
+    "poblacion": "RODA (LA)",
+    "provincia": "ALBACETE",
+    "sentido": "CRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-13T12:16:00+01:00",
     "alias": "EVENTOS / A-384 (14.0 - 22.0)",
     "autonomia": "Andaluc\u00eda",
