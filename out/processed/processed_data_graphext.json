@@ -24885,6 +24885,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-21T09:43:00+01:00",
+    "alias": "EVENTOS / A-4 (420.0 - 420.1)",
+    "autonomia": "Andaluc\u00eda",
+    "carretera": "A-4",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11663509",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-4 </span> </b> a la altura de <b>VALCHILLON (C\u00d3RDOBA)</b> desde el <b> km 420</b> al <b> km 420.1</b> sentido <b>AMBOS SENTIDOS</b></span><span style=\"margin-top:10px; float:left; clear:both\"> Advertencia: <b>CORTES INTERMITENTES</b></span>",
+    "estado": "1",
+    "fecha": "21/03/2024",
+    "fechaFin": "?",
+    "hora": "10:43",
+    "lat": "37.74883",
+    "lng": "-4.845063",
+    "pkFinal": "420.1",
+    "pkIni": "420",
+    "poblacion": "VALCHILLON",
+    "provincia": "C\u00d3RDOBA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-03-08T16:58:00+01:00",
     "alias": "EVENTOS / A-62 (195.0 - 195.0)",
     "autonomia": "Castilla y Le\u00f3n",
