@@ -69404,6 +69404,30 @@
         "codEle": "11658629",
         "poblacion": "TORTOSA",
         "provincia": "TARRAGONA"
+      },
+      {
+        "alias": "EVENTOS / A-4 (420.0 - 420.1)",
+        "codEle": "11662720",
+        "poblacion": "VALCHILLON",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / C-12 (18.6 - 19.6)",
+        "codEle": "11658629",
+        "poblacion": "TORTOSA",
+        "provincia": "TARRAGONA"
+      },
+      {
+        "alias": "EVENTOS / A-4 (420.0 - 420.1)",
+        "codEle": "11662720",
+        "poblacion": "VALCHILLON",
+        "provincia": "C\u00d3RDOBA"
+      },
+      {
+        "alias": "EVENTOS / C-12 (18.6 - 19.6)",
+        "codEle": "11658629",
+        "poblacion": "TORTOSA",
+        "provincia": "TARRAGONA"
       }
     ]
   }
