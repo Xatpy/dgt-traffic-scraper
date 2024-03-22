@@ -30177,6 +30177,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-22T06:14:00+01:00",
+    "alias": "EVENTOS / A-7 (545.0 - 545.0)",
+    "autonomia": "Comunitat Valenciana",
+    "carretera": "A-7",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11676686",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-7 </span> </b> en el <b> km 545</b> en <b>REDOVAN (ALICANTE/ALACANT)</b> sentido <b>CRECIENTE DE LA KILOMETRACI\u00d3N</b></span>",
+    "estado": "1",
+    "fecha": "22/03/2024",
+    "fechaFin": "?",
+    "hora": "07:14",
+    "lat": "38.132675",
+    "lng": "-0.9483163",
+    "pkFinal": "545",
+    "pkIni": "545",
+    "poblacion": "REDOVAN",
+    "provincia": "ALICANTE/ALACANT",
+    "sentido": "CRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-12T09:19:00+01:00",
     "alias": "EVENTOS / A-31 (61.0 - 61.0)",
     "autonomia": "Castilla-La Mancha",

@@ -69612,5 +69612,15 @@
         "provincia": "BURGOS"
       }
     ]
+  },
+  "20240322": {
+    "06": [
+      {
+        "alias": "EVENTOS / A-7 (545.0 - 545.0)",
+        "codEle": "11676686",
+        "poblacion": "REDOVAN",
+        "provincia": "ALICANTE/ALACANT"
+      }
+    ]
   }
 }
