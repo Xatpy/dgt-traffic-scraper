@@ -69622,5 +69622,15 @@
         "provincia": "ALICANTE/ALACANT"
       }
     ]
+  },
+  "20240323": {
+    "11": [
+      {
+        "alias": "EVENTOS / C-1412a (55.0 - 55.5)",
+        "codEle": "11701632",
+        "poblacion": "JORBA",
+        "provincia": "BARCELONA"
+      }
+    ]
   }
 }

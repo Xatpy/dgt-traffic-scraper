@@ -30555,6 +30555,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-23T11:02:00+01:00",
+    "alias": "EVENTOS / C-1412a (55.0 - 55.5)",
+    "autonomia": "Catalu\u00f1a",
+    "carretera": "C-1412a",
+    "causa": "",
+    "codEle": "11701632",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> con circulaci\u00f3n dif\u00edcil  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">C-1412a </span> </b> a la altura de <b>JORBA (BARCELONA)</b> desde el <b> km 55</b> al <b> km 55.5</b> sentido <b>AMBOS SENTIDOS</b> hacia <b>PAS ALTERNATIU</b></span>",
+    "estado": "1",
+    "fecha": "23/03/2024",
+    "fechaFin": "?",
+    "hora": "12:02",
+    "lat": "41.61528",
+    "lng": "1.5299214",
+    "pkFinal": "55.5",
+    "pkIni": "55",
+    "poblacion": "JORBA",
+    "provincia": "BARCELONA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-19T09:40:00+01:00",
     "alias": "EVENTOS / Ma-15 (41.26 - 41.26)",
     "autonomia": "Balears, Illes",
