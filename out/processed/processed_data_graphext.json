@@ -18123,6 +18123,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-27T11:29:00+01:00",
+    "alias": "EVENTOS / N-627 (75.0 - 75.0)",
+    "autonomia": "Castilla y Le\u00f3n",
+    "carretera": "N-627",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "11758083",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">N-627 </span> </b> en el <b> km 75</b> en <b>CAMESA DE VALDIVIA (PALENCIA)</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "27/03/2024",
+    "fechaFin": "?",
+    "hora": "12:29",
+    "lat": "42.783443",
+    "lng": "-4.2280016",
+    "pkFinal": "75",
+    "pkIni": "75",
+    "poblacion": "CAMESA DE VALDIVIA",
+    "provincia": "PALENCIA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-21T15:28:00+01:00",
     "alias": "EVENTOS / A-7 (612.0 - 612.0)",
     "autonomia": "Murcia, Regi\u00f3n de",
