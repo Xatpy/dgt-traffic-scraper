@@ -69702,6 +69702,42 @@
         "provincia": "PALENCIA"
       },
       {
+        "alias": "EVENTOS / N-232 (218.0 - 218.0)",
+        "codEle": "11762344",
+        "poblacion": "PARAJE SIMON",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-68 (263.0 - 263.0)",
+        "codEle": "11760944",
+        "poblacion": "ALAGON",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-627 (75.0 - 75.0)",
+        "codEle": "11758083",
+        "poblacion": "CAMESA DE VALDIVIA",
+        "provincia": "PALENCIA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (218.0 - 218.0)",
+        "codEle": "11762139",
+        "poblacion": "PARAJE SIMON",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / A-68 (263.0 - 263.0)",
+        "codEle": "11760944",
+        "poblacion": "ALAGON",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-627 (75.0 - 75.0)",
+        "codEle": "11758083",
+        "poblacion": "CAMESA DE VALDIVIA",
+        "provincia": "PALENCIA"
+      },
+      {
         "alias": "EVENTOS / A-68 (263.0 - 263.0)",
         "codEle": "11760944",
         "poblacion": "ALAGON",
@@ -69710,6 +69746,26 @@
       {
         "alias": "EVENTOS / N-232 (218.0 - 218.0)",
         "codEle": "11760965",
+        "poblacion": "PARAJE SIMON",
+        "provincia": "ZARAGOZA"
+      }
+    ],
+    "15": [
+      {
+        "alias": "EVENTOS / N-627 (75.0 - 75.0)",
+        "codEle": "11758083",
+        "poblacion": "CAMESA DE VALDIVIA",
+        "provincia": "PALENCIA"
+      },
+      {
+        "alias": "EVENTOS / A-68 (263.0 - 263.0)",
+        "codEle": "11760944",
+        "poblacion": "ALAGON",
+        "provincia": "ZARAGOZA"
+      },
+      {
+        "alias": "EVENTOS / N-232 (218.0 - 218.0)",
+        "codEle": "11762739",
         "poblacion": "PARAJE SIMON",
         "provincia": "ZARAGOZA"
       }
