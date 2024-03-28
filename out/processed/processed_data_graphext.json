@@ -19887,6 +19887,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-03-28T17:01:00+01:00",
+    "alias": "EVENTOS / N-240 (30.0 - 25.0)",
+    "autonomia": "Catalu\u00f1a",
+    "carretera": "N-240",
+    "causa": "",
+    "codEle": "11781026",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">N-240 </span> </b> a la altura de <b>MONTBLANC (TARRAGONA)</b> desde el <b> km 30</b> al <b> km 25</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "28/03/2024",
+    "fechaFin": "?",
+    "hora": "18:01",
+    "lat": "41.348423",
+    "lng": "1.2142905",
+    "pkFinal": "25",
+    "pkIni": "30",
+    "poblacion": "MONTBLANC",
+    "provincia": "TARRAGONA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-11T09:24:00+01:00",
     "alias": "EVENTOS / A-471R1 (16.04 - 16.0)",
     "autonomia": "Andaluc\u00eda",
