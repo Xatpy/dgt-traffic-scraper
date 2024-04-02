@@ -70249,6 +70249,28 @@
         "poblacion": "CASTELLO D'EMPURIES",
         "provincia": "GIRONA"
       }
+    ],
+    "21": [
+      {
+        "alias": "EVENTOS / C-260 (35.5 - 40.0)",
+        "codEle": "11864522",
+        "poblacion": "CASTELLO D'EMPURIES",
+        "provincia": "GIRONA"
+      },
+      {
+        "alias": "EVENTOS / C-260 (35.5 - 40.0)",
+        "codEle": "11864522",
+        "poblacion": "CASTELLO D'EMPURIES",
+        "provincia": "GIRONA"
+      }
+    ],
+    "22": [
+      {
+        "alias": "EVENTOS / C-260 (35.5 - 40.0)",
+        "codEle": "11864522",
+        "poblacion": "CASTELLO D'EMPURIES",
+        "provincia": "GIRONA"
+      }
     ]
   }
 }
