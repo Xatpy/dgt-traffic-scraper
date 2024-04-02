@@ -29190,6 +29190,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-04-02T19:47:00+01:00",
+    "alias": "EVENTOS / C-260 (35.5 - 40.0)",
+    "autonomia": "Catalu\u00f1a",
+    "carretera": "C-260",
+    "causa": "",
+    "codEle": "11864522",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> con circulaci\u00f3n interrumpida  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">C-260 </span> </b> desde el <b> km 35.5 </b> en <b>CASTELLO D'EMPURIES (GIRONA)</b> al <b> km 40</b> en <b>EMPURIABRAVA (GIRONA)</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "02/04/2024",
+    "fechaFin": "?",
+    "hora": "20:47",
+    "lat": "42.2514",
+    "lng": "3.0799947",
+    "pkFinal": "40",
+    "pkIni": "35.5",
+    "poblacion": "CASTELLO D'EMPURIES",
+    "provincia": "GIRONA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-15T12:29:00+01:00",
     "alias": "EVENTOS / A-1 (118.5 - 118.6)",
     "autonomia": "Castilla y Le\u00f3n",
