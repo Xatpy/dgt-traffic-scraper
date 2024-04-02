@@ -69896,6 +69896,24 @@
   "20240402": {
     "05": [
       {
+        "alias": "EVENTOS / A-7 (1115.0 - 1115.0)",
+        "codEle": "11847782",
+        "poblacion": "PUENTE ROMANO",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1112.0 - 1112.0)",
+        "codEle": "11847780",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-381 (88.0 - 88.0)",
+        "codEle": "11847859",
+        "poblacion": "PUENTE ROMANO",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
         "alias": "EVENTOS / A-7 (1112.0 - 1112.0)",
         "codEle": "11847598",
         "poblacion": "CORTIJILLOS",
@@ -69904,6 +69922,56 @@
       {
         "alias": "EVENTOS / A-7 (1115.0 - 1115.0)",
         "codEle": "11847600",
+        "poblacion": "PUENTE ROMANO",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1112.0 - 1112.0)",
+        "codEle": "11847748",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1115.0 - 1115.0)",
+        "codEle": "11847816",
+        "poblacion": "PUENTE ROMANO",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-381 (88.0 - 88.0)",
+        "codEle": "11847818",
+        "poblacion": "PUENTE ROMANO",
+        "provincia": "C\u00c1DIZ"
+      }
+    ],
+    "06": [
+      {
+        "alias": "EVENTOS / A-7 (1115.0 - 1115.0)",
+        "codEle": "11848788",
+        "poblacion": "PUENTE ROMANO",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1116.5 - 1116.5)",
+        "codEle": "11848843",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1112.0 - 1112.0)",
+        "codEle": "11848786",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1116.5 - 1116.5)",
+        "codEle": "11848791",
+        "poblacion": "ALGECIRAS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-381 (88.0 - 88.0)",
+        "codEle": "11848842",
         "poblacion": "PUENTE ROMANO",
         "provincia": "C\u00c1DIZ"
       }
