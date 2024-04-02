@@ -70156,6 +70156,38 @@
         "codEle": "11855235",
         "poblacion": "PUENTE ROMANO",
         "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-381 (88.0 - 88.0)",
+        "codEle": "11855055",
+        "poblacion": "PUENTE ROMANO",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1114.0 - 1114.0)",
+        "codEle": "11855235",
+        "poblacion": "PUENTE ROMANO",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1112.0 - 1112.0)",
+        "codEle": "11855233",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      },
+      {
+        "alias": "EVENTOS / A-7 (1112.0 - 1112.0)",
+        "codEle": "11856026",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
+      }
+    ],
+    "11": [
+      {
+        "alias": "EVENTOS / A-7 (1112.0 - 1112.0)",
+        "codEle": "11856399",
+        "poblacion": "CORTIJILLOS",
+        "provincia": "C\u00c1DIZ"
       }
     ]
   }
