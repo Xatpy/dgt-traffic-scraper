@@ -70595,7 +70595,19 @@
     "07": [
       {
         "alias": "EVENTOS / A-7056 (0.0 - 0.0)",
+        "codEle": "12206645",
+        "poblacion": "CAMPANILLAS",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7056 (0.0 - 0.0)",
         "codEle": "12204755",
+        "poblacion": "CAMPANILLAS",
+        "provincia": "M\u00c1LAGA"
+      },
+      {
+        "alias": "EVENTOS / A-7056 (0.0 - 0.0)",
+        "codEle": "12205975",
         "poblacion": "CAMPANILLAS",
         "provincia": "M\u00c1LAGA"
       }
