@@ -70611,6 +70611,14 @@
         "poblacion": "CAMPANILLAS",
         "provincia": "M\u00c1LAGA"
       }
+    ],
+    "09": [
+      {
+        "alias": "EVENTOS / A-139 (0.5 - 0.5)",
+        "codEle": "12208987",
+        "poblacion": "GRAUS",
+        "provincia": "HUESCA"
+      }
     ]
   }
 }

@@ -21819,6 +21819,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-04-23T10:23:00+01:00",
+    "alias": "EVENTOS / A-139 (0.5 - 0.5)",
+    "autonomia": "Arag\u00f3n",
+    "carretera": "A-139",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "12208987",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-139 </span> </b> en el <b> km 0.5</b> en <b>GRAUS (HUESCA)</b> sentido <b>AMBOS SENTIDOS</b></span>",
+    "estado": "1",
+    "fecha": "23/04/2024",
+    "fechaFin": "?",
+    "hora": "11:23",
+    "lat": "42.18398",
+    "lng": "0.3362774",
+    "pkFinal": "0.5",
+    "pkIni": "0.5",
+    "poblacion": "GRAUS",
+    "provincia": "HUESCA",
+    "sentido": "AMBOS SENTIDOS",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-16T19:01:00+01:00",
     "alias": "EVENTOS / N-240 (303.0 - 303.0)",
     "autonomia": "Arag\u00f3n",
