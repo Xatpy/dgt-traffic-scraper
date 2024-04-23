@@ -26082,6 +26082,27 @@
     "tipo": "Incidencia"
   },
   {
+    "_date": "2024-04-23T07:30:00+01:00",
+    "alias": "EVENTOS / A-7056 (0.0 - 0.0)",
+    "autonomia": "Andaluc\u00eda",
+    "carretera": "A-7056",
+    "causa": "ORDEN P\u00daBLICO",
+    "codEle": "12204755",
+    "descripcion": "<span style=\"margin-top:10px; float:left; clear:both\"> <b>ACTIVIDADES (MANIFESTACI\u00d3N)</b> por <b>ORDEN P\u00daBLICO</b> con circulaci\u00f3n irregular  en<b></b>: </span> <span style=\"margin-top:10px; float:left; clear:both\">  -  La carretera  <b> <span style=\"color:#ab3000\">A-7056 </span> </b> en el <b> km 0</b> en <b>CAMPANILLAS (M\u00c1LAGA)</b> sentido <b>DECRECIENTE DE LA KILOMETRACI\u00d3N</b></span>",
+    "estado": "1",
+    "fecha": "23/04/2024",
+    "fechaFin": "?",
+    "hora": "08:30",
+    "lat": "36.71888",
+    "lng": "-4.55544",
+    "pkFinal": "0",
+    "pkIni": "0",
+    "poblacion": "CAMPANILLAS",
+    "provincia": "M\u00c1LAGA",
+    "sentido": "DECRECIENTE DE LA KILOMETRACI\u00d3N",
+    "tipo": "Incidencia"
+  },
+  {
     "_date": "2024-02-21T06:34:00+01:00",
     "alias": "EVENTOS / N-320 (290.39 - 290.39)",
     "autonomia": "Castilla-La Mancha",
